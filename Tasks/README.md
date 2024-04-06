@@ -146,11 +146,12 @@ We have segregated the bills that are incurred by Guest ID=1 in MySQL Database u
 - Designed Initial Sketches for the website and user interface.
 - Drafted Readme Report with explanations.
 4. Rohit Srivastava
-   1. Attended Initial Meeting on website ideation
+- Attended Initial Meeting on website ideation
 4. Banavath Diraj Naik
-   1. Attended Initial Meeting on website ideation
+- Attended Initial Meeting on website ideation
 4. Sohitha Sonalika.
 - Attended Initial Meeting on website ideation
+- Created Initial Contacts page
 7. Shivamani
 - Attended Initial Meeting on website ideation
 - Created feedback page for admin (hospitality\_staff dashboard) view
