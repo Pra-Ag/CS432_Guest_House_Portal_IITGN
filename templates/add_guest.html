@@ -1,0 +1,29 @@
+{% extends 'hospitality_staff_dashboard.html' %}
+
+{% block content %}
+
+<h1>Check-In</h1>
+
+<div id="checkInForms">
+    <!-- Add check-in forms dynamically based on the number of people -->
+    {% for form in forms %}
+        <h2>Guest {{ loop.index }}</h2>
+        <form>
+            {{ form.csrf_token }}
+            {{ form.first_name.label }} {{ form.first_name }}
+            {{ form.last_name.label }} {{ form.last_name }}
+            {{ form.age.label }} {{ form.age}}
+            {{ form.email_id.label }} {{ form.email_id }}
+            {{ form.phone_no.label }} {{ form.phone_no }}
+            {{ form.guest_category.label }} {{ form.guest_category }}
+            {{ form.street.label }} {{ form.street }}
+            {{ form.state.label }} {{ form.state }}
+            {{ form.country.label }} {{ form.country }}
+            {{ form.pincode.label }} {{ form.pincode }}
+            {{ form.visit_purpose.label }} {{ form.visit_purpose }}
+            {{ form.submit }}
+        </form>
+    {% endfor %}
+</div>
+
+{% endblock %}

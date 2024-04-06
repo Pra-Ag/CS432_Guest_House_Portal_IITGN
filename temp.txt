@@ -1,0 +1,19 @@
+
+<li><a href="{{ url_for('booking') }}">Make a Reservation</a></li>
+<li><a href="{{ url_for('check_in') }}">Check-in</a></li>
+<li><a href="{{ url_for('check_out') }}">Check-out</a></li>
+<li><a href="{{ url_for('maintenance_request') }}">Maintenance Request</a></li>
+<li><a href="{{ url_for('travel_request') }}">Travel Request</a></li>
+<li><a href="{{ url_for('logout') }}">Logout</a></li>
+{% else %}
+<li><a href="{{ url_for('login') }}">Login</a></li>
+<li><a href="{{ url_for('register') }}">Register</a></li>
+
+
+
+    <form method="POST" action="{{ url_for('maintenance_request') }}">
+        {{ form.csrf_token }}
+        {{ form.description.label }} {{ form.description }}
+        {{ form.room_no.label }} {{ form.room_no }}
+        {{ form.submit }}
+    </form>
