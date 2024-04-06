@@ -3,11 +3,35 @@
     <h1>Travel Request</h1>
     <form method="POST" action="{{ url_for('current_guest_dashboard.guest_travel_request') }}">
         {{ form.csrf_token }}
-        {{ form.number_of_travellers.label }} {{ form.number_of_travellers }}
-        {{ form.date_of_travel.label }} {{ form.date_of_travel }}
-        {{ form.pick_up_time.label }} {{ form.pick_up_time }}
-        {{ form.destination.label }} {{ form.destination }}
-        {{ form.travel_purpose.label }} {{ form.travel_purpose }}
-        {{ form.submit }}
+        <div class="row mt-3">
+            <div class="col">
+                {{ form.number_of_travellers.label }} {{ form.number_of_travellers }}
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="col">
+                {{ form.date_of_travel.label }} {{ form.date_of_travel }}
+            </div>
+            <div class="col">
+                {{ form.pick_up_time.label }} <br>{{ form.pick_up_time }}
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="col">
+                {{ form.destination.label }} {{ form.destination }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                {{ form.travel_purpose.label }} {{ form.travel_purpose }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                {{ form.submit }}
+            </div>
+        </div>
     </form>
 {% endblock %}

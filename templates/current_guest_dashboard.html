@@ -108,20 +108,19 @@ footer {
             {% endif %}
         {% endwith %}
         {% block content %}
-            <h2>Welcome, {{ currentguest.first_name }}</h2>
+            <h2 class="text-center">Welcome, {{ currentguest.first_name }}</h2>
 
-            <h3>Your Wifi Password is : {{ assignment.wifi_password }}</h3>
+            <h4>Your Wifi Password is : {{ assignment.wifi_password }}</h4>
 
-            <h3> Open Travel Requests </h3>
+            <h4> Open Travel Requests </h4>
 
-            <h3> Closed Travel Requests </h3>
+            <h4> Closed Travel Requests </h4>
 
 
 
         {% endblock %}
     </main>
-    
-    </div>
+      </div>
     
     <div class="footer2">
         <footer class="footer py-2">

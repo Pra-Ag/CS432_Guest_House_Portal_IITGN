@@ -5,7 +5,7 @@ from flask_login import login_required
 from sqlalchemy import func
 from flask_login import LoginManager, UserMixin, login_user, logout_user, login_required, current_user
 from forms import BookingForm, CheckInForm, CheckOutForm, MaintenanceRequestForm, TravelRequestForm, LoginForm, RegistrationForm,  enter_guest_idForm
-from models import db, current_guest, Room, hospitality_staff, iitgn_member, Reservation, Bill,  maintenance_request, PastGuests, Feedback, travel_request, Assignment, RequiresMaintenance, ManagesMaintenance, ManagesReservation, IncursBill, Makes, GeneratesBill, InitiatedTravelRequest
+from models import db, driver, current_guest, Room, hospitality_staff, housekeeping_staff, iitgn_member, Reservation, Bill,  maintenance_request, PastGuests, Feedback, travel_request, Assignment, RequiresMaintenance, ManagesMaintenance, ManagesReservation, IncursBill, Makes, GeneratesBill, InitiatedTravelRequest
 from random import choices
 import string
 
@@ -114,7 +114,6 @@ admin = Blueprint('hospitality_staff_dashboard', __name__)
 #     return render_template('room_assignment.html', reservation=reservation, available_rooms=available_rooms)
     
 
-
 # ROUTES FOR CHECK-IN
 
 @admin.route('/hospitality_staff_dashboard/check_in', methods=['GET'])
@@ -129,7 +128,7 @@ def check_in():
 @login_required
 def add_guest(reservation_id):
 
-    i=0
+    i=0;
 
     reservation = Reservation.query.filter_by(reservation_id=reservation_id).first()
     no_of_guests = reservation.number_of_people
@@ -176,7 +175,7 @@ def assign_room(guest_id, reservation_id):
     render_template('assign_room.html')
 
 
-
+# ROUTES FOR CHECK-OUT
 
 @admin.route('/hospitality_staff_dashboard/check_out', methods=['GET', 'POST'])
 @login_required
@@ -193,6 +192,9 @@ def check_out():
 @admin.route('/hospitality_staff_dashboard/travel_request', methods=['GET', 'POST'])
 @login_required
 def travel_requests():
+
+    unassigned_travel_requests = travel_request.query.filter_by(driver_license=None).all()
+
     form = TravelRequestForm()
     if form.validate_on_submit():
         # Handle travel request form submission
@@ -212,14 +214,41 @@ def travel_requests():
         db.session.commit()
         flash('Travel request submitted successfully!', 'success')
         return redirect(url_for('hospitality_staff_dashboard.travel_requests'))
-    return render_template('travel_request.html', form=form)
+    return render_template('travel_request.html', form=form, unassigned_travel_requests=unassigned_travel_requests)
 
 @admin.route('hospitality_staff_dashboard/travel_request_completed', methods=['GET'])
 @login_required
 def travel_request_completed():
 
-    completed_travel_requests = travel_request.query.filter_by(driver_license=None).all()
-    render_template('travel_request_completed.html', completed_travel_requests=completed_travel_requests)
+    # Get all travel requests that all have pick_up_date less than today's date and driver_license is not None
+    completed_travel_requests = travel_request.query.filter(travel_request.date_of_travel < datetime.datetime.now().date(), travel_request.driver_license.isnot(None)).all()
+    return render_template('travel_request_completed.html', completed_travel_requests=completed_travel_requests)
+
+@admin.route('/hospitality_staff_dashboard/driver_choose/<int:request_id>', methods=['GET', 'POST'])
+@login_required
+def driver_choose(request_id):
+
+    # Fetch all records of driver table
+    driver_all = driver.query.all()
+    pending_requests_by_driver_license = []
+
+    # Get travel requests associated with a driver by filtering travel_requests on driver_license
+    for drivers in driver_all:
+        total_travel_requests = travel_request.query.filter_by(driver_license=drivers.driver_license).all()
+        pending_travel_requests = [request for request in total_travel_requests if request.date_of_travel > datetime.datetime.now().date()]
+        pending_requests_by_driver_license.append(len(pending_travel_requests))
+
+    return render_template('travel_request_assignment.html', drivers=driver_all, pending_requests_by_driver_license=pending_requests_by_driver_license, request_id=request_id)
+
+@admin.route('/hospitality_staff_dashboard/driver_assign/<int:travel_request_id>/<int:driver_license>', methods=['POST'])
+@login_required
+def driver_assign(travel_request_id, driver_license):
+
+    travel_request_assign = travel_request.query.get_or_404(travel_request_id)
+    travel_request_assign.driver_license = driver_license
+    db.session.commit()
+    flash(f'Maintenance request assigned successfully to driver {driver_license} !', 'success')
+    return redirect(url_for('hospitality_staff_dashboard.travel_requests'))
 
 # ROUTES FOR MAINTENANCE REQUESTS 
 
@@ -227,7 +256,8 @@ def travel_request_completed():
 @login_required
 def maintenance_request_view():
 
-    open_maintenance_requests = maintenance_request.query.filter_by(status='open').all()
+    #select maintainence requests where hospitality_staff_id is None
+    open_maintenance_requests = maintenance_request.query.filter(maintenance_request.status == 'open', maintenance_request.housekeeping_staff_id.is_(None)).all()
 
     form = MaintenanceRequestForm()
 
@@ -258,6 +288,33 @@ def close_maintenance_request(request_id):
     maintenance_request_close.status = 'closed'
     db.session.commit()
     flash('Maintenance request closed successfully!', 'success')
+    return redirect(url_for('hospitality_staff_dashboard.maintenance_request_view'))
+
+@admin.route('/hospitality_staff_dashboard/maintenance_request_choose/<int:request_id>', methods=['GET', 'POST'])
+@login_required
+def maintenance_request_choose(request_id):
+
+    # Fetch all records of housekeeping staff table
+    housekeeping_staff_all = housekeeping_staff.query.all()
+    open_requests_by_staff_id = []
+
+    # Get maintenance requests associated with a housekeeping staff by filtering maintenance requests on housekeeping_staff_id
+    for staff in housekeeping_staff_all:
+        total_maintenance_requests = maintenance_request.query.filter_by(housekeeping_staff_id=staff.housekeeping_staff_id).all()
+        open_maintenance_requests = [request for request in total_maintenance_requests if request.status == 'open']
+        open_requests_by_staff_id.append(len(open_maintenance_requests))
+    # count number of open requests assigned to each housekeeping staff
+
+    return render_template('maintenance_request_assignment.html', housekeeping_staff=housekeeping_staff_all, open_requests_by_staff_id=open_requests_by_staff_id, request_id=request_id)
+    
+@admin.route('/hospitality_staff_dashboard/maintenance_request_assign/<int:request_id>/<int:staff_id>', methods=['POST'])
+@login_required
+def maintenance_request_assign(request_id, staff_id):
+
+    maintenance_request_assign = maintenance_request.query.get_or_404(request_id)
+    maintenance_request_assign.housekeeping_staff_id = staff_id
+    db.session.commit()
+    flash(f'Maintenance request assigned successfully to housekeeping staff {staff_id} !', 'success')
     return redirect(url_for('hospitality_staff_dashboard.maintenance_request_view'))
 
 @admin.route('/hospitality_staff_dashboard/maintenance_requests_closed', methods=['GET'])
@@ -325,7 +382,7 @@ def billing():
             bill_entries = []
             for incurs_bill in incurs_bills:
                 bill_id = incurs_bill.bill_id
-                bill_entries += Bill.query.filter_by(bill_id=bill_id).all()
+                bill_entries += Bill.query.filter_by(bill_id=bill_id, paid_status='0').all()
                 total_amount = sum(bill_entry.amount for bill_entry in bill_entries)
             flash(f'Bill generated successfully! for guest_id = {guest_id}', 'success')
             return render_template('bill_entries.html', bill_entries=bill_entries, total_amount=total_amount)

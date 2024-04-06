@@ -89,9 +89,10 @@ footer {
 </head>
 <body class="d-flex flex-column min-vh-100 flex-grow-1">
     <div class="container cream-bg">
-      <nav>
+      <nav class="">
         <ul>
             <li><a href="{{ url_for('index') }}">Home</a></li>
+            <li><a href="{{ url_for('iitgn_member_dashboard.new_booking') }}">Make a Reservation</a></li>
             <li><a href="{{ url_for('logout') }}">Logout</a></li>
         </ul>
     </nav>
@@ -104,8 +105,39 @@ footer {
             {% endif %}
         {% endwith %}
         {% block content %}
-            <h1>Landed on iitgn_member dashboard!</h1>
+           
+        <h2 class="text-center">Your Reservations</h2>
+
+            <div style="overflow: auto;">
+                <table class="table table-bordered">
+                    <tr>
+                        <th>ID</th>
+                        <th>People</th>
+                        <th>Check-in Date</th>
+                        <th>Check-out Date</th>
+                        <th>Room Type</th>
+                        <th>Special Room Required</th>
+                        <th>Comments</th>
+                    </tr>
+                        
+                    {% for member_reservation in member_reservations %}
+                    <tr style="text-align: center;">
+                        <td>{{ member_reservation.reservation_id }}</td>
+                        <td>{{ member_reservation.number_of_people }}</td>
+                        <td>{{ member_reservation.check_in_date }}</td>
+                        <td>{{ member_reservation.check_out_date }}</td>
+                        <td>{{ member_reservation.room_type }}</td>
+                        <td>{{ member_reservation.specially_enabled_room_required }}</td>
+                        <td>{{ member_reservation.comments }}</td>
+                    </tr>
+                    {% endfor %}
+
+                </table>
+                
+            </div>
+
         {% endblock %}
+
     </main>
     </div>
    

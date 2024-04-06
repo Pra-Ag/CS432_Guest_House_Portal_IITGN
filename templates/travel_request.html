@@ -1,7 +1,7 @@
 {% extends 'hospitality_staff_dashboard.html' %}
 {% block content %}
     <h1 class="text-center">Travel Request</h1>
-    <form method="POST" action="{{ url_for('hospitality_staff_dashboard.travel_request') }}">
+    <form method="POST" action="{{ url_for('hospitality_staff_dashboard.travel_requests') }}">
         {{ form.csrf_token }}
         <!-- {{ form.number_of_travellers.label }} {{ form.number_of_travellers }}
         {{ form.date_of_travel.label }} {{ form.date_of_travel }}

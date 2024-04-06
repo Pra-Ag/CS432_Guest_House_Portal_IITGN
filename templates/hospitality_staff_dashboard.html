@@ -93,7 +93,7 @@ table {
 </head>
 <body class="d-flex flex-column min-vh-100 flex-grow-1">
   <div class="container cream-bg">  
-    <nav class="">
+    <nav >
       <ul>
           <li><a href="{{ url_for('index') }}">Home</a></li>
           <li><a href="{{ url_for('hospitality_staff_dashboard.check_in') }}">Check In</a></li>
@@ -115,11 +115,11 @@ table {
       {% block content %}
           <h2 class="text-center">Landed on hospitality_staff dashboard!</h2>
           
-          <h3 class="text-center">Occupied Rooms</h3>
+          <h3>Occupied Rooms</h3>
           
           <div style="overflow: auto; max-height: 400px; display: flex; justify-content: center;">    
               <table class="table table-bordered">
-                  <thead style="position: sticky; top: 0; background-color: white;">
+                  <thead >
                       <tr>
                           <th>Room Number</th>
                           <th>Guest ID</th>
@@ -145,10 +145,10 @@ table {
           </div>
 
 
-          <h3 class="text-center">Assigned Open Maintenance Requests</h3>
+          <h3>Assigned Open Maintenance Requests</h3>
           <div style="overflow: auto; max-height: 400px; display: flex; justify-content: center;">    
               <table class="table table-bordered">
-                  <thead style="position: sticky; top: 0; background-color: white;">
+                  <thead>
                       <tr>
                           <th>Request ID</th>
                           <th>Description</th>

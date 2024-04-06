@@ -50,7 +50,7 @@ def guest_travel_request():
         highest_id = db.session.query(db.func.max(travel_request.travel_request_id)).scalar()
         if highest_id is None:
             highest_id = 0
-        travel_request = travel_request(
+        travel_request_add = travel_request(
             travel_request_id=highest_id + 1,
             number_of_travellers=form.number_of_travellers.data,
             date_of_travel=form.date_of_travel.data,
@@ -59,13 +59,13 @@ def guest_travel_request():
             travel_purpose=form.travel_purpose.data
         )
 
-        db.session.add(travel_request)
+        db.session.add(travel_request_add)
         db.session.commit()
         
         
         initiated_travel_request = InitiatedTravelRequest(
-            travel_request_id=travel_request.travel_request_id,
-            guest_id=current_user.id
+            travel_request_id=highest_id + 1,
+            guest_id = current_user.get_id()
         )
 
         db.session.add(initiated_travel_request)

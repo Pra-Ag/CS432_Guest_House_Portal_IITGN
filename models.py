@@ -218,7 +218,7 @@ class IncursBill(db.Model):
 class Makes(db.Model):
     reservation_id = db.Column(db.Integer, db.ForeignKey('reservation.reservation_id'), primary_key=True)
     iitgn_id = db.Column(db.Integer, db.ForeignKey('iitgn_member.iitgn_id'))
-    comments = db.Column(db.Text, nullable=False)
+
 
 class GeneratesBill(db.Model):
     bill_id = db.Column(db.Integer, db.ForeignKey('bill.bill_id'), primary_key=True)
