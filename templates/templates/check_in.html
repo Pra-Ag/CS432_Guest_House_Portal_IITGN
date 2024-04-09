@@ -1,0 +1,46 @@
+{% extends 'hospitality_staff_dashboard.html' %}
+
+{% block content %}
+<h1 class="text-center mt-3">Check-In</h1>
+
+<h2 class="mt-2">Today's Reservations</h2>
+{% if reservations %}
+<div style="max-height: 300px; max-width: 1500px; overflow-y: scroll;">
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Reservation ID</th>
+                <th>IIT Gandhinagar ID</th>
+                <th>Check-Out Date</th>
+                <th>Email</th>
+                <th>Number of People</th>
+                <th>Room Type</th>
+                <th>Specially Abled Room Needed</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for reservation in reservations %}
+            <tr style="text-align: center;">
+                <td>{{ reservation.reservation_id }}</td>
+                <td>{{ reservation.iitgn_id }}</td>
+                <td>{{ reservation.check_out_date }}</td>
+                <td>{{ reservation.email_id }}</td>
+                <td>{{ reservation.number_of_people }}</td>
+                <td>{{ reservation.room_type }}</td>
+                <td>{{ reservation.specially_enabled_room_required }}</td>
+                <td>
+                    <form method="post" action="{{ url_for('hospitality_staff_dashboard.add_guest', reservation_id = reservation.reservation_id) }}">
+                        <input type="submit" value="Add Guest">
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% else %}
+<p>No reservations for today.</p>
+{% endif %}
+
+{% endblock %}
