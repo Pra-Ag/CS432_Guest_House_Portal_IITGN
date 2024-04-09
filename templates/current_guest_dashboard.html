@@ -88,33 +88,108 @@ footer {
   </style>
 </head>
 <body class="d-flex flex-column min-vh-100 flex-grow-1">
-    <div class="container cream-bg">
+    <div class="container">
       <nav>
         <ul>
-            <li><a href="{{ url_for('index') }}">Home</a></li>
-            <li><a href="{{ url_for('current_guest_dashboard.guest_travel_request') }}">Travel Request</a></li>
-            <li><a href="{{ url_for('current_guest_dashboard.guest_maintenance_request') }}">Maintenance Request</a></li>
-            <li><a href="{{ url_for('current_guest_dashboard.show_bills') }}">Show Bills</a></li>
-            <li><a href="{{ url_for('current_guest_dashboard.change_password') }}">Change Password</a></li>
-            <li><a href="{{ url_for('logout') }}">Logout</a></li>
-        </ul>
+          <li><a href="{{ url_for('current_guest_dashboard') }}">Home</a></li>
+          <li><a href="{{ url_for('current_guest_dashboard.guest_travel_request') }}">Travel Request</a></li>
+          <li><a href="{{ url_for('current_guest_dashboard.guest_maintenance_request') }}">Maintenance Request</a></li>
+          <li><a href="{{ url_for('current_guest_dashboard.show_bills') }}">Show Bills</a></li>
+          <li><a href="{{ url_for('current_guest_dashboard.change_password') }}">Change Password</a></li>
+          <li><a href="{{ url_for('logout') }}">Logout</a></li>
+      </ul>
     </nav>
     <main>
-        {% with messages = get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-                {% for category, message in messages %}
-                    <div class="{{ category }}">{{ message }}</div>
-                {% endfor %}
-            {% endif %}
-        {% endwith %}
-        {% block content %}
-            <h2 class="text-center">Welcome, {{ currentguest.first_name }}</h2>
+      {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+          {% for category, message in messages %}
+              <div class="{{ category }}">{{ message }}</div>
+          {% endfor %}
+      {% endif %}
+  {% endwith %}
+  {% block content %}
+        <h2 class="text-center">Welcome, {{ currentguest.first_name }}</h2>
 
-            <h4>Your Wifi Password is : {{ assignment.wifi_password }}</h4>
+        <div class="row justify-content-center mt-3">
+          <div class="col-lg-4">
+              <div class="card mt-3">
+                  <div class="card-body">
+                    
 
-            <h4> Open Travel Requests </h4>
+                    <h4>Your Wifi Password is : {{ assignment.wifi_password }}</h4>
+                  </div>
+                </div>
+          </div>
+      </div>
 
-            <h4> Closed Travel Requests </h4>
+      <h3 class="text-center"> Unassigned Travel Requests </h3>
+      {% if unassigned_travel_Request %}
+      <div style="overflow: auto; max-height: 400px; display: flex; justify-content: center;">    
+          <table class="table table-bordered table-striped">
+              <thead>
+                  <tr>
+                      <th>Travel request ID</th>
+                      <th>No of travellers</th>
+                      <th>Date of travel</th>
+                      <th>Pick up time</th>
+                      <th>Destination</th>
+                      <th>Travel purpose</th>
+                      <th>Driver license</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  {% for travel in unassigned_travel_Request %}
+                      <tr>
+                          <td style="text-align: center;">{{ travel.travel_request_id }}</td>
+                          <td>{{ travel.number_of_travellers }}</td>
+                          <td>{{ travel.date_of_travel }}</td>
+                          <td>{{ travel.pick_up_time }}</td>
+                          <td>{{ travel.destination }}</td>
+                          <td>{{ travel.travel_purpose }}</td>
+                          <td>{{ travel.driver_license }}</td>
+                      </tr>
+                  {% endfor %}
+              </tbody>
+          </table>
+      </div>
+      {% else %}
+          <p>No unassigned travel requests.</p>
+      {% endif %}
+
+      {% if assigned_travel_Request %}
+      <h3> Assigned Travel Requests </h3>
+      <div style="overflow: auto; max-height: 400px; display: flex; justify-content: center;">    
+          <table class="table table-bordered table-striped">
+              <thead>
+                  <tr>
+                      <th>Travel request ID</th>
+                      <th>No of travellers</th>
+                      <th>Date of travel</th>
+                      <th>Pick up time</th>
+                      <th>Destination</th>
+                      <th>Travel purpose</th>
+                      <th>Driver license</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  {% for travel in assigned_travel_Request %}
+                      <tr>
+                          <td style="text-align: center;">{{ travel.travel_request_id }}</td>
+                          <td>{{ travel.number_of_travellers }}</td>
+                          <td>{{ travel.date_of_travel }}</td>
+                          <td>{{ travel.pick_up_time }}</td>
+                          <td>{{ travel.destination }}</td>
+                          <td>{{ travel.travel_purpose }}</td>
+                          <td>{{ travel.driver_license }}</td>
+                      </tr>
+                  {% endfor %}
+              </tbody>
+          </table>
+      </div>
+
+      {% else %}
+          <p>No assigned travel requests.</p>
+      {% endif %}
 
 
 

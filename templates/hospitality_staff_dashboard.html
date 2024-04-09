@@ -92,17 +92,19 @@ table {
   </style>
 </head>
 <body class="d-flex flex-column min-vh-100 flex-grow-1">
-  <div class="container cream-bg">  
+  <div class="container">  
     <nav >
       <ul>
-          <li><a href="{{ url_for('index') }}">Home</a></li>
-          <li><a href="{{ url_for('hospitality_staff_dashboard.check_in') }}">Check In</a></li>
-          <li><a href="{{ url_for('hospitality_staff_dashboard.travel_requests') }}">Travel Request</a></li>
-          <li><a href="{{ url_for('hospitality_staff_dashboard.maintenance_request_view') }}">Maintenance Request</a></li>
-          <li><a href="{{ url_for('hospitality_staff_dashboard.booking') }}">Reservations</a></li>
-          <li><a href="{{ url_for('hospitality_staff_dashboard.billing') }}">Billing</a></li>
-          <li><a href="{{ url_for('logout') }}">Logout</a></li>
-      </ul>
+        <li><a href="{{ url_for('hospitality_staff_dashboard') }}">Home</a></li>
+        <li><a href="{{ url_for('hospitality_staff_dashboard.check_in') }}">Check In</a></li>
+        <li><a href="{{ url_for('hospitality_staff_dashboard.check_out') }}">Check Out</a></li>
+        <li><a href="{{ url_for('hospitality_staff_dashboard.travel_requests') }}">Travel Request</a></li>
+        <li><a href="{{ url_for('hospitality_staff_dashboard.maintenance_request_view') }}">Maintenance Request</a></li>
+        <li><a href="{{ url_for('hospitality_staff_dashboard.booking') }}">Reservations</a></li>
+        <li><a href="{{ url_for('hospitality_staff_dashboard.billing') }}">Billing</a></li>
+        <li><a href="{{ url_for('hospitality_staff_dashboard.feedback') }}">Feedback</a></li>
+        <li><a href="{{ url_for('logout') }}">Logout</a></li>
+    </ul>
   </nav>
   <main>
       {% with messages = get_flashed_messages(with_categories=true) %}
@@ -117,8 +119,8 @@ table {
           
           <h3>Occupied Rooms</h3>
           
-          <div style="overflow: auto; max-height: 400px; display: flex; justify-content: center;">    
-              <table class="table table-bordered">
+          <div style="overflow: auto; max-height: 350px;">    
+              <table class="table table-bordered table-striped">
                   <thead >
                       <tr>
                           <th>Room Number</th>
@@ -146,8 +148,8 @@ table {
 
 
           <h3>Assigned Open Maintenance Requests</h3>
-          <div style="overflow: auto; max-height: 400px; display: flex; justify-content: center;">    
-              <table class="table table-bordered">
+          <div style="overflow: auto; max-height: 350px;">    
+              <table class="table table-bordered table-striped">
                   <thead>
                       <tr>
                           <th>Request ID</th>

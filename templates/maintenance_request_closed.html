@@ -1,12 +1,12 @@
 {% extends 'hospitality_staff_dashboard.html' %}
 {% block content %}
-
+<button onclick="goBack()">Go Back</button>
 
 
 {% if closed_maintenance_requests %}
-<h2 class="text-center">Closed Maintenance Requests</h2>
+<h2>Closed Maintenance Requests</h2>
 <div style="overflow: auto; max-height: 600px;">
-    <table class="table table-bordered">
+    <table class="table table-bordered table-striped primary">
         <thead>
             <tr>
                 <th>Request ID</th>
@@ -25,7 +25,6 @@
 </div>
 {% endif %}
 
-<button onclick="goBack()">Go Back</button>
 <script>
     function goBack() {
       window.history.back();

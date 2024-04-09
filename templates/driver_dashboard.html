@@ -88,27 +88,27 @@ footer {
   </style>
 </head>
 <body class="d-flex flex-column min-vh-100 flex-grow-1">
-    <div class="container cream-bg"> 
-        <nav>
-            <ul>
-                <li><a href="{{ url_for('driver_dashboard') }}">Home</a></li>
-                <li><a href="{{ url_for('driver_dashboard.view') }}">Assigned Requests</a></li>
-                <li><a href="{{ url_for('logout') }}">Logout</a></li>
-            </ul>
-        </nav>
-        <main>
-            {% with messages = get_flashed_messages(with_categories=true) %}
-                {% if messages %}
-                    {% for category, message in messages %}
-                        <div class="{{ category }}">{{ message }}</div>
-                    {% endfor %}
-                {% endif %}
-            {% endwith %}
-            {% block content %}
-                <h1>Welcome to the Guesthouse Management System</h1>
-                <p>Please click on Assigned Requests to View the requests </p>
-            {% endblock %}
-        </main>
+    <div class="container"> 
+      <nav>
+        <ul>
+            <li><a href="{{ url_for('driver_dashboard') }}">Home</a></li>
+            <li><a href="{{ url_for('driver_dashboard.view') }}">Assigned Requests</a></li>
+            <li><a href="{{ url_for('logout') }}">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="{{ category }}">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% block content %}
+            <h1 class="text-center">Welcome to the Guesthouse Management System</h1>
+            <p class="text-center">Please click on Assigned Requests to View the requests </p>
+        {% endblock %}
+    </main>
     </div>
     
     <div class="footer2">
