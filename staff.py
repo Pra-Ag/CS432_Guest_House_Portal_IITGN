@@ -25,4 +25,4 @@ def close(request_id):
 def view():
     staff_id = current_user.get_id();
     requests = maintenance_request.query.filter_by(housekeeping_staff_id = staff_id, status="open").all()
-    return render_template('maintenance_request_closed.html', assigned = requests)
+    return render_template('housekeeping_maintenance_request_closed.html', assigned = requests)
