@@ -153,17 +153,38 @@ def hospitality_staff_dashboard():
 def iitgn_member_dashboard():
 
     makes = Makes.query.filter_by(iitgn_id = current_user.get_id()).first()
-    reservation_id = Reservation.query.filter_by(reservation_id = makes.reservation_id).all()
-    # print(reservation_id.reservation_id)
+   
+    #reservation_id = Reservation.query.filter_by(reservation_id = makes.reservation_id).all()
+    # try:
+    #     reservation_id = Reservation.query.filter_by(reservation_id = makes.reservation_id).all()
+    # except Exception as e:
+    #     print(f"An error occurred: {e}")
+    # reservation_id = None
+    # # print(reservation_id.reservation_id)
 
     
-    # reservation = Reservation.query.filter_by(reservation_id = reservation_id.reservation_id).all()
-    # print(reservation)
+    # # reservation = Reservation.query.filter_by(reservation_id = reservation_id.reservation_id).all()
+    # # print(reservation)
     
-    #iterate over all reservations and get the details of each reservation
-    reservations =[]
-    for i in reservation_id:
-        reservations.append(Reservation.query.filter_by(reservation_id = i.reservation_id).first())
+    # #iterate over all reservations and get the details of each reservation
+    # reservations =[]
+    # for i in reservation_id:
+    #     reservations.append(Reservation.query.filter_by(reservation_id = i.reservation_id).first())
+    # return render_template('iitgn_member_dashboard.html', member_reservations=reservations)
+    try:
+        reservation_id = Reservation.query.filter_by(reservation_id = makes.reservation_id).all()
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        reservation_id = None
+
+    if reservation_id is not None:
+        #iterate over all reservations and get the details of each reservation
+        reservations =[]
+        for i in reservation_id:
+            reservations.append(Reservation.query.filter_by(reservation_id = i.reservation_id).first())
+    else:
+        reservations = []
+    
     return render_template('iitgn_member_dashboard.html', member_reservations=reservations)
 
 @app.route('/housekeeping_staff_dashboard')
