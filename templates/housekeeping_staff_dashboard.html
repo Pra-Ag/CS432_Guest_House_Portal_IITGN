@@ -92,7 +92,8 @@ footer {
       <nav>
         <ul>
             <li><a href="{{ url_for('housekeeping_staff_dashboard') }}">Home</a></li>
-            <li><a href="{{ url_for('housekeeping_staff_dashboard.view') }}">Assigned Requests</a></li>
+            <li><a href="{{ url_for('housekeeping_staff_dashboard.view_room_cleaning_request') }}">Room Cleaning</a></li>
+            <li><a href="{{ url_for('housekeeping_staff_dashboard.view_other_request') }}">Other Requests</a></li>
             <li><a href="{{ url_for('logout') }}">Logout</a></li>
         </ul>
     </nav>
@@ -105,8 +106,8 @@ footer {
             {% endif %}
         {% endwith %}
         {% block content %}
-            <h1 class="text-center">Welcome to the Guesthouse Management System</h1>
-            <p class="text-center">Please click on Assigned Requests to View/Close the requests </p>
+            <h1 class="text-centered">Welcome to the Guesthouse Management System</h1>
+            <p>Please click on Room Cleaning and Other Requests to View/Close the requests </p>
         {% endblock %}
     </main>
     </div>
