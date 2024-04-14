@@ -1,9 +1,9 @@
 {% extends 'hospitality_staff_dashboard.html' %}
 
 {% block content %}
-<h1 class="text-center mt-3">Check-In</h1>
+<h1>Check-In</h1>
 
-<h2 class="mt-2">Today's Reservations</h2>
+<h2 class="text-center">Today's Reservations</h2>
 {% if reservations %}
 <div style="max-height: 300px; max-width: 1500px; overflow-y: scroll;">
     <table class="table table-bordered table-striped">
@@ -30,7 +30,7 @@
                 <td>{{ reservation.room_type }}</td>
                 <td>{{ reservation.specially_enabled_room_required }}</td>
                 <td>
-                    <form method="post" action="{{ url_for('hospitality_staff_dashboard.add_guest', reservation_id = reservation.reservation_id) }}">
+                    <form method="post" action="{{ url_for('hospitality_staff_dashboard.add_guest_1', reservation_id = reservation.reservation_id) }}">
                         <input type="submit" value="Add Guest">
                     </form>
                 </td>
