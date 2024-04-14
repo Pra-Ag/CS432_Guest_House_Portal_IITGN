@@ -23,7 +23,6 @@ app.register_blueprint(Driver, url_prefix='/')
 
 app.config['SECRET_KEY'] = 'abc'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqldb://root:<password>@localhost/guesthouse_db'
-app.config['SERVER_NAME'] = 'localhost:5000'
 
 db.init_app(app)
 

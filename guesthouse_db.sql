@@ -192,8 +192,10 @@ CREATE TABLE `feedback` (
   `date` date DEFAULT NULL,
   `star_rating` int DEFAULT NULL,
   `feedback` text,
-  `guest_id` int DEFAULT NULL,
+  `past_guest_id` int DEFAULT NULL,
   PRIMARY KEY (`feedback_id`),
+  KEY `past_guest_id` (`past_guest_id`),
+  CONSTRAINT `feedback_ibfk_1` FOREIGN KEY (`past_guest_id`) REFERENCES `past_guests` (`past_guest_id`) ON DELETE CASCADE,
   CONSTRAINT `feedback_chk_1` CHECK (((`star_rating` >= 1) and (`star_rating` <= 5)))
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -204,6 +206,7 @@ CREATE TABLE `feedback` (
 
 LOCK TABLES `feedback` WRITE;
 /*!40000 ALTER TABLE `feedback` DISABLE KEYS */;
+INSERT INTO `feedback` VALUES (3,'2023-05-24',3,'Donec semper sapien a libero.',28),(27,'2023-05-31',3,'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.',11),(38,'2024-03-12',2,'Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.',2),(43,'2023-08-19',3,'Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.',8),(71,'2023-02-14',1,'Vivamus vestibulum sagittis sapien.',17),(73,'2023-03-07',2,'Ut tellus. Nulla ut erat id mauris vulputate elementum.',12),(74,'2024-02-21',4,'Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.',8),(89,'2023-08-17',1,'Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.',15),(91,'2023-07-20',3,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.',16),(96,'2023-04-07',4,'In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.',29),(122,'2023-08-13',2,'Integer ac leo.',7),(127,'2023-10-19',2,'Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.',21),(130,'2024-01-13',5,'Cras non velit nec nisi vulputate nonummy.',23),(144,'2023-09-25',2,'Nulla justo.',25),(147,'2023-11-24',1,'Nunc purus. Phasellus in felis.',7),(160,'2023-04-25',1,'Sed ante.',17),(166,'2024-02-01',4,'Donec semper sapien a libero. Nam dui.',8),(173,'2023-09-01',3,'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.',22),(200,'2023-03-19',2,'In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.',17),(209,'2024-01-15',2,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.',26),(214,'2023-10-31',1,'Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',14),(242,'2023-08-30',4,'Morbi non lectus.',7);
 /*!40000 ALTER TABLE `feedback` ENABLE KEYS */;
 UNLOCK TABLES;
 
