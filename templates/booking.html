@@ -6,6 +6,51 @@
     <a href="{{ url_for('hospitality_staff_dashboard.viewreservations') }}">See all reservations</a>
 </div>
 
+<h3>Unconfirmed Reservation by IITGN Members</h3>
+{% if reservations %}
+<div style="overflow: auto; max-height: 400px;">
+    <table class="table table-bordered table striped">
+        <thead>
+            <tr>
+                <th>Reservation ID</th>
+                <th>IITGN ID</th>
+                <th>Email ID</th>
+                <th>Number of People</th>
+                <th>Check In Date</th>
+                <th>Check Out Date</th>
+                <th>Room Type</th>
+                <th>Enabled Room</th>
+                <th>Comments</th>
+                <th>Confirm</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for reservation in reservations %}
+            <tr>
+                <td>{{ reservation.reservation_id }}</td>
+                <td>{{ reservation.iitgn_id }}</td>
+                <td>{{ reservation.email_id }}</td>
+                <td>{{ reservation.number_of_people }}</td>
+                <td>{{ reservation.check_in_date }}</td>
+                <td>{{ reservation.check_out_date }}</td>
+                <td>{{ reservation.room_type }}</td>
+                <td>{{ reservation.specially_enabled_room_required }}</td>
+                <td>{{ reservation.comments }}</td>
+                <td>
+                    <form method="post" action="{{ url_for('hospitality_staff_dashboard.confirm_reservation', reservation_id=reservation.reservation_id) }}">
+                        <input type="submit" value="Confirm">
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% else %}
+    <p>No unconfirmed reservations</p>
+{% endif %}
+
+
 
 <script>
     function toggleReservationForm() {
