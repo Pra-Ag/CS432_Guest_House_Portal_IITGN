@@ -1,4 +1,4 @@
-![](images/image55.png)
+*******Please Refer to the PDF Report************
 
 IITGN Guest House Management System (GHMS)
 
