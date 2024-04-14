@@ -9,8 +9,12 @@ from member import member
 from guest import guest
 from staff import staff
 from driver import Driver
+from authlib.integrations.flask_client import OAuth
+import requests
+
 
 app = Flask(__name__)
+oauth = OAuth(app)
 app.register_blueprint(admin, url_prefix='/')
 app.register_blueprint(member, url_prefix='/')
 app.register_blueprint(guest, url_prefix='/')
@@ -88,6 +92,54 @@ def login():
         return redirect(url_for('login'))
 
     return render_template('login.html', form=form)
+
+GOOGLE_CLIENT_ID = "765986257146-bc8cb5lv7iu0ki1437lr9o9ag8ggcd9n.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET = "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"
+   
+CONF_URL = "https://accounts.google.com/.well-known/openid-configuration"
+oauth.register(
+    name='google',
+    client_id=GOOGLE_CLIENT_ID,
+    client_secret=GOOGLE_CLIENT_SECRET,
+    server_metadata_url=CONF_URL,
+    client_kwargs={'scope': 'openid email profile'}
+)
+
+@app.route('/google')
+def google():
+    #redirect to google_auth funtion
+    redirect_uri = url_for('google_auth', _external=True)
+    return oauth.google.authorize_redirect(redirect_uri)
+
+def decode_token(token):
+    id_token = token['id_token']
+    r = requests.get(f'https://oauth2.googleapis.com/tokeninfo?id_token={id_token}')
+    if r.status_code == 200:
+        return r.json()
+    else:
+        raise ValueError('Token could not be decoded.')
+    
+@app.route('/google/auth')
+def google_auth():
+    token = oauth.google.authorize_access_token()
+    user_info = decode_token(token)
+    email = user_info["email"]
+    
+    # Check if the user exists in the hospitality_staff table
+    user_hospitality = hospitality_staff.query.filter_by(email_id=email).first()
+    if user_hospitality is not None:
+        login_user(user_hospitality)
+        return redirect(url_for('hospitality_staff_dashboard'))
+    
+    # Check if the user exists in the iitgn_member table
+    user_iitgn = iitgn_member.query.filter_by(email_id=email).first()
+    if user_iitgn is not None:
+        login_user(user_iitgn)
+        return redirect(url_for('iitgn_member_dashboard'))
+    
+    # If the user doesn't exist in either table
+    flash('User does not exist', 'danger')
+    return redirect(url_for('login'))
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():
