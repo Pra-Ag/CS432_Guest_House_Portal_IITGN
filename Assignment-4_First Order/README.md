@@ -631,11 +631,11 @@ Validity: This relationship is present and valid, allowing for multiple feedback
 
 7.  Shivamani
 
-* Q2 in Responsibility for G1
+* NO CONTRIBUTION
 
 Sub-groups:
 
-G1:  Pratik Agarwal, Rohit Srivastav, Banavath Diraj Naik,Sohitha Sonalika
+G1:  Pratik Agarwal, Banavath Diraj Naik,Sohitha Sonalika, Rohit Srivastav
 
 G2: Gaurav Shah, Soham Rahatal, Shivamani
 
