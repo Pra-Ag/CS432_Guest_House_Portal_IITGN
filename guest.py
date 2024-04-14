@@ -5,6 +5,8 @@ from flask_login import LoginManager, UserMixin, login_user, logout_user, login_
 from forms import BookingForm, CheckInForm, CheckOutForm, MaintenanceRequestForm, TravelRequestForm, LoginForm, RegistrationForm, enter_guest_idForm, billForm, ChangePasswordFirst, ChangePassword
 from models import db, current_guest, Room, hospitality_staff, iitgn_member, Reservation, Bill, housekeeping_staff, maintenance_request, PastGuests, Feedback, travel_request, driver, Assignment, RequiresMaintenance, ManagesMaintenance, ManagesReservation, IncursBill, Makes, GeneratesBill, InitiatedTravelRequest
 from sqlalchemy.orm import joinedload
+from sqlalchemy import select
+
 
 guest = Blueprint('current_guest_dashboard', __name__)
 
@@ -47,30 +49,30 @@ def guest_travel_request():
     form = TravelRequestForm()
     if form.validate_on_submit():
         # Handle travel request form submission
-        highest_id = db.session.query(db.func.max(travel_request.travel_request_id)).scalar()
-        if highest_id is None:
-            highest_id = 0
-        travel_request_add = travel_request(
-            travel_request_id=highest_id + 1,
-            number_of_travellers=form.number_of_travellers.data,
-            date_of_travel=form.date_of_travel.data,
-            pick_up_time=form.pick_up_time.data,
-            destination=form.destination.data,
-            travel_purpose=form.travel_purpose.data
-        )
+        # Acquire lock on the travel_request table
+        locked_table = select(travel_request).with_for_update()
+        db.session.execute(locked_table)
 
-        db.session.add(travel_request_add)
+        with db.session.begin_nested():
+            highest_id = db.session.query(db.func.max(travel_request.travel_request_id)).scalar()
+            if highest_id is None:
+                highest_id = 0
+            travel_request_add = travel_request(
+                travel_request_id=highest_id + 1,
+                number_of_travellers=form.number_of_travellers.data,
+                date_of_travel=form.date_of_travel.data,
+                pick_up_time=form.pick_up_time.data,
+                destination=form.destination.data,
+                travel_purpose=form.travel_purpose.data
+            )
+            db.session.add(travel_request_add)
+            db.session.flush()  # Flush to generate the primary key before adding the initiated_travel_request
+            initiated_travel_request = InitiatedTravelRequest(
+                travel_request_id=highest_id + 1,
+                guest_id=current_user.get_id()
+            )
+            db.session.add(initiated_travel_request)
         db.session.commit()
-        
-        
-        initiated_travel_request = InitiatedTravelRequest(
-            travel_request_id=highest_id + 1,
-            guest_id = current_user.get_id()
-        )
-
-        db.session.add(initiated_travel_request)
-        db.session.commit()
-        
         flash('Travel request submitted successfully!', 'success')
         return redirect(url_for('current_guest_dashboard.guest_travel_request'))
     return render_template('guest_travel_request.html', form=form)
@@ -82,20 +84,26 @@ def guest_maintenance_request():
     form = MaintenanceRequestForm()
     if form.validate_on_submit():
         # Handle travel request form submission
-        highest_id = db.session.query(db.func.max(maintenance_request.request_id)).scalar()
-        if highest_id is None:
-            highest_id = 0
-        maintenancerequest = maintenance_request(
-            request_id=highest_id + 1,
-            description=form.description.data,
-            status = 'open',
-            date_created = datetime.datetime.now().date(),
-            time_created = datetime.datetime.now().time(),        
-            
-            housekeeping_staff_id = None
-        )
+        
+        
+        locked_table = select(maintenance_request).with_for_update()
+        db.session.execute(locked_table)
+        
+        with db.session.begin_nested():
+            highest_id = db.session.query(db.func.max(maintenance_request.request_id)).scalar()
+            if highest_id is None:
+                highest_id = 0
+            maintenancerequest = maintenance_request(
+                request_id=highest_id + 1,
+                description=form.description.data,
+                status = 'open',
+                date_created = datetime.datetime.now().date(),
+                time_created = datetime.datetime.now().time(),        
+                
+                housekeeping_staff_id = None
+            )
 
-        db.session.add(maintenancerequest)
+            db.session.add(maintenancerequest)
         db.session.commit()
         flash('Maintenance request submitted successfully!', 'success')
         return redirect(url_for('current_guest_dashboard.guest_maintenance_request'))
