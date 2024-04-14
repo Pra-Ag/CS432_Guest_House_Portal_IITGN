@@ -37,6 +37,7 @@ def index():
 def login():
     form = LoginForm()
     if form.validate_on_submit():
+        login_successful = False
         print(form.email.data)
         user = hospitality_staff.query.filter_by(email_id=form.email.data).first()
         if user is not None and user.password == form.password.data:
@@ -71,11 +72,21 @@ def login():
             login_user(user)
             flash('Login successful!', 'success')
             return redirect(url_for('driver_dashboard'))
+
+        # if user is not None:
+        #     flash('Invalid Credentials', 'danger')
+        #     return redirect(url_for('login'))
         
-        
+        # If none of the above conditions are met, the login was unsuccessful
+        if not login_successful:
+            flash('Invalid Credentials', 'danger')
+            
+    
+        return redirect(url_for('login'))
+    elif form.is_submitted():
         flash('Invalid Credentials', 'danger')
         return redirect(url_for('login'))
-    
+
     return render_template('login.html', form=form)
 
 @app.route('/register', methods=['GET', 'POST'])
