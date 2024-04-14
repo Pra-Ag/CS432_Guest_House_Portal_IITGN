@@ -1,653 +1,1502 @@
- @import url(https://themes.googleusercontent.com/fonts/css?kit=SP60iPbtUO9ew27PD3iRbSWqADZi4Syx-AEk2KH\_Q\_jJWfGyJmm9cHrBFxixb7Oa87TMeVrTVVO-W85aQsWEQFtXRa8TVwTICgirnJhmVJw);.lst-kix\_vo7s6dgva2z5-7>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-7}ul.lst-kix\_s4vjpl9wdzad-0{list-style-type:none}.lst-kix\_xyr4sts07d2a-4>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-4}ol.lst-kix\_imtfae5sqdw0-4.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-4 0}.lst-kix\_djnrwroxhuca-2>li:before{content:"" counter(lst-ctn-kix\_djnrwroxhuca-2,decimal) ". "}ul.lst-kix\_s4vjpl9wdzad-6{list-style-type:none}ul.lst-kix\_s4vjpl9wdzad-5{list-style-type:none}ul.lst-kix\_s4vjpl9wdzad-8{list-style-type:none}ul.lst-kix\_s4vjpl9wdzad-7{list-style-type:none}ul.lst-kix\_s4vjpl9wdzad-2{list-style-type:none}.lst-kix\_39tglg5mgjot-4>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-4}ul.lst-kix\_s4vjpl9wdzad-1{list-style-type:none}ul.lst-kix\_s4vjpl9wdzad-4{list-style-type:none}.lst-kix\_djnrwroxhuca-8>li:before{content:"(" counter(lst-ctn-kix\_djnrwroxhuca-8,lower-roman) ") "}ul.lst-kix\_s4vjpl9wdzad-3{list-style-type:none}.lst-kix\_djnrwroxhuca-0>li:before{content:"" counter(lst-ctn-kix\_djnrwroxhuca-0,upper-roman) ". "}ol.lst-kix\_7wgvrdx8koj5-6.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-6 0}.lst-kix\_5uozeuw1zhj3-8>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-8}.lst-kix\_djnrwroxhuca-6>li:before{content:"(" counter(lst-ctn-kix\_djnrwroxhuca-6,lower-roman) ") "}.lst-kix\_djnrwroxhuca-4>li:before{content:"(" counter(lst-ctn-kix\_djnrwroxhuca-4,decimal) ") "}.lst-kix\_y3wkjw8slzdf-6>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-6}ol.lst-kix\_p82ewsdtpvdv-1.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-1 0}ol.lst-kix\_h2r80t92aafn-7.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-7 0}ol.lst-kix\_5j60k3ufcsn0-0.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-0 0}ol.lst-kix\_wv45fdjk1no6-6.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-6 0}ol.lst-kix\_7wgvrdx8koj5-1.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-1 0}.lst-kix\_dfzf8kydac75-0>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-0}.lst-kix\_wv45fdjk1no6-2>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-2,lower-roman) ". "}.lst-kix\_wd8uuvwd2wd8-2>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-2,lower-roman) ". "}.lst-kix\_wd8uuvwd2wd8-4>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-4,lower-latin) ". "}.lst-kix\_wd8uuvwd2wd8-6>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-6,decimal) ". "}.lst-kix\_wv45fdjk1no6-4>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-4,lower-latin) ". "}.lst-kix\_o244rjhq4jcq-7>li:before{content:"\\0025c6 "}ul.lst-kix\_3kc0onjmd4b3-2{list-style-type:none}.lst-kix\_o244rjhq4jcq-5>li:before{content:"\\0025cf "}ul.lst-kix\_3kc0onjmd4b3-1{list-style-type:none}.lst-kix\_dqbt5us2bm6z-5>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-5}ul.lst-kix\_3kc0onjmd4b3-4{list-style-type:none}ul.lst-kix\_3kc0onjmd4b3-3{list-style-type:none}ul.lst-kix\_3kc0onjmd4b3-6{list-style-type:none}ul.lst-kix\_3kc0onjmd4b3-5{list-style-type:none}ul.lst-kix\_3kc0onjmd4b3-8{list-style-type:none}ul.lst-kix\_3kc0onjmd4b3-7{list-style-type:none}.lst-kix\_o244rjhq4jcq-1>li:before{content:"\\0025c6 "}.lst-kix\_wd8uuvwd2wd8-8>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-8,lower-roman) ". "}.lst-kix\_wv45fdjk1no6-0>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-0,decimal) ". "}.lst-kix\_o244rjhq4jcq-3>li:before{content:"\\0025cb "}ul.lst-kix\_3kc0onjmd4b3-0{list-style-type:none}.lst-kix\_h2r80t92aafn-2>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-2}.lst-kix\_wd8uuvwd2wd8-7>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-7}.lst-kix\_n5gs769i8n1l-4>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-4}ol.lst-kix\_39tglg5mgjot-6.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-6 0}.lst-kix\_wv45fdjk1no6-6>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-6,decimal) ". "}ol.lst-kix\_j9nmyip7dkax-1.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-1 0}ol.lst-kix\_x10ctgg5t12l-5.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-5 0}.lst-kix\_wv45fdjk1no6-8>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-8,lower-roman) ". "}ol.lst-kix\_aiydnfnetrl2-7{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-1{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-8{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-2{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-5{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-3{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-6{list-style-type:none}.lst-kix\_u31g3a4y2e81-3>li:before{content:"" counter(lst-ctn-kix\_u31g3a4y2e81-3,lower-latin) ") "}.lst-kix\_u31g3a4y2e81-5>li:before{content:"(" counter(lst-ctn-kix\_u31g3a4y2e81-5,lower-latin) ") "}ol.lst-kix\_5j60k3ufcsn0-4{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-3{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-4{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-2{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-0{list-style-type:none}.lst-kix\_aph4ud4tzuh8-2>li:before{content:"\\0025a0 "}.lst-kix\_l2vwvtd64fgm-7>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-7}ul.lst-kix\_xlt82mfm7yjm-1{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-5{list-style-type:none}ul.lst-kix\_xlt82mfm7yjm-0{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-6{list-style-type:none}.lst-kix\_aph4ud4tzuh8-0>li:before{content:"\\0025cf "}ol.lst-kix\_h2r80t92aafn-1{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-7{list-style-type:none}ol.lst-kix\_h2r80t92aafn-0{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-8{list-style-type:none}.lst-kix\_dgx160lgxjud-3>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-3}ol.lst-kix\_h2r80t92aafn-3{list-style-type:none}ol.lst-kix\_h2r80t92aafn-2{list-style-type:none}.lst-kix\_aph4ud4tzuh8-6>li:before{content:"\\0025cf "}.lst-kix\_aiydnfnetrl2-5>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-5}ol.lst-kix\_h2r80t92aafn-5{list-style-type:none}ol.lst-kix\_h2r80t92aafn-4{list-style-type:none}ol.lst-kix\_h2r80t92aafn-7{list-style-type:none}ol.lst-kix\_h2r80t92aafn-6{list-style-type:none}ol.lst-kix\_h2r80t92aafn-8{list-style-type:none}.lst-kix\_1mactjhtpsm0-8>li:before{content:"\\0025a0 "}.lst-kix\_u31g3a4y2e81-7>li:before{content:"(" counter(lst-ctn-kix\_u31g3a4y2e81-7,lower-latin) ") "}.lst-kix\_1mactjhtpsm0-6>li:before{content:"\\0025cf "}.lst-kix\_aph4ud4tzuh8-4>li:before{content:"\\0025cb "}ol.lst-kix\_u31g3a4y2e81-8{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-6.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-6 0}ol.lst-kix\_u31g3a4y2e81-5{list-style-type:none}ol.lst-kix\_u31g3a4y2e81-4{list-style-type:none}ol.lst-kix\_u31g3a4y2e81-7{list-style-type:none}.lst-kix\_9q0vwty6g8dk-4>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-4}ol.lst-kix\_u31g3a4y2e81-6{list-style-type:none}.lst-kix\_vwd9lvw6yoas-4>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-4}.lst-kix\_s4vjpl9wdzad-7>li:before{content:"\\0025cb "}.lst-kix\_djnrwroxhuca-6>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-6}.lst-kix\_5uozeuw1zhj3-1>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-1}.lst-kix\_aph4ud4tzuh8-8>li:before{content:"\\0025a0 "}.lst-kix\_7ymal9q3suev-7>li:before{content:"\\0025cb "}.lst-kix\_s4vjpl9wdzad-3>li:before{content:"\\0025cf "}.lst-kix\_s4vjpl9wdzad-5>li:before{content:"\\0025a0 "}.lst-kix\_s4vjpl9wdzad-1>li:before{content:"\\0025cb "}.lst-kix\_wd8uuvwd2wd8-0>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-0}ol.lst-kix\_u31g3a4y2e81-1{list-style-type:none}ul.lst-kix\_dgx160lgxjud-1{list-style-type:none}ol.lst-kix\_u31g3a4y2e81-0{list-style-type:none}ol.lst-kix\_u31g3a4y2e81-3{list-style-type:none}.lst-kix\_wd8uuvwd2wd8-0>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-0,decimal) ". "}.lst-kix\_u31g3a4y2e81-1>li:before{content:"" counter(lst-ctn-kix\_u31g3a4y2e81-1,upper-latin) ". "}ol.lst-kix\_u31g3a4y2e81-2{list-style-type:none}.lst-kix\_fym1b2h3q8gi-0>li:before{content:"\\0025cf "}ol.lst-kix\_5uozeuw1zhj3-7.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-7 0}ol.lst-kix\_xyr4sts07d2a-6.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-6 0}.lst-kix\_4hx30jb3kw5z-6>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-6}ol.lst-kix\_ezd4im9wj4xg-7.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-7 0}.lst-kix\_fym1b2h3q8gi-4>li:before{content:"\\0025cb "}.lst-kix\_fym1b2h3q8gi-2>li:before{content:"\\0025a0 "}ol.lst-kix\_dgx160lgxjud-7.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-7 0}ol.lst-kix\_bhj1u1iou708-7.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-7 0}.lst-kix\_7mzpuoulp1nf-8>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-8}ol.lst-kix\_h2r80t92aafn-2.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-2 0}.lst-kix\_cm2g8skyr4bz-3>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-3}ol.lst-kix\_57n7pi9ql44n-5.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-5 0}.lst-kix\_dfzf8kydac75-7>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-7}ol.lst-kix\_wv45fdjk1no6-1.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-1 0}.lst-kix\_fym1b2h3q8gi-6>li:before{content:"\\0025cf "}ul.lst-kix\_xlt82mfm7yjm-5{list-style-type:none}ul.lst-kix\_xlt82mfm7yjm-4{list-style-type:none}ul.lst-kix\_xlt82mfm7yjm-3{list-style-type:none}ul.lst-kix\_xlt82mfm7yjm-2{list-style-type:none}.lst-kix\_fym1b2h3q8gi-8>li:before{content:"\\0025a0 "}ul.lst-kix\_xlt82mfm7yjm-8{list-style-type:none}ol.lst-kix\_p82ewsdtpvdv-6.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-6 0}ul.lst-kix\_xlt82mfm7yjm-7{list-style-type:none}ul.lst-kix\_xlt82mfm7yjm-6{list-style-type:none}.lst-kix\_58z2ekguc713-8>li{counter-increment:lst-ctn-kix\_58z2ekguc713-8}.lst-kix\_7wgvrdx8koj5-5>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-5}ol.lst-kix\_aiydnfnetrl2-0{list-style-type:none}.lst-kix\_vo7s6dgva2z5-0>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-0}.lst-kix\_7mzpuoulp1nf-1>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-1}.lst-kix\_nju6s3w8pcjr-6>li:before{content:"\\0025cb "}.lst-kix\_k5fvoamzha87-8>li:before{content:"\\0025a0 "}ol.lst-kix\_n5gs769i8n1l-5.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-5 0}.lst-kix\_e8ucyfjv1p5h-7>li:before{content:"\\0025cb "}.lst-kix\_fid05sqb0oeq-4>li:before{content:"\\0025cb "}ol.lst-kix\_sdpl7e9fpsf4-7.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-7 0}.lst-kix\_ezd4im9wj4xg-2>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-2}.lst-kix\_fid05sqb0oeq-0>li:before{content:"\\0025cf "}.lst-kix\_l2vwvtd64fgm-0>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-0}ol.lst-kix\_58z2ekguc713-0.start{counter-reset:lst-ctn-kix\_58z2ekguc713-0 0}.lst-kix\_y1zs6niyoe26-0>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-0,decimal) ". "}ol.lst-kix\_u31g3a4y2e81-0.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-0 0}.lst-kix\_57n7pi9ql44n-4>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-4}.lst-kix\_k5fvoamzha87-0>li:before{content:"\\0025cf "}.lst-kix\_y1zs6niyoe26-4>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-4,lower-latin) ". "}.lst-kix\_tfvxwy1nj4jt-1>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-1}.lst-kix\_kt92ox9vwh8l-1>li:before{content:"\\0025cb "}ul.lst-kix\_c2g37tioifxo-0{list-style-type:none}.lst-kix\_58z2ekguc713-1>li{counter-increment:lst-ctn-kix\_58z2ekguc713-1}.lst-kix\_k5fvoamzha87-4>li:before{content:"\\0025cb "}ul.lst-kix\_c2g37tioifxo-1{list-style-type:none}ul.lst-kix\_c2g37tioifxo-2{list-style-type:none}ul.lst-kix\_c2g37tioifxo-3{list-style-type:none}ul.lst-kix\_c2g37tioifxo-4{list-style-type:none}ul.lst-kix\_c2g37tioifxo-5{list-style-type:none}ul.lst-kix\_c2g37tioifxo-6{list-style-type:none}ul.lst-kix\_c2g37tioifxo-7{list-style-type:none}ul.lst-kix\_c2g37tioifxo-8{list-style-type:none}ol.lst-kix\_vwd9lvw6yoas-5.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-5 0}.lst-kix\_y1zs6niyoe26-8>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-8,lower-roman) ". "}.lst-kix\_fid05sqb0oeq-8>li:before{content:"\\0025a0 "}.lst-kix\_kpl05iruvgc1-5>li:before{content:"\\0025a0 "}ol.lst-kix\_7mzpuoulp1nf-8.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-8 0}.lst-kix\_1hw9yxtpj4be-2>li:before{content:"\\0025a0 "}ol.lst-kix\_ajo11ofktqgn-6{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-5{list-style-type:none}.lst-kix\_vqvg6ipvpfqq-5>li:before{content:"\\0025a0 "}ol.lst-kix\_ajo11ofktqgn-8{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-7{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-2{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-1{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-4{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-3{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-0{list-style-type:none}.lst-kix\_kt92ox9vwh8l-5>li:before{content:"\\0025a0 "}.lst-kix\_kpl05iruvgc1-1>li:before{content:"\\0025cb "}ol.lst-kix\_58z2ekguc713-5.start{counter-reset:lst-ctn-kix\_58z2ekguc713-5 0}ol.lst-kix\_l2vwvtd64fgm-4.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-4 0}ol.lst-kix\_u31g3a4y2e81-5.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-5 0}.lst-kix\_58l1l2i5zpbg-1>li:before{content:"\\0025cb "}.lst-kix\_7ymal9q3suev-3>li:before{content:"\\0025cf "}.lst-kix\_vqvg6ipvpfqq-1>li:before{content:"\\0025cb "}.lst-kix\_1mactjhtpsm0-4>li:before{content:"\\0025cb "}ol.lst-kix\_tfvxwy1nj4jt-0.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-0 0}.lst-kix\_58l1l2i5zpbg-5>li:before{content:"\\0025a0 "}.lst-kix\_57n7pi9ql44n-2>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-2}ol.lst-kix\_y1zs6niyoe26-5.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-5 0}.lst-kix\_1hw9yxtpj4be-6>li:before{content:"\\0025cf "}.lst-kix\_rnd69amlhcfp-7>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-7,lower-latin) ". "}.lst-kix\_1mactjhtpsm0-0>li:before{content:"\\0025cf "}.lst-kix\_tfvxwy1nj4jt-8>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-8}.lst-kix\_58z2ekguc713-7>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-7,lower-latin) ". "}.lst-kix\_e8ucyfjv1p5h-3>li:before{content:"\\0025cf "}.lst-kix\_xiy7d2ebdgja-3>li:before{content:"\\0025cf "}ul.lst-kix\_xiy7d2ebdgja-4{list-style-type:none}ul.lst-kix\_xiy7d2ebdgja-3{list-style-type:none}.lst-kix\_te2vv1364da4-4>li:before{content:"\\0025cb "}ul.lst-kix\_xiy7d2ebdgja-2{list-style-type:none}ul.lst-kix\_xiy7d2ebdgja-1{list-style-type:none}.lst-kix\_58z2ekguc713-3>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-3,decimal) ". "}.lst-kix\_h2r80t92aafn-2>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-2,lower-roman) ". "}.lst-kix\_h2r80t92aafn-6>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-6,decimal) ". "}.lst-kix\_cz8e60i93ezi-1>li:before{content:"\\0025c6 "}ul.lst-kix\_xiy7d2ebdgja-0{list-style-type:none}.lst-kix\_y1zs6niyoe26-1>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-1}ol.lst-kix\_jj605gbmml1r-3.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-3 0}ul.lst-kix\_xiy7d2ebdgja-8{list-style-type:none}ul.lst-kix\_xiy7d2ebdgja-7{list-style-type:none}ul.lst-kix\_xiy7d2ebdgja-6{list-style-type:none}ul.lst-kix\_xiy7d2ebdgja-5{list-style-type:none}.lst-kix\_5uozeuw1zhj3-4>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-4,lower-latin) ". "}.lst-kix\_cz8e60i93ezi-5>li:before{content:"\\0025cf "}.lst-kix\_xiy7d2ebdgja-7>li:before{content:"\\0025cb "}.lst-kix\_5uozeuw1zhj3-8>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-8,lower-roman) ". "}.lst-kix\_rnd69amlhcfp-3>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-3,decimal) ". "}.lst-kix\_te2vv1364da4-8>li:before{content:"\\0025a0 "}ol.lst-kix\_bhj1u1iou708-2.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-2 0}.lst-kix\_j9nmyip7dkax-1>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-1}ol.lst-kix\_jj605gbmml1r-0{list-style-type:none}ol.lst-kix\_jj605gbmml1r-2{list-style-type:none}ol.lst-kix\_jj605gbmml1r-3{list-style-type:none}ol.lst-kix\_jj605gbmml1r-4{list-style-type:none}.lst-kix\_58z2ekguc713-6>li{counter-increment:lst-ctn-kix\_58z2ekguc713-6}ol.lst-kix\_jj605gbmml1r-5{list-style-type:none}ol.lst-kix\_jj605gbmml1r-6{list-style-type:none}ol.lst-kix\_jj605gbmml1r-7{list-style-type:none}ol.lst-kix\_jj605gbmml1r-8{list-style-type:none}.lst-kix\_98y8vui06f7k-5>li:before{content:"\\0025a0 "}.lst-kix\_cm2g8skyr4bz-7>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-7,lower-latin) ". "}.lst-kix\_sdpl7e9fpsf4-4>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-4}.lst-kix\_7mzpuoulp1nf-6>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-6}.lst-kix\_98y8vui06f7k-1>li:before{content:"\\0025cb "}.lst-kix\_te2vv1364da4-0>li:before{content:"\\0025cf "}ol.lst-kix\_x10ctgg5t12l-0.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-0 0}ol.lst-kix\_j9nmyip7dkax-6.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-6 0}.lst-kix\_cm2g8skyr4bz-3>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-3,decimal) ". "}ol.lst-kix\_jj605gbmml1r-6.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-6 0}.lst-kix\_aiydnfnetrl2-3>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-3}ol.lst-kix\_39tglg5mgjot-1.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-1 0}.lst-kix\_dqbt5us2bm6z-3>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-3,decimal) ". "}.lst-kix\_sdpl7e9fpsf4-2>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-2,lower-roman) ". "}.lst-kix\_j9nmyip7dkax-8>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-8}.lst-kix\_dqbt5us2bm6z-7>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-7,lower-latin) ". "}ol.lst-kix\_cm2g8skyr4bz-8.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-8 0}ol.lst-kix\_wd8uuvwd2wd8-3.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-3 0}.lst-kix\_j9nmyip7dkax-2>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-2,lower-roman) ". "}.lst-kix\_j9nmyip7dkax-6>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-6,decimal) ". "}.lst-kix\_sdpl7e9fpsf4-6>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-6,decimal) ". "}.lst-kix\_k470ynu4dph8-3>li:before{content:"\\0025cf "}.lst-kix\_rnd69amlhcfp-2>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-2}ul.lst-kix\_57n7pi9ql44n-1{list-style-type:none}ol.lst-kix\_y1zs6niyoe26-8.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-8 0}.lst-kix\_k470ynu4dph8-7>li:before{content:"\\0025cb "}ol.lst-kix\_4hx30jb3kw5z-1.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-1 0}ol.lst-kix\_l2vwvtd64fgm-4{list-style-type:none}ol.lst-kix\_l2vwvtd64fgm-5{list-style-type:none}ol.lst-kix\_l2vwvtd64fgm-6{list-style-type:none}ol.lst-kix\_l2vwvtd64fgm-7{list-style-type:none}.lst-kix\_y1zs6niyoe26-8>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-8}ol.lst-kix\_l2vwvtd64fgm-0{list-style-type:none}ol.lst-kix\_u77xjui178ro-2.start{counter-reset:lst-ctn-kix\_u77xjui178ro-2 0}ol.lst-kix\_l2vwvtd64fgm-1{list-style-type:none}ol.lst-kix\_l2vwvtd64fgm-2{list-style-type:none}ol.lst-kix\_l2vwvtd64fgm-3{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-1.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-1 0}ol.lst-kix\_l2vwvtd64fgm-8{list-style-type:none}.lst-kix\_u77xjui178ro-5>li{counter-increment:lst-ctn-kix\_u77xjui178ro-5}.lst-kix\_5uozeuw1zhj3-0>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-0,upper-latin) ". "}.lst-kix\_agp5ft34ot7i-5>li:before{content:"\\0025cf "}ol.lst-kix\_vo7s6dgva2z5-6.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-6 0}.lst-kix\_xlt82mfm7yjm-4>li:before{content:"\\0025cb "}.lst-kix\_xlt82mfm7yjm-6>li:before{content:"\\0025cf "}.lst-kix\_agp5ft34ot7i-3>li:before{content:"\\0025cb "}ul.lst-kix\_kpdl8vbi9tf8-1{list-style-type:none}ul.lst-kix\_kpdl8vbi9tf8-0{list-style-type:none}.lst-kix\_3kc0onjmd4b3-1>li:before{content:"\\0025cb "}ol.lst-kix\_vwd9lvw6yoas-8.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-8 0}.lst-kix\_y3wkjw8slzdf-4>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-4}.lst-kix\_r7brh7p8jjg0-8>li:before{content:"\\0025cf "}.lst-kix\_9q0vwty6g8dk-2>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-2,lower-roman) ". "}ol.lst-kix\_u31g3a4y2e81-3.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-3 0}ol.lst-kix\_n5gs769i8n1l-2.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-2 0}.lst-kix\_9q0vwty6g8dk-4>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-4,lower-latin) ". "}.lst-kix\_jj605gbmml1r-6>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-6}.lst-kix\_39tglg5mgjot-2>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-2}.lst-kix\_z6qhzmnjbq57-8>li:before{content:"\\0025a0 "}.lst-kix\_dgx160lgxjud-8>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-8}ol.lst-kix\_ajo11ofktqgn-4.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-4 0}ol.lst-kix\_dqbt5us2bm6z-5.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-5 0}.lst-kix\_6kbo64nt5692-5>li:before{content:"\\0025a0 "}ol.lst-kix\_y1zs6niyoe26-3.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-3 0}.lst-kix\_u77xjui178ro-3>li{counter-increment:lst-ctn-kix\_u77xjui178ro-3}.lst-kix\_n5gs769i8n1l-2>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-2}.lst-kix\_tfk6vvlrj21u-5>li:before{content:"\\0025a0 "}.lst-kix\_p82ewsdtpvdv-8>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-8}.lst-kix\_xyr4sts07d2a-6>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-6}ol.lst-kix\_wd8uuvwd2wd8-1.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-1 0}.lst-kix\_6kbo64nt5692-3>li:before{content:"\\0025cf "}.lst-kix\_dqbt5us2bm6z-7>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-7}.lst-kix\_tfk6vvlrj21u-7>li:before{content:"\\0025cb "}.lst-kix\_dfzf8kydac75-2>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-2,lower-roman) ". "}.lst-kix\_dfzf8kydac75-0>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-0,decimal) ". "}.lst-kix\_ajo11ofktqgn-8>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-8}.lst-kix\_j9nmyip7dkax-3>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-3}ol.lst-kix\_n5gs769i8n1l-7.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-7 0}.lst-kix\_dfzf8kydac75-8>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-8,lower-roman) ". "}.lst-kix\_7wgvrdx8koj5-3>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-3}ol.lst-kix\_vo7s6dgva2z5-1.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-1 0}.lst-kix\_vo7s6dgva2z5-5>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-5}ol.lst-kix\_u77xjui178ro-5.start{counter-reset:lst-ctn-kix\_u77xjui178ro-5 0}.lst-kix\_x10ctgg5t12l-7>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-7,lower-latin) ". "}.lst-kix\_rnd69amlhcfp-0>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-0}.lst-kix\_kpdl8vbi9tf8-7>li:before{content:"\\0025c6 "}.lst-kix\_x10ctgg5t12l-5>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-5,lower-roman) ". "}ol.lst-kix\_sdpl7e9fpsf4-8{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-6{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-7{list-style-type:none}.lst-kix\_cm2g8skyr4bz-8>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-8}ol.lst-kix\_sdpl7e9fpsf4-0{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-1{list-style-type:none}.lst-kix\_kpdl8vbi9tf8-1>li:before{content:"\\0025c6 "}ol.lst-kix\_sdpl7e9fpsf4-4{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-5{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-2{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-3{list-style-type:none}ol.lst-kix\_58z2ekguc713-7.start{counter-reset:lst-ctn-kix\_58z2ekguc713-7 0}ol.lst-kix\_dfzf8kydac75-8.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-8 0}.lst-kix\_bhj1u1iou708-5>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-5,lower-roman) ". "}.lst-kix\_bhj1u1iou708-3>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-3,decimal) ". "}ol.lst-kix\_7mzpuoulp1nf-3.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-3 0}ol.lst-kix\_bhj1u1iou708-5.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-5 0}.lst-kix\_deuxbmtywfod-5>li:before{content:"\\0025a0 "}.lst-kix\_35jk86l9l7na-3>li:before{content:"\\0025cf "}.lst-kix\_deuxbmtywfod-3>li:before{content:"\\0025cf "}.lst-kix\_6jlxkfg6y4y-1>li:before{content:"\\0025cb "}.lst-kix\_35jk86l9l7na-1>li:before{content:"\\0025cb "}ol.lst-kix\_u77xjui178ro-7.start{counter-reset:lst-ctn-kix\_u77xjui178ro-7 0}.lst-kix\_6jlxkfg6y4y-7>li:before{content:"\\0025cb "}.lst-kix\_ezd4im9wj4xg-4>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-4,lower-latin) ". "}.lst-kix\_fomhzjwlnhtq-1>li:before{content:"\\0025cb "}.lst-kix\_l2vwvtd64fgm-5>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-5}.lst-kix\_fomhzjwlnhtq-3>li:before{content:"\\0025cf "}.lst-kix\_imtfae5sqdw0-8>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-8,lower-roman) ". "}.lst-kix\_dgx160lgxjud-5>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-5}ol.lst-kix\_vwd9lvw6yoas-3.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-3 0}.lst-kix\_ezd4im9wj4xg-4>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-4}.lst-kix\_imtfae5sqdw0-6>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-6,decimal) ". "}ol.lst-kix\_vo7s6dgva2z5-4.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-4 0}.lst-kix\_w8lhq089xdod-0>li:before{content:"\\0025cf "}.lst-kix\_w8lhq089xdod-8>li:before{content:"\\0025a0 "}.lst-kix\_5uozeuw1zhj3-6>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-6}.lst-kix\_z6qhzmnjbq57-0>li:before{content:"\\0025cf "}.lst-kix\_l2vwvtd64fgm-3>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-3,decimal) ". "}.lst-kix\_w8lhq089xdod-2>li:before{content:"\\0025a0 "}ol.lst-kix\_u31g3a4y2e81-8.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-8 0}.lst-kix\_wd8uuvwd2wd8-5>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-5}.lst-kix\_z6qhzmnjbq57-2>li:before{content:"\\0025a0 "}.lst-kix\_l2vwvtd64fgm-5>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-5,lower-roman) ". "}.lst-kix\_imtfae5sqdw0-0>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-0,decimal) ". "}ol.lst-kix\_7mzpuoulp1nf-5.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-5 0}ol.lst-kix\_dqbt5us2bm6z-0.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-0 0}.lst-kix\_p82ewsdtpvdv-1>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-1}.lst-kix\_xyr4sts07d2a-2>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-2}.lst-kix\_sdpl7e9fpsf4-6>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-6}.lst-kix\_r7brh7p8jjg0-0>li:before{content:"\\002794 "}.lst-kix\_r7brh7p8jjg0-6>li:before{content:"\\0025cb "}.lst-kix\_yceir2d6i8hu-4>li:before{content:"\\0025cb "}.lst-kix\_nju6s3w8pcjr-2>li:before{content:"\\0025cf "}ul.lst-kix\_kpdl8vbi9tf8-3{list-style-type:none}ul.lst-kix\_kpdl8vbi9tf8-2{list-style-type:none}ul.lst-kix\_kpdl8vbi9tf8-5{list-style-type:none}.lst-kix\_yceir2d6i8hu-6>li:before{content:"\\0025cf "}ul.lst-kix\_kpdl8vbi9tf8-4{list-style-type:none}ul.lst-kix\_kpdl8vbi9tf8-7{list-style-type:none}ul.lst-kix\_kpdl8vbi9tf8-6{list-style-type:none}ul.lst-kix\_kpdl8vbi9tf8-8{list-style-type:none}.lst-kix\_nju6s3w8pcjr-0>li:before{content:"\\002794 "}ul.lst-kix\_1mactjhtpsm0-7{list-style-type:none}ul.lst-kix\_1mactjhtpsm0-8{list-style-type:none}ul.lst-kix\_1mactjhtpsm0-5{list-style-type:none}ul.lst-kix\_1mactjhtpsm0-6{list-style-type:none}ul.lst-kix\_1mactjhtpsm0-3{list-style-type:none}ul.lst-kix\_1mactjhtpsm0-4{list-style-type:none}.lst-kix\_e8ucyfjv1p5h-5>li:before{content:"\\0025a0 "}ul.lst-kix\_1mactjhtpsm0-1{list-style-type:none}.lst-kix\_wv45fdjk1no6-1>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-1}ul.lst-kix\_1mactjhtpsm0-2{list-style-type:none}.lst-kix\_f8fa4dga3qh-1>li:before{content:"\\0025cb "}ul.lst-kix\_1mactjhtpsm0-0{list-style-type:none}ol.lst-kix\_dfzf8kydac75-1.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-1 0}.lst-kix\_fid05sqb0oeq-2>li:before{content:"\\0025a0 "}.lst-kix\_cmhzr736lvz9-3>li:before{content:"\\0025cf "}ol.lst-kix\_9q0vwty6g8dk-6.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-6 0}.lst-kix\_nju6s3w8pcjr-8>li:before{content:"\\0025cf "}ol.lst-kix\_7wgvrdx8koj5-3.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-3 0}.lst-kix\_bhj1u1iou708-2>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-2}.lst-kix\_y1zs6niyoe26-2>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-2,lower-roman) ". "}.lst-kix\_x10ctgg5t12l-5>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-5}ol.lst-kix\_h2r80t92aafn-4.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-4 0}ol.lst-kix\_ajo11ofktqgn-1.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-1 0}.lst-kix\_p82ewsdtpvdv-5>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-5}.lst-kix\_avd7hz4yxpwp-7>li:before{content:"\\0025c6 "}ol.lst-kix\_y1zs6niyoe26-0.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-0 0}.lst-kix\_k5fvoamzha87-6>li:before{content:"\\0025cf "}ol.lst-kix\_xyr4sts07d2a-3{list-style-type:none}ol.lst-kix\_xyr4sts07d2a-2{list-style-type:none}ol.lst-kix\_xyr4sts07d2a-5{list-style-type:none}.lst-kix\_1hw9yxtpj4be-0>li:before{content:"\\0025cf "}ol.lst-kix\_ezd4im9wj4xg-4.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-4 0}ol.lst-kix\_xyr4sts07d2a-4{list-style-type:none}ol.lst-kix\_xyr4sts07d2a-7{list-style-type:none}ol.lst-kix\_xyr4sts07d2a-6{list-style-type:none}ol.lst-kix\_xyr4sts07d2a-8{list-style-type:none}ol.lst-kix\_dfzf8kydac75-6.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-6 0}.lst-kix\_dwdfsf4pr030-6>li:before{content:"\\0025cb "}ol.lst-kix\_n5gs769i8n1l-0.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-0 0}.lst-kix\_kpl05iruvgc1-7>li:before{content:"\\0025cb "}ol.lst-kix\_xyr4sts07d2a-1{list-style-type:none}ol.lst-kix\_xyr4sts07d2a-0{list-style-type:none}ol.lst-kix\_dqbt5us2bm6z-8.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-8 0}.lst-kix\_7mzpuoulp1nf-3>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-3}.lst-kix\_39tglg5mgjot-5>li:before{content:"(" counter(lst-ctn-kix\_39tglg5mgjot-5,lower-latin) ") "}.lst-kix\_x10ctgg5t12l-1>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-1}.lst-kix\_kt92ox9vwh8l-3>li:before{content:"\\0025cf "}.lst-kix\_7ymal9q3suev-5>li:before{content:"\\0025a0 "}.lst-kix\_1cvaav37tqxz-0>li:before{content:"\\0025cf "}.lst-kix\_57n7pi9ql44n-3>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-3,decimal) ". "}.lst-kix\_jj605gbmml1r-3>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-3}.lst-kix\_wv45fdjk1no6-5>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-5}.lst-kix\_1cvaav37tqxz-8>li:before{content:"\\0025a0 "}.lst-kix\_u31g3a4y2e81-5>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-5}ol.lst-kix\_9q0vwty6g8dk-1.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-1 0}.lst-kix\_58l1l2i5zpbg-3>li:before{content:"\\0025cf "}.lst-kix\_1mactjhtpsm0-2>li:before{content:"\\0025a0 "}ol.lst-kix\_vwd9lvw6yoas-0.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-0 0}.lst-kix\_1hw9yxtpj4be-8>li:before{content:"\\0025a0 "}ol.lst-kix\_dqbt5us2bm6z-3.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-3 0}ol.lst-kix\_9q0vwty6g8dk-7.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-7 0}.lst-kix\_5uozeuw1zhj3-3>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-3}ol.lst-kix\_9q0vwty6g8dk-2.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-2 0}.lst-kix\_58z2ekguc713-1>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-1,lower-latin) ". "}.lst-kix\_aiydnfnetrl2-1>li:before{content:"\\0025cf "}.lst-kix\_xiy7d2ebdgja-1>li:before{content:"\\0025cb "}.lst-kix\_igwf2qn1rr2y-3>li:before{content:"\\0025cf "}ol.lst-kix\_ezd4im9wj4xg-2.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-2 0}.lst-kix\_te2vv1364da4-2>li:before{content:"\\0025a0 "}.lst-kix\_cz8e60i93ezi-7>li:before{content:"\\0025c6 "}.lst-kix\_90w0an7lz7j1-5>li:before{content:"\\0025a0 "}.lst-kix\_rnd69amlhcfp-5>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-5,lower-roman) ". "}.lst-kix\_7mzpuoulp1nf-7>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-7,lower-roman) ". "}.lst-kix\_x10ctgg5t12l-8>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-8}.lst-kix\_5uozeuw1zhj3-6>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-6,decimal) ". "}.lst-kix\_h2r80t92aafn-8>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-8,lower-roman) ". "}.lst-kix\_y3wkjw8slzdf-3>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-3,decimal) ". "}ol.lst-kix\_7mzpuoulp1nf-0.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-0 0}.lst-kix\_n5gs769i8n1l-6>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-6}.lst-kix\_wd8uuvwd2wd8-2>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-2}.lst-kix\_98y8vui06f7k-7>li:before{content:"\\0025cb "}.lst-kix\_5wgrz5uafcjq-1>li:before{content:"\\0025cb "}.lst-kix\_tfvxwy1nj4jt-3>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-3,decimal) ". "}.lst-kix\_p82ewsdtpvdv-5>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-5,lower-roman) ". "}.lst-kix\_5j60k3ufcsn0-5>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-5}.lst-kix\_cm2g8skyr4bz-1>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-1}.lst-kix\_sdpl7e9fpsf4-8>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-8,lower-roman) ". "}.lst-kix\_cm2g8skyr4bz-1>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-1,lower-latin) ". "}.lst-kix\_vqvg6ipvpfqq-7>li:before{content:"\\0025cb "}.lst-kix\_ajo11ofktqgn-4>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-4,lower-latin) ". "}ol.lst-kix\_dfzf8kydac75-3.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-3 0}ol.lst-kix\_7wgvrdx8koj5-5{list-style-type:none}.lst-kix\_sdpl7e9fpsf4-0>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-0,decimal) ". "}ol.lst-kix\_7wgvrdx8koj5-6{list-style-type:none}ol.lst-kix\_7wgvrdx8koj5-3{list-style-type:none}ol.lst-kix\_7wgvrdx8koj5-4{list-style-type:none}.lst-kix\_5j60k3ufcsn0-4>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-4,lower-latin) ". "}ol.lst-kix\_7wgvrdx8koj5-1{list-style-type:none}ol.lst-kix\_7wgvrdx8koj5-2{list-style-type:none}ol.lst-kix\_7wgvrdx8koj5-0{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-4.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-4 0}.lst-kix\_dqbt5us2bm6z-5>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-5,lower-roman) ". "}.lst-kix\_mx1fwxwtx4ng-4>li:before{content:"\\0025cb "}.lst-kix\_g19yvew0v636-8>li:before{content:"\\0025a0 "}.lst-kix\_tfvxwy1nj4jt-4>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-4}.lst-kix\_j9nmyip7dkax-4>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-4,lower-latin) ". "}.lst-kix\_5s9f45n8y01l-7>li:before{content:"\\0025cb "}.lst-kix\_k470ynu4dph8-1>li:before{content:"\\0025cb "}ol.lst-kix\_7wgvrdx8koj5-7{list-style-type:none}ol.lst-kix\_7wgvrdx8koj5-8{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-1{list-style-type:none}ol.lst-kix\_wd8uuvwd2wd8-2{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-2{list-style-type:none}ol.lst-kix\_wd8uuvwd2wd8-3{list-style-type:none}ol.lst-kix\_wd8uuvwd2wd8-4{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-0{list-style-type:none}ol.lst-kix\_wd8uuvwd2wd8-5{list-style-type:none}.lst-kix\_ajo11ofktqgn-1>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-1}ol.lst-kix\_wd8uuvwd2wd8-0{list-style-type:none}ol.lst-kix\_wd8uuvwd2wd8-1{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-6.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-6 0}.lst-kix\_imtfae5sqdw0-4>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-4}.lst-kix\_t0auh7peo3x7-2>li:before{content:"\\0025a0 "}ol.lst-kix\_5uozeuw1zhj3-7{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-8{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-5{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-6{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-3{list-style-type:none}.lst-kix\_g19yvew0v636-0>li:before{content:"\\0025cf "}ol.lst-kix\_5uozeuw1zhj3-4{list-style-type:none}.lst-kix\_vwd9lvw6yoas-1>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-1,lower-latin) ". "}.lst-kix\_h2r80t92aafn-0>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-0,decimal) ". "}ol.lst-kix\_wd8uuvwd2wd8-6{list-style-type:none}.lst-kix\_3kc0onjmd4b3-7>li:before{content:"\\0025cb "}ol.lst-kix\_wd8uuvwd2wd8-7{list-style-type:none}.lst-kix\_c2g37tioifxo-4>li:before{content:"\\0025c6 "}ol.lst-kix\_wd8uuvwd2wd8-8{list-style-type:none}.lst-kix\_1zngtyti13gc-4>li:before{content:"\\0025cb "}ol.lst-kix\_xyr4sts07d2a-4.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-4 0}ul.lst-kix\_1cvaav37tqxz-8{list-style-type:none}.lst-kix\_dgx160lgxjud-4>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-4,lower-latin) ". "}.lst-kix\_n5gs769i8n1l-7>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-7,lower-latin) ". "}ul.lst-kix\_1cvaav37tqxz-5{list-style-type:none}ul.lst-kix\_1cvaav37tqxz-4{list-style-type:none}ul.lst-kix\_1cvaav37tqxz-7{list-style-type:none}ul.lst-kix\_1cvaav37tqxz-6{list-style-type:none}.lst-kix\_vo7s6dgva2z5-8>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-8,lower-roman) ". "}ul.lst-kix\_1cvaav37tqxz-1{list-style-type:none}ul.lst-kix\_1cvaav37tqxz-0{list-style-type:none}ol.lst-kix\_j9nmyip7dkax-8{list-style-type:none}ul.lst-kix\_1cvaav37tqxz-3{list-style-type:none}ul.lst-kix\_1cvaav37tqxz-2{list-style-type:none}ol.lst-kix\_j9nmyip7dkax-6{list-style-type:none}.lst-kix\_ajo11ofktqgn-6>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-6}ol.lst-kix\_j9nmyip7dkax-7{list-style-type:none}.lst-kix\_p82ewsdtpvdv-6>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-6}ol.lst-kix\_j9nmyip7dkax-4{list-style-type:none}.lst-kix\_dgx160lgxjud-5>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-5,lower-roman) ". "}ol.lst-kix\_j9nmyip7dkax-5{list-style-type:none}.lst-kix\_n5gs769i8n1l-6>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-6,decimal) ". "}ol.lst-kix\_58z2ekguc713-3.start{counter-reset:lst-ctn-kix\_58z2ekguc713-3 0}.lst-kix\_9q0vwty6g8dk-8>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-8}.lst-kix\_dgx160lgxjud-8>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-8,lower-roman) ". "}.lst-kix\_vo7s6dgva2z5-5>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-5,lower-roman) ". "}ol.lst-kix\_y1zs6niyoe26-3{list-style-type:none}.lst-kix\_jnql0gsch18r-4>li:before{content:"\\0025cb "}.lst-kix\_5s9f45n8y01l-0>li:before{content:"\\0025cf "}ol.lst-kix\_y1zs6niyoe26-2{list-style-type:none}ol.lst-kix\_y1zs6niyoe26-1{list-style-type:none}ol.lst-kix\_y1zs6niyoe26-0{list-style-type:none}ol.lst-kix\_58z2ekguc713-8.start{counter-reset:lst-ctn-kix\_58z2ekguc713-8 0}.lst-kix\_jj605gbmml1r-4>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-4}.lst-kix\_jnql0gsch18r-1>li:before{content:"\\0025cb "}.lst-kix\_u77xjui178ro-2>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-2,lower-roman) ". "}.lst-kix\_58z2ekguc713-4>li{counter-increment:lst-ctn-kix\_58z2ekguc713-4}.lst-kix\_u77xjui178ro-8>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-8,lower-roman) ". "}.lst-kix\_n5gs769i8n1l-0>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-0,decimal) ". "}ol.lst-kix\_ezd4im9wj4xg-0.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-0 0}ol.lst-kix\_tfvxwy1nj4jt-8.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-8 0}.lst-kix\_dgx160lgxjud-2>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-2,lower-roman) ". "}ol.lst-kix\_y1zs6niyoe26-8{list-style-type:none}.lst-kix\_u77xjui178ro-5>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-5,lower-roman) ". "}.lst-kix\_n5gs769i8n1l-3>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-3,decimal) ". "}ol.lst-kix\_y1zs6niyoe26-7{list-style-type:none}ol.lst-kix\_y1zs6niyoe26-6{list-style-type:none}ol.lst-kix\_y1zs6niyoe26-5{list-style-type:none}.lst-kix\_wv45fdjk1no6-0>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-0}.lst-kix\_dgx160lgxjud-1>li:before{content:"\\0025cf "}ol.lst-kix\_y1zs6niyoe26-4{list-style-type:none}.lst-kix\_u77xjui178ro-6>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-6,decimal) ". "}.lst-kix\_ajo11ofktqgn-7>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-7,lower-latin) ". "}.lst-kix\_rptp6kc3szns-7>li:before{content:"\\0025cb "}.lst-kix\_rsuua6a2lwof-3>li:before{content:"\\0025cf "}.lst-kix\_rsuua6a2lwof-2>li:before{content:"\\0025a0 "}.lst-kix\_imtfae5sqdw0-0>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-0}.lst-kix\_vwd9lvw6yoas-8>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-8}ul.lst-kix\_6kbo64nt5692-5{list-style-type:none}ul.lst-kix\_6kbo64nt5692-6{list-style-type:none}ul.lst-kix\_6kbo64nt5692-7{list-style-type:none}.lst-kix\_dgx160lgxjud-6>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-6}ul.lst-kix\_6kbo64nt5692-8{list-style-type:none}ul.lst-kix\_6kbo64nt5692-1{list-style-type:none}ul.lst-kix\_6kbo64nt5692-2{list-style-type:none}ul.lst-kix\_6kbo64nt5692-3{list-style-type:none}ul.lst-kix\_6kbo64nt5692-4{list-style-type:none}.lst-kix\_rsuua6a2lwof-0>li:before{content:"\\0025cf "}.lst-kix\_7mzpuoulp1nf-4>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-4}.lst-kix\_y1zs6niyoe26-4>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-4}.lst-kix\_jnql0gsch18r-7>li:before{content:"\\0025cb "}.lst-kix\_n3mx1wjo5e1o-6>li:before{content:"\\0025cf "}ol.lst-kix\_vo7s6dgva2z5-7.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-7 0}.lst-kix\_jnql0gsch18r-8>li:before{content:"\\0025a0 "}ul.lst-kix\_6kbo64nt5692-0{list-style-type:none}.lst-kix\_u31g3a4y2e81-2>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-2}.lst-kix\_n5gs769i8n1l-7>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-7}.lst-kix\_n3mx1wjo5e1o-3>li:before{content:"\\0025cf "}ol.lst-kix\_tfvxwy1nj4jt-8{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-8.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-8 0}.lst-kix\_jj605gbmml1r-1>li:before{content:"\\0025cf "}ol.lst-kix\_tfvxwy1nj4jt-3{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-3.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-3 0}ol.lst-kix\_tfvxwy1nj4jt-2{list-style-type:none}ol.lst-kix\_tfvxwy1nj4jt-1{list-style-type:none}ol.lst-kix\_tfvxwy1nj4jt-0{list-style-type:none}.lst-kix\_jj605gbmml1r-0>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-0,decimal) ". "}ol.lst-kix\_tfvxwy1nj4jt-7{list-style-type:none}.lst-kix\_n3mx1wjo5e1o-0>li:before{content:"\\0025cf "}ol.lst-kix\_tfvxwy1nj4jt-6{list-style-type:none}ol.lst-kix\_tfvxwy1nj4jt-5{list-style-type:none}ol.lst-kix\_tfvxwy1nj4jt-4{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-2.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-2 0}.lst-kix\_rsuua6a2lwof-6>li:before{content:"\\0025cf "}.lst-kix\_jj605gbmml1r-4>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-4,lower-latin) ". "}.lst-kix\_jj605gbmml1r-6>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-6,decimal) ". "}.lst-kix\_57n7pi9ql44n-0>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-0}.lst-kix\_7mzpuoulp1nf-2>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-2,decimal) ". "}ol.lst-kix\_dgx160lgxjud-5.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-5 0}.lst-kix\_h2r80t92aafn-6>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-6}ol.lst-kix\_9q0vwty6g8dk-8{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-7{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-2{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-1{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-0{list-style-type:none}ul.lst-kix\_dwdfsf4pr030-0{list-style-type:none}ul.lst-kix\_dwdfsf4pr030-1{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-6{list-style-type:none}.lst-kix\_4hx30jb3kw5z-4>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-4,lower-roman) ". "}ol.lst-kix\_9q0vwty6g8dk-5{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-4{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-3{list-style-type:none}.lst-kix\_bhj1u1iou708-7>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-7}.lst-kix\_7mzpuoulp1nf-4>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-4,lower-roman) ". "}.lst-kix\_p82ewsdtpvdv-2>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-2,lower-roman) ". "}ol.lst-kix\_p82ewsdtpvdv-8.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-8 0}.lst-kix\_tfvxwy1nj4jt-4>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-4,lower-latin) ". "}.lst-kix\_7wgvrdx8koj5-0>li:before{content:"" counter(lst-ctn-kix\_7wgvrdx8koj5-0,upper-roman) ". "}.lst-kix\_wv45fdjk1no6-8>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-8}.lst-kix\_5wgrz5uafcjq-4>li:before{content:"\\0025cb "}.lst-kix\_p82ewsdtpvdv-0>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-0,decimal) ". "}.lst-kix\_4hx30jb3kw5z-0>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-0,lower-latin) ". "}ul.lst-kix\_dwdfsf4pr030-6{list-style-type:none}.lst-kix\_p82ewsdtpvdv-6>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-6,decimal) ". "}ul.lst-kix\_dwdfsf4pr030-7{list-style-type:none}.lst-kix\_7wgvrdx8koj5-4>li:before{content:"(" counter(lst-ctn-kix\_7wgvrdx8koj5-4,decimal) ") "}.lst-kix\_5wgrz5uafcjq-0>li:before{content:"\\0025cf "}ul.lst-kix\_dwdfsf4pr030-8{list-style-type:none}.lst-kix\_x10ctgg5t12l-7>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-7}.lst-kix\_5j60k3ufcsn0-2>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-2}ul.lst-kix\_dwdfsf4pr030-2{list-style-type:none}ul.lst-kix\_dwdfsf4pr030-3{list-style-type:none}ol.lst-kix\_u31g3a4y2e81-7.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-7 0}ul.lst-kix\_dwdfsf4pr030-4{list-style-type:none}ul.lst-kix\_dwdfsf4pr030-5{list-style-type:none}.lst-kix\_ajo11ofktqgn-3>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-3,decimal) ". "}.lst-kix\_sdpl7e9fpsf4-1>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-1}ol.lst-kix\_vwd9lvw6yoas-8{list-style-type:none}ol.lst-kix\_vo7s6dgva2z5-2.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-2 0}ol.lst-kix\_vwd9lvw6yoas-1{list-style-type:none}.lst-kix\_tfvxwy1nj4jt-0>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-0,decimal) ". "}ol.lst-kix\_vwd9lvw6yoas-0{list-style-type:none}.lst-kix\_5wgrz5uafcjq-6>li:before{content:"\\0025cf "}ol.lst-kix\_vwd9lvw6yoas-3{list-style-type:none}ol.lst-kix\_vwd9lvw6yoas-2{list-style-type:none}ol.lst-kix\_vwd9lvw6yoas-5{list-style-type:none}ol.lst-kix\_vwd9lvw6yoas-4{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-3.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-3 0}ol.lst-kix\_vwd9lvw6yoas-7{list-style-type:none}ol.lst-kix\_vwd9lvw6yoas-6{list-style-type:none}.lst-kix\_rptp6kc3szns-4>li:before{content:"\\0025cb "}ul.lst-kix\_cmhzr736lvz9-2{list-style-type:none}ol.lst-kix\_4hx30jb3kw5z-7.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-7 0}ul.lst-kix\_cmhzr736lvz9-3{list-style-type:none}ul.lst-kix\_cmhzr736lvz9-0{list-style-type:none}.lst-kix\_5j60k3ufcsn0-5>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-5,lower-roman) ". "}ul.lst-kix\_cmhzr736lvz9-1{list-style-type:none}ol.lst-kix\_7wgvrdx8koj5-4.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-4 0}.lst-kix\_rptp6kc3szns-0>li:before{content:"\\0025cf "}.lst-kix\_c2g37tioifxo-7>li:before{content:"\\0025c6 "}.lst-kix\_5j60k3ufcsn0-1>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-1,lower-latin) ". "}.lst-kix\_791sozx61ms4-4>li:before{content:"\\0025c6 "}ol.lst-kix\_y3wkjw8slzdf-0{list-style-type:none}ul.lst-kix\_mx1fwxwtx4ng-4{list-style-type:none}.lst-kix\_1riw3buqnalm-2>li:before{content:"\\0025cf "}ul.lst-kix\_mx1fwxwtx4ng-5{list-style-type:none}.lst-kix\_xyr4sts07d2a-6>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-6,decimal) ". "}ul.lst-kix\_mx1fwxwtx4ng-2{list-style-type:none}ul.lst-kix\_mx1fwxwtx4ng-3{list-style-type:none}.lst-kix\_791sozx61ms4-0>li:before{content:"\\002794 "}ul.lst-kix\_mx1fwxwtx4ng-0{list-style-type:none}.lst-kix\_5s9f45n8y01l-6>li:before{content:"\\0025cf "}ul.lst-kix\_mx1fwxwtx4ng-1{list-style-type:none}.lst-kix\_t0auh7peo3x7-1>li:before{content:"\\0025cb "}ol.lst-kix\_imtfae5sqdw0-2.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-2 0}ul.lst-kix\_cmhzr736lvz9-8{list-style-type:none}ul.lst-kix\_mx1fwxwtx4ng-8{list-style-type:none}ul.lst-kix\_cmhzr736lvz9-6{list-style-type:none}ul.lst-kix\_cmhzr736lvz9-7{list-style-type:none}ul.lst-kix\_mx1fwxwtx4ng-6{list-style-type:none}ul.lst-kix\_cmhzr736lvz9-4{list-style-type:none}ul.lst-kix\_mx1fwxwtx4ng-7{list-style-type:none}ul.lst-kix\_cmhzr736lvz9-5{list-style-type:none}.lst-kix\_t0auh7peo3x7-5>li:before{content:"\\0025a0 "}.lst-kix\_xyr4sts07d2a-4>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-4,lower-latin) ". "}.lst-kix\_vo7s6dgva2z5-2>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-2,lower-roman) ". "}.lst-kix\_u77xjui178ro-8>li{counter-increment:lst-ctn-kix\_u77xjui178ro-8}.lst-kix\_7mzpuoulp1nf-8>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-8,decimal) ". "}ol.lst-kix\_j9nmyip7dkax-2{list-style-type:none}.lst-kix\_c2g37tioifxo-3>li:before{content:"\\0025cb "}.lst-kix\_g19yvew0v636-5>li:before{content:"\\0025a0 "}ol.lst-kix\_y3wkjw8slzdf-1{list-style-type:none}ul.lst-kix\_igwf2qn1rr2y-4{list-style-type:none}ol.lst-kix\_j9nmyip7dkax-3{list-style-type:none}ol.lst-kix\_l2vwvtd64fgm-2.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-2 0}ol.lst-kix\_y3wkjw8slzdf-2{list-style-type:none}ul.lst-kix\_igwf2qn1rr2y-3{list-style-type:none}ol.lst-kix\_j9nmyip7dkax-0{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-3{list-style-type:none}ul.lst-kix\_igwf2qn1rr2y-6{list-style-type:none}ol.lst-kix\_j9nmyip7dkax-1{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-4{list-style-type:none}ul.lst-kix\_igwf2qn1rr2y-5{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-5{list-style-type:none}ul.lst-kix\_igwf2qn1rr2y-8{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-6{list-style-type:none}ul.lst-kix\_igwf2qn1rr2y-7{list-style-type:none}.lst-kix\_u77xjui178ro-2>li{counter-increment:lst-ctn-kix\_u77xjui178ro-2}ol.lst-kix\_y3wkjw8slzdf-7{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-8{list-style-type:none}.lst-kix\_g19yvew0v636-3>li:before{content:"\\0025cf "}.lst-kix\_791sozx61ms4-6>li:before{content:"\\0025cb "}ul.lst-kix\_igwf2qn1rr2y-0{list-style-type:none}.lst-kix\_xyr4sts07d2a-0>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-0,decimal) ". "}.lst-kix\_t0auh7peo3x7-7>li:before{content:"\\0025cb "}ul.lst-kix\_igwf2qn1rr2y-2{list-style-type:none}ol.lst-kix\_tfvxwy1nj4jt-3.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-3 0}ul.lst-kix\_igwf2qn1rr2y-1{list-style-type:none}ol.lst-kix\_u31g3a4y2e81-6.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-6 0}.lst-kix\_rnd69amlhcfp-5>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-5}.lst-kix\_f8fa4dga3qh-2>li:before{content:"\\0025a0 "}.lst-kix\_57n7pi9ql44n-6>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-6}ol.lst-kix\_imtfae5sqdw0-1.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-1 0}.lst-kix\_j9nmyip7dkax-6>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-6}ol.lst-kix\_dfzf8kydac75-4{list-style-type:none}ol.lst-kix\_dfzf8kydac75-3{list-style-type:none}ol.lst-kix\_dfzf8kydac75-6{list-style-type:none}ol.lst-kix\_dfzf8kydac75-5{list-style-type:none}ol.lst-kix\_dfzf8kydac75-8{list-style-type:none}ol.lst-kix\_dfzf8kydac75-7{list-style-type:none}ul.lst-kix\_o244rjhq4jcq-0{list-style-type:none}ul.lst-kix\_o244rjhq4jcq-2{list-style-type:none}ul.lst-kix\_o244rjhq4jcq-1{list-style-type:none}ul.lst-kix\_o244rjhq4jcq-4{list-style-type:none}ul.lst-kix\_o244rjhq4jcq-3{list-style-type:none}ul.lst-kix\_o244rjhq4jcq-6{list-style-type:none}ol.lst-kix\_dfzf8kydac75-0{list-style-type:none}ul.lst-kix\_o244rjhq4jcq-5{list-style-type:none}.lst-kix\_7wgvrdx8koj5-0>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-0}ul.lst-kix\_o244rjhq4jcq-8{list-style-type:none}ol.lst-kix\_dfzf8kydac75-2{list-style-type:none}.lst-kix\_cmhzr736lvz9-5>li:before{content:"\\0025a0 "}ul.lst-kix\_o244rjhq4jcq-7{list-style-type:none}ol.lst-kix\_dfzf8kydac75-1{list-style-type:none}.lst-kix\_avd7hz4yxpwp-1>li:before{content:"\\0025c6 "}.lst-kix\_avd7hz4yxpwp-2>li:before{content:"\\0025cf "}.lst-kix\_9q0vwty6g8dk-7>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-7}.lst-kix\_avd7hz4yxpwp-5>li:before{content:"\\0025cf "}.lst-kix\_vwd9lvw6yoas-2>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-2}.lst-kix\_sdpl7e9fpsf4-7>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-7}ol.lst-kix\_4hx30jb3kw5z-2.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-2 0}.lst-kix\_dfzf8kydac75-3>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-3}.lst-kix\_ezd4im9wj4xg-0>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-0}.lst-kix\_dwdfsf4pr030-4>li:before{content:"\\0025c6 "}.lst-kix\_dwdfsf4pr030-3>li:before{content:"\\0025cb "}.lst-kix\_dwdfsf4pr030-0>li:before{content:"\\002794 "}.lst-kix\_dwdfsf4pr030-7>li:before{content:"\\0025c6 "}.lst-kix\_57n7pi9ql44n-1>li:before{content:"\\0025cf "}.lst-kix\_39tglg5mgjot-1>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-1}.lst-kix\_xyr4sts07d2a-7>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-7}.lst-kix\_dgx160lgxjud-0>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-0}.lst-kix\_1cvaav37tqxz-1>li:before{content:"\\0025cb "}.lst-kix\_39tglg5mgjot-7>li:before{content:"(" counter(lst-ctn-kix\_39tglg5mgjot-7,lower-latin) ") "}ol.lst-kix\_7wgvrdx8koj5-8.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-8 0}ol.lst-kix\_4hx30jb3kw5z-3.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-3 0}ul.lst-kix\_kt92ox9vwh8l-8{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-6{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-7{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-4{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-5{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-2{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-3{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-0{list-style-type:none}ul.lst-kix\_kt92ox9vwh8l-1{list-style-type:none}.lst-kix\_djnrwroxhuca-4>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-4}.lst-kix\_h2r80t92aafn-5>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-5}.lst-kix\_tfvxwy1nj4jt-5>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-5}.lst-kix\_deuxbmtywfod-2>li:before{content:"\\0025a0 "}.lst-kix\_wd8uuvwd2wd8-3>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-3}.lst-kix\_7mzpuoulp1nf-1>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-1,lower-roman) ". "}.lst-kix\_jj605gbmml1r-3>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-3,decimal) ". "}.lst-kix\_yceir2d6i8hu-3>li:before{content:"\\0025cf "}.lst-kix\_7mzpuoulp1nf-5>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-5,decimal) ". "}.lst-kix\_deuxbmtywfod-6>li:before{content:"\\0025cf "}.lst-kix\_igwf2qn1rr2y-5>li:before{content:"\\0025a0 "}.lst-kix\_90w0an7lz7j1-3>li:before{content:"\\0025cf "}.lst-kix\_9q0vwty6g8dk-2>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-2}.lst-kix\_4hx30jb3kw5z-1>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-1,lower-roman) ". "}.lst-kix\_jj605gbmml1r-7>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-7,lower-latin) ". "}.lst-kix\_5wgrz5uafcjq-3>li:before{content:"\\0025cf "}.lst-kix\_7wgvrdx8koj5-1>li:before{content:"" counter(lst-ctn-kix\_7wgvrdx8koj5-1,upper-latin) ". "}.lst-kix\_fomhzjwlnhtq-8>li:before{content:"\\0025a0 "}.lst-kix\_p82ewsdtpvdv-3>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-3,decimal) ". "}.lst-kix\_6jlxkfg6y4y-2>li:before{content:"\\0025a0 "}.lst-kix\_tfvxwy1nj4jt-1>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-1,lower-latin) ". "}.lst-kix\_y1zs6niyoe26-3>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-3}.lst-kix\_u77xjui178ro-0>li{counter-increment:lst-ctn-kix\_u77xjui178ro-0}.lst-kix\_y3wkjw8slzdf-1>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-1,lower-latin) ". "}.lst-kix\_35jk86l9l7na-4>li:before{content:"\\0025cb "}ul.lst-kix\_35jk86l9l7na-6{list-style-type:none}ul.lst-kix\_35jk86l9l7na-5{list-style-type:none}.lst-kix\_vwd9lvw6yoas-7>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-7}ul.lst-kix\_35jk86l9l7na-8{list-style-type:none}ul.lst-kix\_35jk86l9l7na-7{list-style-type:none}ol.lst-kix\_58z2ekguc713-4.start{counter-reset:lst-ctn-kix\_58z2ekguc713-4 0}ul.lst-kix\_35jk86l9l7na-2{list-style-type:none}ul.lst-kix\_35jk86l9l7na-1{list-style-type:none}ul.lst-kix\_35jk86l9l7na-4{list-style-type:none}ol.lst-kix\_vo7s6dgva2z5-8.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-8 0}ul.lst-kix\_35jk86l9l7na-3{list-style-type:none}.lst-kix\_5uozeuw1zhj3-4>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-4}.lst-kix\_ajo11ofktqgn-6>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-6,decimal) ". "}ul.lst-kix\_35jk86l9l7na-0{list-style-type:none}.lst-kix\_ajo11ofktqgn-0>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-0}.lst-kix\_5wgrz5uafcjq-7>li:before{content:"\\0025cb "}.lst-kix\_w8lhq089xdod-7>li:before{content:"\\0025cb "}.lst-kix\_dqbt5us2bm6z-0>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-0}ol.lst-kix\_u31g3a4y2e81-1.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-1 0}.lst-kix\_mx1fwxwtx4ng-2>li:before{content:"\\0025a0 "}.lst-kix\_5j60k3ufcsn0-2>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-2,lower-roman) ". "}.lst-kix\_rptp6kc3szns-1>li:before{content:"\\0025cb "}ol.lst-kix\_l2vwvtd64fgm-7.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-7 0}ol.lst-kix\_58z2ekguc713-2.start{counter-reset:lst-ctn-kix\_58z2ekguc713-2 0}.lst-kix\_791sozx61ms4-3>li:before{content:"\\0025cb "}.lst-kix\_xyr4sts07d2a-7>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-7,lower-latin) ". "}.lst-kix\_imtfae5sqdw0-1>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-1,lower-latin) ". "}.lst-kix\_cmhzr736lvz9-8>li:before{content:"\\0025a0 "}.lst-kix\_cm2g8skyr4bz-0>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-0}.lst-kix\_1zngtyti13gc-6>li:before{content:"\\0025cf "}.lst-kix\_xyr4sts07d2a-3>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-3,decimal) ". "}ol.lst-kix\_u31g3a4y2e81-2.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-2 0}.lst-kix\_t0auh7peo3x7-4>li:before{content:"\\0025cb "}ol.lst-kix\_l2vwvtd64fgm-8.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-8 0}.lst-kix\_r7brh7p8jjg0-5>li:before{content:"\\0025cf "}.lst-kix\_c2g37tioifxo-6>li:before{content:"\\0025cb "}.lst-kix\_g19yvew0v636-2>li:before{content:"\\0025a0 "}.lst-kix\_g19yvew0v636-6>li:before{content:"\\0025cf "}.lst-kix\_yceir2d6i8hu-7>li:before{content:"\\0025cb "}.lst-kix\_7wgvrdx8koj5-2>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-2}.lst-kix\_t0auh7peo3x7-8>li:before{content:"\\0025a0 "}.lst-kix\_791sozx61ms4-7>li:before{content:"\\0025c6 "}.lst-kix\_3kc0onjmd4b3-5>li:before{content:"\\0025a0 "}.lst-kix\_xlt82mfm7yjm-5>li:before{content:"\\0025a0 "}.lst-kix\_tfvxwy1nj4jt-2>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-2}.lst-kix\_4hx30jb3kw5z-4>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-4}.lst-kix\_3kc0onjmd4b3-8>li:before{content:"\\0025a0 "}.lst-kix\_xlt82mfm7yjm-8>li:before{content:"\\0025a0 "}.lst-kix\_9q0vwty6g8dk-0>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-0,decimal) ". "}.lst-kix\_agp5ft34ot7i-6>li:before{content:"\\0025cb "}ol.lst-kix\_l2vwvtd64fgm-1.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-1 0}.lst-kix\_9q0vwty6g8dk-3>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-3,decimal) ". "}.lst-kix\_bhj1u1iou708-1>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-1}ol.lst-kix\_rnd69amlhcfp-3.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-3 0}.lst-kix\_9q0vwty6g8dk-6>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-6,decimal) ". "}.lst-kix\_xlt82mfm7yjm-2>li:before{content:"\\0025a0 "}.lst-kix\_h2r80t92aafn-0>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-0}ol.lst-kix\_p82ewsdtpvdv-7.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-7 0}ol.lst-kix\_djnrwroxhuca-3.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-3 0}.lst-kix\_y1zs6niyoe26-6>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-6}.lst-kix\_tfk6vvlrj21u-1>li:before{content:"\\0025cb "}ol.lst-kix\_l2vwvtd64fgm-6.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-6 0}.lst-kix\_z6qhzmnjbq57-6>li:before{content:"\\0025cf "}ol.lst-kix\_dgx160lgxjud-6.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-6 0}.lst-kix\_tfk6vvlrj21u-8>li:before{content:"\\0025a0 "}.lst-kix\_6kbo64nt5692-2>li:before{content:"\\0025a0 "}ul.lst-kix\_jnql0gsch18r-3{list-style-type:none}.lst-kix\_dfzf8kydac75-1>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-1,lower-latin) ". "}ol.lst-kix\_p82ewsdtpvdv-2.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-2 0}ul.lst-kix\_jnql0gsch18r-2{list-style-type:none}ul.lst-kix\_jnql0gsch18r-1{list-style-type:none}ul.lst-kix\_jnql0gsch18r-0{list-style-type:none}ul.lst-kix\_jnql0gsch18r-7{list-style-type:none}.lst-kix\_dfzf8kydac75-4>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-4,lower-latin) ". "}ul.lst-kix\_jnql0gsch18r-6{list-style-type:none}ul.lst-kix\_jnql0gsch18r-5{list-style-type:none}ul.lst-kix\_jnql0gsch18r-4{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-8.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-8 0}ol.lst-kix\_djnrwroxhuca-8.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-8 0}ul.lst-kix\_jnql0gsch18r-8{list-style-type:none}.lst-kix\_kpdl8vbi9tf8-3>li:before{content:"\\0025cb "}.lst-kix\_x10ctgg5t12l-6>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-6,decimal) ". "}ol.lst-kix\_xyr4sts07d2a-3.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-3 0}.lst-kix\_x10ctgg5t12l-3>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-3,decimal) ". "}.lst-kix\_kpdl8vbi9tf8-0>li:before{content:"\\002794 "}.lst-kix\_kpdl8vbi9tf8-6>li:before{content:"\\0025cb "}ol.lst-kix\_4hx30jb3kw5z-4.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-4 0}.lst-kix\_x10ctgg5t12l-0>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-0,decimal) ". "}.lst-kix\_djnrwroxhuca-1>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-1}ul.lst-kix\_fid05sqb0oeq-8{list-style-type:none}.lst-kix\_igwf2qn1rr2y-2>li:before{content:"\\0025a0 "}.lst-kix\_5j60k3ufcsn0-4>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-4}.lst-kix\_dqbt5us2bm6z-3>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-3}.lst-kix\_p82ewsdtpvdv-0>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-0}.lst-kix\_aiydnfnetrl2-2>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-2,lower-roman) ". "}.lst-kix\_90w0an7lz7j1-6>li:before{content:"\\0025cf "}ol.lst-kix\_tfvxwy1nj4jt-4.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-4 0}ul.lst-kix\_fid05sqb0oeq-0{list-style-type:none}ul.lst-kix\_fid05sqb0oeq-1{list-style-type:none}ul.lst-kix\_fid05sqb0oeq-2{list-style-type:none}.lst-kix\_yceir2d6i8hu-0>li:before{content:"\\0025cf "}ul.lst-kix\_fid05sqb0oeq-3{list-style-type:none}ul.lst-kix\_fid05sqb0oeq-4{list-style-type:none}.lst-kix\_y3wkjw8slzdf-4>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-4,lower-latin) ". "}ul.lst-kix\_fid05sqb0oeq-5{list-style-type:none}ul.lst-kix\_fid05sqb0oeq-6{list-style-type:none}ul.lst-kix\_fid05sqb0oeq-7{list-style-type:none}.lst-kix\_fomhzjwlnhtq-5>li:before{content:"\\0025a0 "}ol.lst-kix\_imtfae5sqdw0-5.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-5 0}ol.lst-kix\_4hx30jb3kw5z-6.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-6 0}ul.lst-kix\_n3mx1wjo5e1o-5{list-style-type:none}.lst-kix\_aiydnfnetrl2-7>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-7}ul.lst-kix\_n3mx1wjo5e1o-4{list-style-type:none}ul.lst-kix\_n3mx1wjo5e1o-7{list-style-type:none}ul.lst-kix\_n3mx1wjo5e1o-6{list-style-type:none}ul.lst-kix\_n3mx1wjo5e1o-1{list-style-type:none}.lst-kix\_6jlxkfg6y4y-5>li:before{content:"\\0025a0 "}ul.lst-kix\_n3mx1wjo5e1o-0{list-style-type:none}.lst-kix\_cm2g8skyr4bz-8>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-8,lower-roman) ". "}.lst-kix\_u31g3a4y2e81-7>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-7}ul.lst-kix\_n3mx1wjo5e1o-3{list-style-type:none}ul.lst-kix\_n3mx1wjo5e1o-2{list-style-type:none}.lst-kix\_35jk86l9l7na-7>li:before{content:"\\0025cb "}.lst-kix\_dfzf8kydac75-6>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-6}.lst-kix\_cm2g8skyr4bz-2>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-2,lower-roman) ". "}.lst-kix\_ezd4im9wj4xg-6>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-6,decimal) ". "}ul.lst-kix\_n3mx1wjo5e1o-8{list-style-type:none}.lst-kix\_wv45fdjk1no6-6>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-6}.lst-kix\_aiydnfnetrl2-8>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-8,lower-roman) ". "}.lst-kix\_y3wkjw8slzdf-1>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-1}.lst-kix\_te2vv1364da4-1>li:before{content:"\\0025cb "}ol.lst-kix\_xyr4sts07d2a-5.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-5 0}ol.lst-kix\_xyr4sts07d2a-8.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-8 0}.lst-kix\_sdpl7e9fpsf4-1>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-1,lower-latin) ". "}.lst-kix\_mx1fwxwtx4ng-5>li:before{content:"\\0025a0 "}ol.lst-kix\_l2vwvtd64fgm-3.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-3 0}.lst-kix\_sdpl7e9fpsf4-7>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-7,lower-latin) ". "}.lst-kix\_l2vwvtd64fgm-1>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-1,lower-latin) ". "}.lst-kix\_imtfae5sqdw0-4>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-4,lower-latin) ". "}.lst-kix\_dqbt5us2bm6z-6>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-6,decimal) ". "}ol.lst-kix\_p82ewsdtpvdv-5.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-5 0}ol.lst-kix\_tfvxwy1nj4jt-2.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-2 0}.lst-kix\_j9nmyip7dkax-3>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-3,decimal) ". "}.lst-kix\_l2vwvtd64fgm-7>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-7,lower-latin) ". "}.lst-kix\_vwd9lvw6yoas-8>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-8,lower-roman) ". "}.lst-kix\_w8lhq089xdod-4>li:before{content:"\\0025cb "}.lst-kix\_1zngtyti13gc-3>li:before{content:"\\0025cf "}.lst-kix\_r7brh7p8jjg0-2>li:before{content:"\\0025cf "}.lst-kix\_vo7s6dgva2z5-6>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-6}.lst-kix\_vwd9lvw6yoas-2>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-2,lower-roman) ". "}ol.lst-kix\_dgx160lgxjud-8.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-8 0}ol.lst-kix\_imtfae5sqdw0-3.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-3 0}.lst-kix\_f8fa4dga3qh-5>li:before{content:"\\0025a0 "}ol.lst-kix\_rnd69amlhcfp-6.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-6 0}.lst-kix\_e8ucyfjv1p5h-4>li:before{content:"\\0025cb "}ol.lst-kix\_djnrwroxhuca-6.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-6 0}.lst-kix\_e8ucyfjv1p5h-1>li:before{content:"\\0025cb "}.lst-kix\_fid05sqb0oeq-6>li:before{content:"\\0025cf "}ol.lst-kix\_p82ewsdtpvdv-4.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-4 0}.lst-kix\_f8fa4dga3qh-8>li:before{content:"\\0025a0 "}ol.lst-kix\_p82ewsdtpvdv-8{list-style-type:none}ol.lst-kix\_xyr4sts07d2a-1.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-1 0}ol.lst-kix\_imtfae5sqdw0-7.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-7 0}ol.lst-kix\_djnrwroxhuca-0.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-0 0}.lst-kix\_y1zs6niyoe26-1>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-1,lower-latin) ". "}.lst-kix\_1riw3buqnalm-8>li:before{content:"\\0025cf "}ol.lst-kix\_4hx30jb3kw5z-8.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-8 0}ol.lst-kix\_p82ewsdtpvdv-3{list-style-type:none}ol.lst-kix\_p82ewsdtpvdv-2{list-style-type:none}ol.lst-kix\_p82ewsdtpvdv-1{list-style-type:none}ol.lst-kix\_p82ewsdtpvdv-0{list-style-type:none}ol.lst-kix\_tfvxwy1nj4jt-5.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-5 0}ol.lst-kix\_p82ewsdtpvdv-7{list-style-type:none}.lst-kix\_cmhzr736lvz9-2>li:before{content:"\\0025a0 "}ol.lst-kix\_p82ewsdtpvdv-6{list-style-type:none}.lst-kix\_kt92ox9vwh8l-2>li:before{content:"\\0025a0 "}ol.lst-kix\_p82ewsdtpvdv-5{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-0.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-0 0}ol.lst-kix\_p82ewsdtpvdv-4{list-style-type:none}.lst-kix\_wv45fdjk1no6-3>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-3}.lst-kix\_avd7hz4yxpwp-8>li:before{content:"\\0025cf "}ol.lst-kix\_tfvxwy1nj4jt-6.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-6 0}ol.lst-kix\_dgx160lgxjud-3.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-3 0}.lst-kix\_kpl05iruvgc1-6>li:before{content:"\\0025cf "}.lst-kix\_57n7pi9ql44n-7>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-7,lower-latin) ". "}.lst-kix\_vqvg6ipvpfqq-0>li:before{content:"\\0025cf "}.lst-kix\_ezd4im9wj4xg-0>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-0,decimal) ". "}.lst-kix\_5j60k3ufcsn0-7>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-7}.lst-kix\_xyr4sts07d2a-1>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-1}.lst-kix\_39tglg5mgjot-1>li:before{content:"" counter(lst-ctn-kix\_39tglg5mgjot-1,upper-latin) ". "}ol.lst-kix\_imtfae5sqdw0-6.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-6 0}.lst-kix\_ajo11ofktqgn-3>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-3}ol.lst-kix\_djnrwroxhuca-1.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-1 0}.lst-kix\_p82ewsdtpvdv-3>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-3}.lst-kix\_ezd4im9wj4xg-3>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-3,decimal) ". "}ol.lst-kix\_xyr4sts07d2a-2.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-2 0}.lst-kix\_39tglg5mgjot-7>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-7}.lst-kix\_vqvg6ipvpfqq-3>li:before{content:"\\0025cf "}.lst-kix\_1cvaav37tqxz-4>li:before{content:"\\0025cb "}ol.lst-kix\_rnd69amlhcfp-1.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-1 0}.lst-kix\_kpl05iruvgc1-3>li:before{content:"\\0025cf "}.lst-kix\_39tglg5mgjot-4>li:before{content:"(" counter(lst-ctn-kix\_39tglg5mgjot-4,decimal) ") "}.lst-kix\_57n7pi9ql44n-4>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-4,lower-latin) ". "}ul.lst-kix\_rptp6kc3szns-8{list-style-type:none}.lst-kix\_1cvaav37tqxz-7>li:before{content:"\\0025cb "}ol.lst-kix\_dgx160lgxjud-4.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-4 0}ul.lst-kix\_rptp6kc3szns-6{list-style-type:none}ul.lst-kix\_rptp6kc3szns-7{list-style-type:none}.lst-kix\_58l1l2i5zpbg-2>li:before{content:"\\0025a0 "}.lst-kix\_imtfae5sqdw0-6>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-6}.lst-kix\_n5gs769i8n1l-1>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-1}.lst-kix\_58z2ekguc713-8>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-8,lower-roman) ". "}ul.lst-kix\_rptp6kc3szns-4{list-style-type:none}ul.lst-kix\_rptp6kc3szns-5{list-style-type:none}ul.lst-kix\_rptp6kc3szns-2{list-style-type:none}ol.lst-kix\_p82ewsdtpvdv-3.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-3 0}ul.lst-kix\_rptp6kc3szns-3{list-style-type:none}.lst-kix\_58z2ekguc713-5>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-5,lower-roman) ". "}ul.lst-kix\_rptp6kc3szns-0{list-style-type:none}ul.lst-kix\_rptp6kc3szns-1{list-style-type:none}.lst-kix\_4hx30jb3kw5z-1>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-1}.lst-kix\_cz8e60i93ezi-0>li:before{content:"\\002794 "}ol.lst-kix\_dgx160lgxjud-0{list-style-type:none}ul.lst-kix\_deuxbmtywfod-0{list-style-type:none}.lst-kix\_aiydnfnetrl2-5>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-5,lower-roman) ". "}ol.lst-kix\_dgx160lgxjud-3{list-style-type:none}ol.lst-kix\_dgx160lgxjud-4{list-style-type:none}ol.lst-kix\_dgx160lgxjud-2{list-style-type:none}ul.lst-kix\_deuxbmtywfod-6{list-style-type:none}.lst-kix\_cz8e60i93ezi-3>li:before{content:"\\0025cb "}ul.lst-kix\_deuxbmtywfod-5{list-style-type:none}ul.lst-kix\_deuxbmtywfod-8{list-style-type:none}ul.lst-kix\_deuxbmtywfod-7{list-style-type:none}ul.lst-kix\_deuxbmtywfod-2{list-style-type:none}ul.lst-kix\_deuxbmtywfod-1{list-style-type:none}ul.lst-kix\_deuxbmtywfod-4{list-style-type:none}ol.lst-kix\_p82ewsdtpvdv-0.start{counter-reset:lst-ctn-kix\_p82ewsdtpvdv-0 0}ul.lst-kix\_deuxbmtywfod-3{list-style-type:none}.lst-kix\_y3wkjw8slzdf-7>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-7,lower-latin) ". "}ul.lst-kix\_k5fvoamzha87-8{list-style-type:none}ol.lst-kix\_dgx160lgxjud-2.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-2 0}ol.lst-kix\_dgx160lgxjud-7{list-style-type:none}ul.lst-kix\_k5fvoamzha87-5{list-style-type:none}ol.lst-kix\_dgx160lgxjud-8{list-style-type:none}ul.lst-kix\_k5fvoamzha87-4{list-style-type:none}ol.lst-kix\_tfvxwy1nj4jt-7.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-7 0}ol.lst-kix\_dgx160lgxjud-5{list-style-type:none}ul.lst-kix\_k5fvoamzha87-7{list-style-type:none}.lst-kix\_rnd69amlhcfp-1>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-1,lower-latin) ". "}ol.lst-kix\_dgx160lgxjud-6{list-style-type:none}ul.lst-kix\_k5fvoamzha87-6{list-style-type:none}ul.lst-kix\_k5fvoamzha87-1{list-style-type:none}.lst-kix\_tfvxwy1nj4jt-7>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-7,lower-latin) ". "}ul.lst-kix\_k5fvoamzha87-0{list-style-type:none}ul.lst-kix\_k5fvoamzha87-3{list-style-type:none}ul.lst-kix\_k5fvoamzha87-2{list-style-type:none}.lst-kix\_aiydnfnetrl2-4>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-4}.lst-kix\_j9nmyip7dkax-0>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-0,decimal) ". "}.lst-kix\_ajo11ofktqgn-0>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-0,decimal) ". "}.lst-kix\_s4vjpl9wdzad-6>li:before{content:"\\0025cf "}.lst-kix\_7wgvrdx8koj5-7>li:before{content:"(" counter(lst-ctn-kix\_7wgvrdx8koj5-7,lower-latin) ") "}ol.lst-kix\_dgx160lgxjud-0.start{counter-reset:lst-ctn-kix\_dgx160lgxjud-0 0}.lst-kix\_ezd4im9wj4xg-6>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-6}ol.lst-kix\_imtfae5sqdw0-8.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-8 0}ol.lst-kix\_djnrwroxhuca-4.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-4 0}.lst-kix\_cm2g8skyr4bz-5>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-5,lower-roman) ". "}ol.lst-kix\_rnd69amlhcfp-7.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-7 0}ol.lst-kix\_djnrwroxhuca-7.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-7 0}.lst-kix\_fomhzjwlnhtq-2>li:before{content:"\\0025a0 "}.lst-kix\_wd8uuvwd2wd8-1>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-1,lower-latin) ". "}.lst-kix\_u31g3a4y2e81-0>li:before{content:"" counter(lst-ctn-kix\_u31g3a4y2e81-0,upper-roman) ". "}.lst-kix\_6jlxkfg6y4y-8>li:before{content:"\\0025a0 "}.lst-kix\_imtfae5sqdw0-7>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-7,lower-latin) ". "}.lst-kix\_57n7pi9ql44n-3>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-3}.lst-kix\_5j60k3ufcsn0-8>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-8,lower-roman) ". "}ol.lst-kix\_rnd69amlhcfp-4.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-4 0}.lst-kix\_rnd69amlhcfp-8>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-8}.lst-kix\_w8lhq089xdod-1>li:before{content:"\\0025cb "}.lst-kix\_dqbt5us2bm6z-6>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-6}.lst-kix\_l2vwvtd64fgm-3>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-3}.lst-kix\_l2vwvtd64fgm-4>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-4,lower-latin) ". "}.lst-kix\_1riw3buqnalm-5>li:before{content:"\\0025cf "}.lst-kix\_sdpl7e9fpsf4-4>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-4,lower-latin) ". "}.lst-kix\_5s9f45n8y01l-3>li:before{content:"\\0025cf "}.lst-kix\_bhj1u1iou708-4>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-4}.lst-kix\_mx1fwxwtx4ng-8>li:before{content:"\\0025a0 "}.lst-kix\_cm2g8skyr4bz-6>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-6}.lst-kix\_k470ynu4dph8-5>li:before{content:"\\0025a0 "}ol.lst-kix\_rnd69amlhcfp-5.start{counter-reset:lst-ctn-kix\_rnd69amlhcfp-5 0}.lst-kix\_vwd9lvw6yoas-5>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-5,lower-roman) ". "}ol.lst-kix\_djnrwroxhuca-5.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-5 0}.lst-kix\_c2g37tioifxo-0>li:before{content:"\\002794 "}.lst-kix\_1zngtyti13gc-0>li:before{content:"\\0025cf "}.lst-kix\_5uozeuw1zhj3-2>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-2,lower-roman) ". "}.lst-kix\_fym1b2h3q8gi-7>li:before{content:"\\0025cb "}.lst-kix\_4hx30jb3kw5z-7>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-7,lower-roman) ". "}.lst-kix\_vo7s6dgva2z5-3>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-3}.lst-kix\_7wgvrdx8koj5-8>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-8}ol.lst-kix\_xyr4sts07d2a-0.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-0 0}.lst-kix\_djnrwroxhuca-1>li:before{content:"" counter(lst-ctn-kix\_djnrwroxhuca-1,upper-latin) ". "}.lst-kix\_djnrwroxhuca-3>li:before{content:"" counter(lst-ctn-kix\_djnrwroxhuca-3,lower-latin) ") "}.lst-kix\_djnrwroxhuca-7>li:before{content:"(" counter(lst-ctn-kix\_djnrwroxhuca-7,lower-latin) ") "}ol.lst-kix\_4hx30jb3kw5z-5.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-5 0}ol.lst-kix\_jj605gbmml1r-7.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-7 0}.lst-kix\_7mzpuoulp1nf-0>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-0}.lst-kix\_x10ctgg5t12l-4>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-4}.lst-kix\_djnrwroxhuca-5>li:before{content:"(" counter(lst-ctn-kix\_djnrwroxhuca-5,lower-latin) ") "}ol.lst-kix\_wd8uuvwd2wd8-7.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-7 0}.lst-kix\_o244rjhq4jcq-8>li:before{content:"\\0025cf "}.lst-kix\_ezd4im9wj4xg-3>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-3}ol.lst-kix\_7mzpuoulp1nf-4.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-4 0}ul.lst-kix\_te2vv1364da4-2{list-style-type:none}ul.lst-kix\_t0auh7peo3x7-3{list-style-type:none}ul.lst-kix\_te2vv1364da4-1{list-style-type:none}ul.lst-kix\_w8lhq089xdod-0{list-style-type:none}ul.lst-kix\_t0auh7peo3x7-2{list-style-type:none}ul.lst-kix\_te2vv1364da4-0{list-style-type:none}ul.lst-kix\_w8lhq089xdod-1{list-style-type:none}ul.lst-kix\_t0auh7peo3x7-5{list-style-type:none}ul.lst-kix\_w8lhq089xdod-2{list-style-type:none}ul.lst-kix\_t0auh7peo3x7-4{list-style-type:none}ul.lst-kix\_t0auh7peo3x7-7{list-style-type:none}ul.lst-kix\_t0auh7peo3x7-6{list-style-type:none}.lst-kix\_wv45fdjk1no6-1>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-1,lower-latin) ". "}.lst-kix\_wv45fdjk1no6-5>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-5,lower-roman) ". "}.lst-kix\_wd8uuvwd2wd8-3>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-3,decimal) ". "}.lst-kix\_wd8uuvwd2wd8-7>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-7,lower-latin) ". "}ul.lst-kix\_t0auh7peo3x7-8{list-style-type:none}ul.lst-kix\_te2vv1364da4-8{list-style-type:none}ol.lst-kix\_dqbt5us2bm6z-4.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-4 0}ul.lst-kix\_te2vv1364da4-7{list-style-type:none}ul.lst-kix\_te2vv1364da4-6{list-style-type:none}ul.lst-kix\_te2vv1364da4-5{list-style-type:none}ul.lst-kix\_te2vv1364da4-4{list-style-type:none}.lst-kix\_bhj1u1iou708-3>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-3}ul.lst-kix\_t0auh7peo3x7-1{list-style-type:none}.lst-kix\_wv45fdjk1no6-3>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-3,decimal) ". "}ul.lst-kix\_te2vv1364da4-3{list-style-type:none}.lst-kix\_wd8uuvwd2wd8-5>li:before{content:"" counter(lst-ctn-kix\_wd8uuvwd2wd8-5,lower-roman) ". "}ol.lst-kix\_u77xjui178ro-6.start{counter-reset:lst-ctn-kix\_u77xjui178ro-6 0}ul.lst-kix\_t0auh7peo3x7-0{list-style-type:none}ol.lst-kix\_cm2g8skyr4bz-4.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-4 0}.lst-kix\_o244rjhq4jcq-6>li:before{content:"\\0025cb "}.lst-kix\_o244rjhq4jcq-4>li:before{content:"\\0025c6 "}.lst-kix\_o244rjhq4jcq-2>li:before{content:"\\0025cf "}.lst-kix\_58z2ekguc713-0>li{counter-increment:lst-ctn-kix\_58z2ekguc713-0}ol.lst-kix\_jj605gbmml1r-2.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-2 0}.lst-kix\_ajo11ofktqgn-2>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-2}ol.lst-kix\_39tglg5mgjot-6{list-style-type:none}ol.lst-kix\_39tglg5mgjot-5{list-style-type:none}ol.lst-kix\_39tglg5mgjot-4{list-style-type:none}ol.lst-kix\_39tglg5mgjot-3{list-style-type:none}.lst-kix\_o244rjhq4jcq-0>li:before{content:"\\002794 "}ol.lst-kix\_vo7s6dgva2z5-0.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-0 0}ol.lst-kix\_39tglg5mgjot-8{list-style-type:none}ol.lst-kix\_39tglg5mgjot-7{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-3.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-3 0}ol.lst-kix\_n5gs769i8n1l-1.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-1 0}ul.lst-kix\_w8lhq089xdod-7{list-style-type:none}ul.lst-kix\_w8lhq089xdod-8{list-style-type:none}ol.lst-kix\_djnrwroxhuca-2.start{counter-reset:lst-ctn-kix\_djnrwroxhuca-2 0}ul.lst-kix\_w8lhq089xdod-3{list-style-type:none}ol.lst-kix\_39tglg5mgjot-2{list-style-type:none}ul.lst-kix\_w8lhq089xdod-4{list-style-type:none}ol.lst-kix\_39tglg5mgjot-1{list-style-type:none}ul.lst-kix\_w8lhq089xdod-5{list-style-type:none}ol.lst-kix\_39tglg5mgjot-0{list-style-type:none}.lst-kix\_wv45fdjk1no6-7>li:before{content:"" counter(lst-ctn-kix\_wv45fdjk1no6-7,lower-latin) ". "}ul.lst-kix\_w8lhq089xdod-6{list-style-type:none}.lst-kix\_xiy7d2ebdgja-2>li:before{content:"\\0025a0 "}.lst-kix\_xiy7d2ebdgja-4>li:before{content:"\\0025cb "}.lst-kix\_rnd69amlhcfp-0>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-0,decimal) ". "}.lst-kix\_cz8e60i93ezi-2>li:before{content:"\\0025cf "}.lst-kix\_jj605gbmml1r-0>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-0}.lst-kix\_58z2ekguc713-0>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-0,decimal) ". "}.lst-kix\_58z2ekguc713-4>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-4,lower-latin) ". "}ol.lst-kix\_tfvxwy1nj4jt-1.start{counter-reset:lst-ctn-kix\_tfvxwy1nj4jt-1 0}.lst-kix\_cz8e60i93ezi-4>li:before{content:"\\0025c6 "}.lst-kix\_cm2g8skyr4bz-2>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-2}.lst-kix\_58z2ekguc713-2>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-2,lower-roman) ". "}.lst-kix\_58z2ekguc713-7>li{counter-increment:lst-ctn-kix\_58z2ekguc713-7}.lst-kix\_rnd69amlhcfp-4>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-4,lower-latin) ". "}ol.lst-kix\_y1zs6niyoe26-4.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-4 0}.lst-kix\_5uozeuw1zhj3-5>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-5,lower-roman) ". "}.lst-kix\_cz8e60i93ezi-6>li:before{content:"\\0025cb "}.lst-kix\_tfvxwy1nj4jt-7>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-7}.lst-kix\_l2vwvtd64fgm-6>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-6}.lst-kix\_rnd69amlhcfp-2>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-2,lower-roman) ". "}.lst-kix\_5uozeuw1zhj3-7>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-7,lower-latin) ". "}.lst-kix\_dfzf8kydac75-8>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-8}.lst-kix\_xiy7d2ebdgja-6>li:before{content:"\\0025cf "}.lst-kix\_xiy7d2ebdgja-8>li:before{content:"\\0025a0 "}.lst-kix\_cz8e60i93ezi-8>li:before{content:"\\0025cf "}.lst-kix\_98y8vui06f7k-8>li:before{content:"\\0025a0 "}.lst-kix\_7mzpuoulp1nf-7>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-7}.lst-kix\_98y8vui06f7k-6>li:before{content:"\\0025cf "}.lst-kix\_y1zs6niyoe26-0>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-0}.lst-kix\_98y8vui06f7k-4>li:before{content:"\\0025cb "}.lst-kix\_vqvg6ipvpfqq-6>li:before{content:"\\0025cf "}ol.lst-kix\_sdpl7e9fpsf4-8.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-8 0}.lst-kix\_vqvg6ipvpfqq-8>li:before{content:"\\0025a0 "}.lst-kix\_98y8vui06f7k-2>li:before{content:"\\0025a0 "}ol.lst-kix\_n5gs769i8n1l-6.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-6 0}.lst-kix\_xiy7d2ebdgja-0>li:before{content:"\\0025cf "}ol.lst-kix\_vo7s6dgva2z5-5.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-5 0}.lst-kix\_p82ewsdtpvdv-2>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-2}.lst-kix\_98y8vui06f7k-0>li:before{content:"\\0025cf "}ol.lst-kix\_l2vwvtd64fgm-0.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-0 0}.lst-kix\_5uozeuw1zhj3-0>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-0}ul.lst-kix\_58l1l2i5zpbg-3{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-2{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-1{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-0{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-7{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-6{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-5{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-4{list-style-type:none}ul.lst-kix\_58l1l2i5zpbg-8{list-style-type:none}.lst-kix\_9q0vwty6g8dk-5>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-5}.lst-kix\_k470ynu4dph8-0>li:before{content:"\\0025cf "}.lst-kix\_tfvxwy1nj4jt-0>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-0}ol.lst-kix\_dfzf8kydac75-7.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-7 0}.lst-kix\_u31g3a4y2e81-6>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-6}.lst-kix\_n5gs769i8n1l-3>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-3}.lst-kix\_k470ynu4dph8-2>li:before{content:"\\0025a0 "}.lst-kix\_dfzf8kydac75-1>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-1}ul.lst-kix\_cz8e60i93ezi-1{list-style-type:none}ul.lst-kix\_cz8e60i93ezi-0{list-style-type:none}ol.lst-kix\_vwd9lvw6yoas-4.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-4 0}.lst-kix\_k470ynu4dph8-4>li:before{content:"\\0025cb "}.lst-kix\_k470ynu4dph8-8>li:before{content:"\\0025a0 "}.lst-kix\_k470ynu4dph8-6>li:before{content:"\\0025cf "}.lst-kix\_5uozeuw1zhj3-3>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-3,decimal) ". "}.lst-kix\_5uozeuw1zhj3-1>li:before{content:"" counter(lst-ctn-kix\_5uozeuw1zhj3-1,lower-latin) ". "}ul.lst-kix\_cz8e60i93ezi-7{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-0.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-0 0}ul.lst-kix\_cz8e60i93ezi-6{list-style-type:none}ul.lst-kix\_cz8e60i93ezi-8{list-style-type:none}ul.lst-kix\_cz8e60i93ezi-3{list-style-type:none}ul.lst-kix\_cz8e60i93ezi-2{list-style-type:none}ul.lst-kix\_cz8e60i93ezi-5{list-style-type:none}ul.lst-kix\_cz8e60i93ezi-4{list-style-type:none}ul.lst-kix\_g19yvew0v636-0{list-style-type:none}ul.lst-kix\_g19yvew0v636-1{list-style-type:none}ul.lst-kix\_g19yvew0v636-2{list-style-type:none}ul.lst-kix\_g19yvew0v636-3{list-style-type:none}.lst-kix\_e8ucyfjv1p5h-2>li:before{content:"\\0025a0 "}ul.lst-kix\_g19yvew0v636-8{list-style-type:none}.lst-kix\_e8ucyfjv1p5h-6>li:before{content:"\\0025cf "}ul.lst-kix\_g19yvew0v636-4{list-style-type:none}ul.lst-kix\_g19yvew0v636-5{list-style-type:none}.lst-kix\_h2r80t92aafn-1>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-1}ul.lst-kix\_g19yvew0v636-6{list-style-type:none}ul.lst-kix\_g19yvew0v636-7{list-style-type:none}.lst-kix\_fid05sqb0oeq-3>li:before{content:"\\0025cf "}ol.lst-kix\_xyr4sts07d2a-7.start{counter-reset:lst-ctn-kix\_xyr4sts07d2a-7 0}.lst-kix\_wd8uuvwd2wd8-8>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-8}.lst-kix\_xyr4sts07d2a-5>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-5}.lst-kix\_nju6s3w8pcjr-7>li:before{content:"\\0025c6 "}.lst-kix\_y1zs6niyoe26-3>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-3,decimal) ". "}ol.lst-kix\_bhj1u1iou708-6.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-6 0}.lst-kix\_jj605gbmml1r-7>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-7}.lst-kix\_djnrwroxhuca-0>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-0}ol.lst-kix\_y3wkjw8slzdf-2.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-2 0}.lst-kix\_k5fvoamzha87-3>li:before{content:"\\0025cf "}.lst-kix\_k5fvoamzha87-7>li:before{content:"\\0025cb "}.lst-kix\_kt92ox9vwh8l-0>li:before{content:"\\0025cf "}.lst-kix\_y1zs6niyoe26-7>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-7,lower-latin) ". "}.lst-kix\_fid05sqb0oeq-7>li:before{content:"\\0025cb "}.lst-kix\_5uozeuw1zhj3-7>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-7}.lst-kix\_xyr4sts07d2a-3>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-3}.lst-kix\_kpl05iruvgc1-4>li:before{content:"\\0025cb "}ul.lst-kix\_f8fa4dga3qh-7{list-style-type:none}.lst-kix\_1hw9yxtpj4be-1>li:before{content:"\\0025cb "}ul.lst-kix\_f8fa4dga3qh-6{list-style-type:none}ul.lst-kix\_f8fa4dga3qh-8{list-style-type:none}.lst-kix\_4hx30jb3kw5z-7>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-7}.lst-kix\_kpl05iruvgc1-0>li:before{content:"\\002605 "}.lst-kix\_kpl05iruvgc1-8>li:before{content:"\\0025a0 "}.lst-kix\_7wgvrdx8koj5-4>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-4}.lst-kix\_7ymal9q3suev-6>li:before{content:"\\0025cf "}.lst-kix\_kt92ox9vwh8l-4>li:before{content:"\\0025cb "}.lst-kix\_7ymal9q3suev-2>li:before{content:"\\0025a0 "}.lst-kix\_vqvg6ipvpfqq-2>li:before{content:"\\0025a0 "}.lst-kix\_58l1l2i5zpbg-0>li:before{content:"\\0025cf "}ol.lst-kix\_39tglg5mgjot-5.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-5 0}.lst-kix\_1mactjhtpsm0-3>li:before{content:"\\0025cf "}.lst-kix\_wd8uuvwd2wd8-1>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-1}.lst-kix\_h2r80t92aafn-8>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-8}.lst-kix\_kt92ox9vwh8l-8>li:before{content:"\\0025a0 "}ol.lst-kix\_imtfae5sqdw0-0.start{counter-reset:lst-ctn-kix\_imtfae5sqdw0-0 0}ol.lst-kix\_58z2ekguc713-6.start{counter-reset:lst-ctn-kix\_58z2ekguc713-6 0}.lst-kix\_58l1l2i5zpbg-4>li:before{content:"\\0025cb "}.lst-kix\_rnd69amlhcfp-6>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-6,decimal) ". "}.lst-kix\_1hw9yxtpj4be-5>li:before{content:"\\0025a0 "}.lst-kix\_djnrwroxhuca-7>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-7}.lst-kix\_58l1l2i5zpbg-8>li:before{content:"\\0025a0 "}.lst-kix\_58z2ekguc713-6>li:before{content:"" counter(lst-ctn-kix\_58z2ekguc713-6,decimal) ". "}.lst-kix\_bhj1u1iou708-6>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-6,decimal) ". "}ol.lst-kix\_l2vwvtd64fgm-5.start{counter-reset:lst-ctn-kix\_l2vwvtd64fgm-5 0}.lst-kix\_s4vjpl9wdzad-0>li:before{content:"\\0025cf "}.lst-kix\_u31g3a4y2e81-2>li:before{content:"" counter(lst-ctn-kix\_u31g3a4y2e81-2,decimal) ". "}.lst-kix\_u31g3a4y2e81-6>li:before{content:"(" counter(lst-ctn-kix\_u31g3a4y2e81-6,lower-roman) ") "}.lst-kix\_bhj1u1iou708-2>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-2,lower-roman) ". "}ol.lst-kix\_u77xjui178ro-1.start{counter-reset:lst-ctn-kix\_u77xjui178ro-1 0}ul.lst-kix\_kpl05iruvgc1-5{list-style-type:none}ul.lst-kix\_kpl05iruvgc1-4{list-style-type:none}.lst-kix\_aph4ud4tzuh8-7>li:before{content:"\\0025cb "}ul.lst-kix\_kpl05iruvgc1-3{list-style-type:none}ul.lst-kix\_kpl05iruvgc1-2{list-style-type:none}ul.lst-kix\_kpl05iruvgc1-8{list-style-type:none}.lst-kix\_imtfae5sqdw0-3>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-3}.lst-kix\_vwd9lvw6yoas-5>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-5}ul.lst-kix\_kpl05iruvgc1-7{list-style-type:none}.lst-kix\_s4vjpl9wdzad-8>li:before{content:"\\0025a0 "}ul.lst-kix\_kpl05iruvgc1-6{list-style-type:none}ol.lst-kix\_39tglg5mgjot-0.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-0 0}.lst-kix\_1mactjhtpsm0-7>li:before{content:"\\0025cb "}.lst-kix\_aph4ud4tzuh8-3>li:before{content:"\\0025cf "}.lst-kix\_5uozeuw1zhj3-2>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-2}ol.lst-kix\_bhj1u1iou708-0{list-style-type:none}ul.lst-kix\_7ymal9q3suev-1{list-style-type:none}ol.lst-kix\_bhj1u1iou708-1{list-style-type:none}ul.lst-kix\_7ymal9q3suev-2{list-style-type:none}ul.lst-kix\_7ymal9q3suev-3{list-style-type:none}ul.lst-kix\_7ymal9q3suev-4{list-style-type:none}ol.lst-kix\_bhj1u1iou708-4{list-style-type:none}ul.lst-kix\_7ymal9q3suev-5{list-style-type:none}ol.lst-kix\_bhj1u1iou708-5{list-style-type:none}ul.lst-kix\_7ymal9q3suev-6{list-style-type:none}ol.lst-kix\_bhj1u1iou708-2{list-style-type:none}ul.lst-kix\_7ymal9q3suev-7{list-style-type:none}.lst-kix\_n5gs769i8n1l-5>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-5}ol.lst-kix\_bhj1u1iou708-3{list-style-type:none}ul.lst-kix\_7ymal9q3suev-8{list-style-type:none}ol.lst-kix\_58z2ekguc713-1.start{counter-reset:lst-ctn-kix\_58z2ekguc713-1 0}ol.lst-kix\_bhj1u1iou708-8{list-style-type:none}ol.lst-kix\_bhj1u1iou708-6{list-style-type:none}ol.lst-kix\_bhj1u1iou708-7{list-style-type:none}ul.lst-kix\_7ymal9q3suev-0{list-style-type:none}.lst-kix\_s4vjpl9wdzad-4>li:before{content:"\\0025cb "}ul.lst-kix\_f8fa4dga3qh-3{list-style-type:none}ul.lst-kix\_f8fa4dga3qh-2{list-style-type:none}.lst-kix\_dgx160lgxjud-2>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-2}ul.lst-kix\_f8fa4dga3qh-5{list-style-type:none}ul.lst-kix\_f8fa4dga3qh-4{list-style-type:none}ol.lst-kix\_u31g3a4y2e81-4.start{counter-reset:lst-ctn-kix\_u31g3a4y2e81-4 0}.lst-kix\_imtfae5sqdw0-5>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-5}ul.lst-kix\_f8fa4dga3qh-1{list-style-type:none}ul.lst-kix\_f8fa4dga3qh-0{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-1.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-1 0}ol.lst-kix\_4hx30jb3kw5z-0.start{counter-reset:lst-ctn-kix\_4hx30jb3kw5z-0 0}.lst-kix\_fym1b2h3q8gi-5>li:before{content:"\\0025a0 "}.lst-kix\_wv45fdjk1no6-4>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-4}ol.lst-kix\_j9nmyip7dkax-5.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-5 0}.lst-kix\_l2vwvtd64fgm-2>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-2,lower-roman) ". "}.lst-kix\_h2r80t92aafn-3>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-3}.lst-kix\_l2vwvtd64fgm-6>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-6,decimal) ". "}.lst-kix\_p82ewsdtpvdv-4>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-4}.lst-kix\_z6qhzmnjbq57-3>li:before{content:"\\0025cf "}.lst-kix\_fym1b2h3q8gi-1>li:before{content:"\\0025cb "}ol.lst-kix\_39tglg5mgjot-2.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-2 0}ol.lst-kix\_bhj1u1iou708-1.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-1 0}ul.lst-kix\_kpl05iruvgc1-1{list-style-type:none}ol.lst-kix\_wd8uuvwd2wd8-2.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-2 0}ul.lst-kix\_kpl05iruvgc1-0{list-style-type:none}.lst-kix\_jj605gbmml1r-2>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-2}.lst-kix\_5j60k3ufcsn0-6>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-6}.lst-kix\_nju6s3w8pcjr-3>li:before{content:"\\0025cb "}ol.lst-kix\_wv45fdjk1no6-7.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-7 0}.lst-kix\_ezd4im9wj4xg-1>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-1}.lst-kix\_l2vwvtd64fgm-1>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-1}.lst-kix\_58z2ekguc713-2>li{counter-increment:lst-ctn-kix\_58z2ekguc713-2}.lst-kix\_3kc0onjmd4b3-4>li:before{content:"\\0025cb "}ol.lst-kix\_wv45fdjk1no6-0.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-0 0}ul.lst-kix\_1zngtyti13gc-0{list-style-type:none}ul.lst-kix\_1zngtyti13gc-1{list-style-type:none}ul.lst-kix\_1zngtyti13gc-2{list-style-type:none}ul.lst-kix\_1zngtyti13gc-3{list-style-type:none}ol.lst-kix\_ezd4im9wj4xg-6.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-6 0}ul.lst-kix\_1zngtyti13gc-4{list-style-type:none}.lst-kix\_3kc0onjmd4b3-2>li:before{content:"\\0025a0 "}ul.lst-kix\_1zngtyti13gc-5{list-style-type:none}ul.lst-kix\_1zngtyti13gc-6{list-style-type:none}ul.lst-kix\_90w0an7lz7j1-8{list-style-type:none}.lst-kix\_9q0vwty6g8dk-1>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-1,lower-latin) ". "}ul.lst-kix\_90w0an7lz7j1-7{list-style-type:none}ul.lst-kix\_90w0an7lz7j1-4{list-style-type:none}ul.lst-kix\_90w0an7lz7j1-3{list-style-type:none}ul.lst-kix\_90w0an7lz7j1-6{list-style-type:none}ul.lst-kix\_90w0an7lz7j1-5{list-style-type:none}.lst-kix\_xlt82mfm7yjm-1>li:before{content:"\\0025cb "}ul.lst-kix\_90w0an7lz7j1-0{list-style-type:none}.lst-kix\_agp5ft34ot7i-8>li:before{content:"\\0025cf "}ul.lst-kix\_90w0an7lz7j1-2{list-style-type:none}ul.lst-kix\_90w0an7lz7j1-1{list-style-type:none}.lst-kix\_xlt82mfm7yjm-3>li:before{content:"\\0025cf "}ol.lst-kix\_dqbt5us2bm6z-2{list-style-type:none}ol.lst-kix\_dqbt5us2bm6z-3{list-style-type:none}ol.lst-kix\_dqbt5us2bm6z-4{list-style-type:none}ol.lst-kix\_dqbt5us2bm6z-5{list-style-type:none}.lst-kix\_6kbo64nt5692-6>li:before{content:"\\0025cf "}.lst-kix\_6kbo64nt5692-8>li:before{content:"\\0025a0 "}ol.lst-kix\_dqbt5us2bm6z-6{list-style-type:none}.lst-kix\_5j60k3ufcsn0-8>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-8}.lst-kix\_9q0vwty6g8dk-7>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-7,lower-latin) ". "}ol.lst-kix\_dqbt5us2bm6z-7{list-style-type:none}ol.lst-kix\_dqbt5us2bm6z-8{list-style-type:none}.lst-kix\_z6qhzmnjbq57-5>li:before{content:"\\0025a0 "}.lst-kix\_tfk6vvlrj21u-2>li:before{content:"\\0025a0 "}ol.lst-kix\_39tglg5mgjot-7.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-7 0}ol.lst-kix\_dqbt5us2bm6z-0{list-style-type:none}ol.lst-kix\_dqbt5us2bm6z-1{list-style-type:none}.lst-kix\_x10ctgg5t12l-2>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-2}ol.lst-kix\_bhj1u1iou708-3.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-3 0}.lst-kix\_u31g3a4y2e81-4>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-4}.lst-kix\_tfk6vvlrj21u-4>li:before{content:"\\0025cb "}.lst-kix\_6kbo64nt5692-0>li:before{content:"\\0025cf "}ol.lst-kix\_h2r80t92aafn-1.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-1 0}ol.lst-kix\_wv45fdjk1no6-5.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-5 0}ol.lst-kix\_j9nmyip7dkax-2.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-2 0}.lst-kix\_dfzf8kydac75-5>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-5,lower-roman) ". "}.lst-kix\_dfzf8kydac75-7>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-7,lower-latin) ". "}.lst-kix\_ezd4im9wj4xg-5>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-5}.lst-kix\_j9nmyip7dkax-7>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-7}.lst-kix\_5j60k3ufcsn0-1>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-1}.lst-kix\_kpdl8vbi9tf8-4>li:before{content:"\\0025c6 "}.lst-kix\_35jk86l9l7na-0>li:before{content:"\\0025cf "}.lst-kix\_y3wkjw8slzdf-0>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-0}.lst-kix\_wv45fdjk1no6-2>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-2}ul.lst-kix\_nju6s3w8pcjr-8{list-style-type:none}.lst-kix\_x10ctgg5t12l-4>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-4,lower-latin) ". "}ol.lst-kix\_h2r80t92aafn-6.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-6 0}ol.lst-kix\_dfzf8kydac75-5.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-5 0}.lst-kix\_57n7pi9ql44n-5>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-5}.lst-kix\_u31g3a4y2e81-8>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-8}.lst-kix\_x10ctgg5t12l-2>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-2,lower-roman) ". "}.lst-kix\_kpdl8vbi9tf8-2>li:before{content:"\\0025cf "}.lst-kix\_te2vv1364da4-5>li:before{content:"\\0025a0 "}ul.lst-kix\_jj605gbmml1r-1{list-style-type:none}.lst-kix\_igwf2qn1rr2y-0>li:before{content:"\\0025cf "}.lst-kix\_aiydnfnetrl2-4>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-4,lower-latin) ". "}.lst-kix\_h2r80t92aafn-5>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-5,lower-roman) ". "}.lst-kix\_dgx160lgxjud-4>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-4}.lst-kix\_vo7s6dgva2z5-1>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-1}.lst-kix\_90w0an7lz7j1-0>li:before{content:"\\0025cf "}.lst-kix\_y3wkjw8slzdf-8>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-8,lower-roman) ". "}.lst-kix\_h2r80t92aafn-3>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-3,decimal) ". "}.lst-kix\_y3wkjw8slzdf-6>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-6,decimal) ". "}ul.lst-kix\_nju6s3w8pcjr-0{list-style-type:none}ul.lst-kix\_nju6s3w8pcjr-1{list-style-type:none}ul.lst-kix\_nju6s3w8pcjr-2{list-style-type:none}.lst-kix\_7wgvrdx8koj5-6>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-6}.lst-kix\_igwf2qn1rr2y-8>li:before{content:"\\0025a0 "}ul.lst-kix\_nju6s3w8pcjr-3{list-style-type:none}ul.lst-kix\_nju6s3w8pcjr-4{list-style-type:none}ol.lst-kix\_j9nmyip7dkax-0.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-0 0}ul.lst-kix\_nju6s3w8pcjr-5{list-style-type:none}ol.lst-kix\_ajo11ofktqgn-2.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-2 0}.lst-kix\_j9nmyip7dkax-0>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-0}ul.lst-kix\_nju6s3w8pcjr-6{list-style-type:none}ul.lst-kix\_nju6s3w8pcjr-7{list-style-type:none}.lst-kix\_90w0an7lz7j1-2>li:before{content:"\\0025a0 "}.lst-kix\_igwf2qn1rr2y-6>li:before{content:"\\0025cf "}.lst-kix\_te2vv1364da4-7>li:before{content:"\\0025cb "}ol.lst-kix\_y1zs6niyoe26-1.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-1 0}ol.lst-kix\_vwd9lvw6yoas-1.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-1 0}ul.lst-kix\_tfk6vvlrj21u-8{list-style-type:none}ul.lst-kix\_tfk6vvlrj21u-7{list-style-type:none}ul.lst-kix\_tfk6vvlrj21u-6{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-8.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-8 0}ul.lst-kix\_tfk6vvlrj21u-5{list-style-type:none}ul.lst-kix\_tfk6vvlrj21u-4{list-style-type:none}ul.lst-kix\_tfk6vvlrj21u-3{list-style-type:none}ul.lst-kix\_tfk6vvlrj21u-2{list-style-type:none}.lst-kix\_j9nmyip7dkax-1>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-1,lower-latin) ". "}.lst-kix\_dqbt5us2bm6z-4>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-4}.lst-kix\_cm2g8skyr4bz-6>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-6,decimal) ". "}.lst-kix\_y3wkjw8slzdf-0>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-0,decimal) ". "}ol.lst-kix\_vo7s6dgva2z5-0{list-style-type:none}.lst-kix\_cm2g8skyr4bz-4>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-4}ol.lst-kix\_wv45fdjk1no6-2.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-2 0}ol.lst-kix\_vo7s6dgva2z5-1{list-style-type:none}ul.lst-kix\_tfk6vvlrj21u-1{list-style-type:none}ol.lst-kix\_vo7s6dgva2z5-2{list-style-type:none}ul.lst-kix\_tfk6vvlrj21u-0{list-style-type:none}ol.lst-kix\_vo7s6dgva2z5-3{list-style-type:none}ol.lst-kix\_vo7s6dgva2z5-4{list-style-type:none}ol.lst-kix\_vo7s6dgva2z5-5{list-style-type:none}ol.lst-kix\_7wgvrdx8koj5-7.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-7 0}ol.lst-kix\_vo7s6dgva2z5-6{list-style-type:none}.lst-kix\_cm2g8skyr4bz-4>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-4,lower-latin) ". "}.lst-kix\_aiydnfnetrl2-6>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-6,decimal) ". "}ol.lst-kix\_vo7s6dgva2z5-7{list-style-type:none}ol.lst-kix\_vo7s6dgva2z5-8{list-style-type:none}.lst-kix\_dqbt5us2bm6z-2>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-2,lower-roman) ". "}ol.lst-kix\_h2r80t92aafn-3.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-3 0}.lst-kix\_mx1fwxwtx4ng-1>li:before{content:"\\0025cb "}.lst-kix\_dqbt5us2bm6z-0>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-0,decimal) ". "}.lst-kix\_wd8uuvwd2wd8-6>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-6}.lst-kix\_4hx30jb3kw5z-0>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-0}.lst-kix\_j9nmyip7dkax-7>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-7,lower-latin) ". "}.lst-kix\_dqbt5us2bm6z-8>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-8,lower-roman) ". "}.lst-kix\_mx1fwxwtx4ng-7>li:before{content:"\\0025cb "}.lst-kix\_sdpl7e9fpsf4-5>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-5,lower-roman) ". "}.lst-kix\_sdpl7e9fpsf4-3>li:before{content:"" counter(lst-ctn-kix\_sdpl7e9fpsf4-3,decimal) ". "}.lst-kix\_ajo11ofktqgn-4>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-4}ol.lst-kix\_n5gs769i8n1l-4.start{counter-reset:lst-ctn-kix\_n5gs769i8n1l-4 0}.lst-kix\_vwd9lvw6yoas-4>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-4,lower-latin) ". "}.lst-kix\_vwd9lvw6yoas-6>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-6,decimal) ". "}ol.lst-kix\_7wgvrdx8koj5-5.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-5 0}.lst-kix\_1zngtyti13gc-7>li:before{content:"\\0025cb "}.lst-kix\_1zngtyti13gc-1>li:before{content:"\\0025cb "}.lst-kix\_90w0an7lz7j1-8>li:before{content:"\\0025a0 "}.lst-kix\_imtfae5sqdw0-1>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-1}ol.lst-kix\_vo7s6dgva2z5-3.start{counter-reset:lst-ctn-kix\_vo7s6dgva2z5-3 0}ul.lst-kix\_1zngtyti13gc-7{list-style-type:none}ul.lst-kix\_1zngtyti13gc-8{list-style-type:none}ol.lst-kix\_bhj1u1iou708-8.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-8 0}ol.lst-kix\_ezd4im9wj4xg-8.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-8 0}.lst-kix\_agp5ft34ot7i-0>li:before{content:"\\002794 "}.lst-kix\_aiydnfnetrl2-6>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-6}.lst-kix\_agp5ft34ot7i-2>li:before{content:"\\0025cf "}.lst-kix\_y1zs6niyoe26-7>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-7}.lst-kix\_nju6s3w8pcjr-5>li:before{content:"\\0025cf "}.lst-kix\_e8ucyfjv1p5h-0>li:before{content:"\\0025cf "}.lst-kix\_e8ucyfjv1p5h-8>li:before{content:"\\0025a0 "}.lst-kix\_fid05sqb0oeq-5>li:before{content:"\\0025a0 "}.lst-kix\_dqbt5us2bm6z-8>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-8}.lst-kix\_4hx30jb3kw5z-3>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-3}ol.lst-kix\_x10ctgg5t12l-4{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-3{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-6{list-style-type:none}.lst-kix\_vo7s6dgva2z5-8>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-8}ol.lst-kix\_dqbt5us2bm6z-2.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-2 0}ol.lst-kix\_x10ctgg5t12l-5{list-style-type:none}.lst-kix\_cmhzr736lvz9-6>li:before{content:"\\0025cf "}ol.lst-kix\_x10ctgg5t12l-8{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-7{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-2{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-1{list-style-type:none}.lst-kix\_39tglg5mgjot-5>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-5}ol.lst-kix\_rnd69amlhcfp-4{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-3{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-0{list-style-type:none}.lst-kix\_y1zs6niyoe26-5>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-5,lower-roman) ". "}.lst-kix\_j9nmyip7dkax-4>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-4}ol.lst-kix\_dqbt5us2bm6z-7.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-7 0}ol.lst-kix\_x10ctgg5t12l-2{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-0{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-1{list-style-type:none}.lst-kix\_k5fvoamzha87-1>li:before{content:"\\0025cb "}.lst-kix\_aiydnfnetrl2-2>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-2}ol.lst-kix\_rnd69amlhcfp-6{list-style-type:none}.lst-kix\_39tglg5mgjot-8>li:before{content:"(" counter(lst-ctn-kix\_39tglg5mgjot-8,lower-roman) ") "}.lst-kix\_avd7hz4yxpwp-4>li:before{content:"\\0025c6 "}ol.lst-kix\_rnd69amlhcfp-5{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-8{list-style-type:none}ol.lst-kix\_rnd69amlhcfp-7{list-style-type:none}.lst-kix\_u31g3a4y2e81-1>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-1}.lst-kix\_u77xjui178ro-6>li{counter-increment:lst-ctn-kix\_u77xjui178ro-6}ol.lst-kix\_7mzpuoulp1nf-1.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-1 0}ol.lst-kix\_ezd4im9wj4xg-3.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-3 0}ul.lst-kix\_fomhzjwlnhtq-0{list-style-type:none}ul.lst-kix\_fomhzjwlnhtq-3{list-style-type:none}ul.lst-kix\_fomhzjwlnhtq-4{list-style-type:none}ul.lst-kix\_fomhzjwlnhtq-1{list-style-type:none}ul.lst-kix\_fomhzjwlnhtq-2{list-style-type:none}ul.lst-kix\_fomhzjwlnhtq-7{list-style-type:none}.lst-kix\_7ymal9q3suev-0>li:before{content:"\\0025cf "}ul.lst-kix\_fomhzjwlnhtq-8{list-style-type:none}ul.lst-kix\_fomhzjwlnhtq-5{list-style-type:none}ul.lst-kix\_fomhzjwlnhtq-6{list-style-type:none}.lst-kix\_1hw9yxtpj4be-3>li:before{content:"\\0025cf "}ul.lst-kix\_avd7hz4yxpwp-8{list-style-type:none}ul.lst-kix\_avd7hz4yxpwp-7{list-style-type:none}ul.lst-kix\_avd7hz4yxpwp-6{list-style-type:none}ul.lst-kix\_avd7hz4yxpwp-5{list-style-type:none}ul.lst-kix\_avd7hz4yxpwp-4{list-style-type:none}.lst-kix\_39tglg5mgjot-0>li:before{content:"" counter(lst-ctn-kix\_39tglg5mgjot-0,upper-roman) ". "}ul.lst-kix\_avd7hz4yxpwp-3{list-style-type:none}.lst-kix\_y3wkjw8slzdf-7>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-7}ul.lst-kix\_avd7hz4yxpwp-2{list-style-type:none}.lst-kix\_57n7pi9ql44n-0>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-0,decimal) ". "}.lst-kix\_57n7pi9ql44n-8>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-8,lower-roman) ". "}ul.lst-kix\_avd7hz4yxpwp-1{list-style-type:none}ul.lst-kix\_6jlxkfg6y4y-5{list-style-type:none}ul.lst-kix\_avd7hz4yxpwp-0{list-style-type:none}ul.lst-kix\_6jlxkfg6y4y-6{list-style-type:none}ol.lst-kix\_9q0vwty6g8dk-0.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-0 0}ul.lst-kix\_6jlxkfg6y4y-7{list-style-type:none}.lst-kix\_1cvaav37tqxz-3>li:before{content:"\\0025cf "}ul.lst-kix\_6jlxkfg6y4y-8{list-style-type:none}.lst-kix\_vqvg6ipvpfqq-4>li:before{content:"\\0025cb "}.lst-kix\_dwdfsf4pr030-1>li:before{content:"\\0025c6 "}.lst-kix\_kpl05iruvgc1-2>li:before{content:"\\0025a0 "}.lst-kix\_kt92ox9vwh8l-6>li:before{content:"\\0025cf "}.lst-kix\_y3wkjw8slzdf-3>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-3}ol.lst-kix\_7mzpuoulp1nf-2.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-2 0}.lst-kix\_1mactjhtpsm0-5>li:before{content:"\\0025a0 "}.lst-kix\_58l1l2i5zpbg-6>li:before{content:"\\0025cf "}.lst-kix\_rnd69amlhcfp-3>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-3}ul.lst-kix\_6jlxkfg6y4y-0{list-style-type:none}ul.lst-kix\_6jlxkfg6y4y-1{list-style-type:none}ul.lst-kix\_6jlxkfg6y4y-2{list-style-type:none}ul.lst-kix\_6jlxkfg6y4y-3{list-style-type:none}ul.lst-kix\_6jlxkfg6y4y-4{list-style-type:none}.lst-kix\_rnd69amlhcfp-8>li:before{content:"" counter(lst-ctn-kix\_rnd69amlhcfp-8,lower-roman) ". "}.lst-kix\_57n7pi9ql44n-8>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-8}.lst-kix\_f8fa4dga3qh-4>li:before{content:"\\0025cb "}ol.lst-kix\_dqbt5us2bm6z-6.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-6 0}.lst-kix\_deuxbmtywfod-0>li:before{content:"\\0025cf "}ol.lst-kix\_ajo11ofktqgn-5.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-5 0}.lst-kix\_bhj1u1iou708-8>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-8,lower-roman) ". "}ol.lst-kix\_7wgvrdx8koj5-2.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-2 0}ol.lst-kix\_h2r80t92aafn-8.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-8 0}.lst-kix\_aph4ud4tzuh8-1>li:before{content:"\\0025cb "}.lst-kix\_u31g3a4y2e81-4>li:before{content:"(" counter(lst-ctn-kix\_u31g3a4y2e81-4,decimal) ") "}.lst-kix\_yceir2d6i8hu-1>li:before{content:"\\0025cb "}.lst-kix\_4hx30jb3kw5z-3>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-3,lower-latin) ". "}.lst-kix\_ezd4im9wj4xg-8>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-8}.lst-kix\_l2vwvtd64fgm-8>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-8,lower-roman) ". "}ol.lst-kix\_dfzf8kydac75-0.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-0 0}.lst-kix\_dqbt5us2bm6z-1>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-1}.lst-kix\_7wgvrdx8koj5-3>li:before{content:"" counter(lst-ctn-kix\_7wgvrdx8koj5-3,lower-latin) ") "}.lst-kix\_9q0vwty6g8dk-1>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-1}ol.lst-kix\_9q0vwty6g8dk-5.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-5 0}.lst-kix\_fomhzjwlnhtq-6>li:before{content:"\\0025cf "}.lst-kix\_6jlxkfg6y4y-4>li:before{content:"\\0025cb "}.lst-kix\_djnrwroxhuca-3>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-3}.lst-kix\_deuxbmtywfod-8>li:before{content:"\\0025a0 "}.lst-kix\_35jk86l9l7na-6>li:before{content:"\\0025cf "}.lst-kix\_7ymal9q3suev-8>li:before{content:"\\0025a0 "}.lst-kix\_bhj1u1iou708-0>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-0,decimal) ". "}.lst-kix\_ezd4im9wj4xg-7>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-7,lower-latin) ". "}ol.lst-kix\_ajo11ofktqgn-8.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-8 0}.lst-kix\_s4vjpl9wdzad-2>li:before{content:"\\0025a0 "}.lst-kix\_l2vwvtd64fgm-8>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-8}.lst-kix\_rptp6kc3szns-3>li:before{content:"\\0025cf "}.lst-kix\_imtfae5sqdw0-3>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-3,decimal) ". "}ol.lst-kix\_7wgvrdx8koj5-0.start{counter-reset:lst-ctn-kix\_7wgvrdx8koj5-0 0}ol.lst-kix\_ajo11ofktqgn-7.start{counter-reset:lst-ctn-kix\_ajo11ofktqgn-7 0}.lst-kix\_fym1b2h3q8gi-3>li:before{content:"\\0025cf "}.lst-kix\_791sozx61ms4-1>li:before{content:"\\0025c6 "}.lst-kix\_w8lhq089xdod-5>li:before{content:"\\0025a0 "}ol.lst-kix\_9q0vwty6g8dk-3.start{counter-reset:lst-ctn-kix\_9q0vwty6g8dk-3 0}.lst-kix\_dfzf8kydac75-4>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-4}.lst-kix\_sdpl7e9fpsf4-3>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-3}ol.lst-kix\_dfzf8kydac75-2.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-2 0}li.li-bullet-0:before{margin-left:-18pt;white-space:nowrap;display:inline-block;min-width:18pt}ol.lst-kix\_ezd4im9wj4xg-1.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-1 0}.lst-kix\_1riw3buqnalm-1>li:before{content:"\\0025c6 "}.lst-kix\_vo7s6dgva2z5-1>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-1,lower-latin) ". "}.lst-kix\_l2vwvtd64fgm-0>li:before{content:"" counter(lst-ctn-kix\_l2vwvtd64fgm-0,decimal) ". "}.lst-kix\_r7brh7p8jjg0-3>li:before{content:"\\0025cb "}.lst-kix\_58z2ekguc713-5>li{counter-increment:lst-ctn-kix\_58z2ekguc713-5}.lst-kix\_xyr4sts07d2a-1>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-1,lower-latin) ". "}ul.lst-kix\_98y8vui06f7k-7{list-style-type:none}ul.lst-kix\_98y8vui06f7k-8{list-style-type:none}.lst-kix\_7wgvrdx8koj5-1>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-1}ul.lst-kix\_98y8vui06f7k-5{list-style-type:none}.lst-kix\_dgx160lgxjud-6>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-6,decimal) ". "}ul.lst-kix\_98y8vui06f7k-6{list-style-type:none}ul.lst-kix\_98y8vui06f7k-3{list-style-type:none}ul.lst-kix\_98y8vui06f7k-4{list-style-type:none}ul.lst-kix\_98y8vui06f7k-1{list-style-type:none}.lst-kix\_dgx160lgxjud-3>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-3,decimal) ". "}.lst-kix\_dgx160lgxjud-7>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-7,lower-latin) ". "}ul.lst-kix\_98y8vui06f7k-2{list-style-type:none}.lst-kix\_n5gs769i8n1l-4>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-4,lower-latin) ". "}.lst-kix\_n5gs769i8n1l-8>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-8,lower-roman) ". "}ol.lst-kix\_cm2g8skyr4bz-2{list-style-type:none}ul.lst-kix\_98y8vui06f7k-0{list-style-type:none}ol.lst-kix\_cm2g8skyr4bz-1{list-style-type:none}ol.lst-kix\_cm2g8skyr4bz-4{list-style-type:none}ol.lst-kix\_cm2g8skyr4bz-3{list-style-type:none}.lst-kix\_n5gs769i8n1l-5>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-5,lower-roman) ". "}ol.lst-kix\_cm2g8skyr4bz-0{list-style-type:none}ol.lst-kix\_ezd4im9wj4xg-1{list-style-type:none}ol.lst-kix\_ezd4im9wj4xg-2{list-style-type:none}.lst-kix\_vo7s6dgva2z5-3>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-3,decimal) ". "}ol.lst-kix\_ezd4im9wj4xg-0{list-style-type:none}ol.lst-kix\_dfzf8kydac75-4.start{counter-reset:lst-ctn-kix\_dfzf8kydac75-4 0}ol.lst-kix\_ezd4im9wj4xg-5{list-style-type:none}ol.lst-kix\_ezd4im9wj4xg-6{list-style-type:none}ol.lst-kix\_ezd4im9wj4xg-3{list-style-type:none}.lst-kix\_vo7s6dgva2z5-4>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-4,lower-latin) ". "}ol.lst-kix\_ezd4im9wj4xg-4{list-style-type:none}.lst-kix\_sdpl7e9fpsf4-8>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-8}.lst-kix\_n5gs769i8n1l-0>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-0}.lst-kix\_imtfae5sqdw0-7>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-7}.lst-kix\_vwd9lvw6yoas-1>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-1}.lst-kix\_vo7s6dgva2z5-7>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-7,lower-latin) ". "}.lst-kix\_vo7s6dgva2z5-6>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-6,decimal) ". "}.lst-kix\_5s9f45n8y01l-1>li:before{content:"\\0025cb "}.lst-kix\_u77xjui178ro-1>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-1,lower-latin) ". "}.lst-kix\_5s9f45n8y01l-2>li:before{content:"\\0025a0 "}.lst-kix\_57n7pi9ql44n-7>li{counter-increment:lst-ctn-kix\_57n7pi9ql44n-7}ol.lst-kix\_vwd9lvw6yoas-2.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-2 0}.lst-kix\_jnql0gsch18r-3>li:before{content:"\\0025cf "}.lst-kix\_u77xjui178ro-0>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-0,decimal) ". "}.lst-kix\_u77xjui178ro-4>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-4,lower-latin) ". "}.lst-kix\_jnql0gsch18r-0>li:before{content:"\\0025cf "}.lst-kix\_4hx30jb3kw5z-2>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-2}ol.lst-kix\_ezd4im9wj4xg-7{list-style-type:none}.lst-kix\_u77xjui178ro-3>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-3,decimal) ". "}ol.lst-kix\_ezd4im9wj4xg-8{list-style-type:none}.lst-kix\_jnql0gsch18r-2>li:before{content:"\\0025a0 "}.lst-kix\_u77xjui178ro-7>li:before{content:"" counter(lst-ctn-kix\_u77xjui178ro-7,lower-latin) ". "}.lst-kix\_n5gs769i8n1l-1>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-1,lower-latin) ". "}.lst-kix\_dgx160lgxjud-0>li:before{content:"" counter(lst-ctn-kix\_dgx160lgxjud-0,decimal) ". "}.lst-kix\_n5gs769i8n1l-2>li:before{content:"" counter(lst-ctn-kix\_n5gs769i8n1l-2,lower-roman) ". "}.lst-kix\_rptp6kc3szns-5>li:before{content:"\\0025a0 "}.lst-kix\_rsuua6a2lwof-5>li:before{content:"\\0025a0 "}.lst-kix\_rsuua6a2lwof-7>li:before{content:"\\0025cb "}.lst-kix\_u77xjui178ro-1>li{counter-increment:lst-ctn-kix\_u77xjui178ro-1}.lst-kix\_rptp6kc3szns-6>li:before{content:"\\0025cf "}.lst-kix\_rsuua6a2lwof-4>li:before{content:"\\0025cb "}.lst-kix\_rsuua6a2lwof-8>li:before{content:"\\0025a0 "}ol.lst-kix\_imtfae5sqdw0-3{list-style-type:none}ol.lst-kix\_imtfae5sqdw0-4{list-style-type:none}ol.lst-kix\_imtfae5sqdw0-5{list-style-type:none}ol.lst-kix\_imtfae5sqdw0-6{list-style-type:none}.lst-kix\_rsuua6a2lwof-1>li:before{content:"\\0025cb "}ol.lst-kix\_imtfae5sqdw0-7{list-style-type:none}ol.lst-kix\_imtfae5sqdw0-8{list-style-type:none}.lst-kix\_ajo11ofktqgn-8>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-8,lower-roman) ". "}.lst-kix\_rptp6kc3szns-8>li:before{content:"\\0025a0 "}.lst-kix\_aiydnfnetrl2-8>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-8}ol.lst-kix\_bhj1u1iou708-4.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-4 0}ol.lst-kix\_h2r80t92aafn-0.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-0 0}.lst-kix\_jnql0gsch18r-6>li:before{content:"\\0025cf "}.lst-kix\_jnql0gsch18r-5>li:before{content:"\\0025a0 "}ul.lst-kix\_791sozx61ms4-8{list-style-type:none}ul.lst-kix\_791sozx61ms4-7{list-style-type:none}.lst-kix\_n3mx1wjo5e1o-5>li:before{content:"\\0025a0 "}ol.lst-kix\_ezd4im9wj4xg-5.start{counter-reset:lst-ctn-kix\_ezd4im9wj4xg-5 0}.lst-kix\_n3mx1wjo5e1o-4>li:before{content:"\\0025cb "}.lst-kix\_rnd69amlhcfp-6>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-6}ol.lst-kix\_j9nmyip7dkax-8.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-8 0}.lst-kix\_n3mx1wjo5e1o-2>li:before{content:"\\0025a0 "}.lst-kix\_n3mx1wjo5e1o-1>li:before{content:"\\0025cb "}ol.lst-kix\_vwd9lvw6yoas-7.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-7 0}ol.lst-kix\_imtfae5sqdw0-0{list-style-type:none}ol.lst-kix\_imtfae5sqdw0-1{list-style-type:none}ol.lst-kix\_imtfae5sqdw0-2{list-style-type:none}ul.lst-kix\_791sozx61ms4-4{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-4.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-4 0}ul.lst-kix\_791sozx61ms4-3{list-style-type:none}ul.lst-kix\_791sozx61ms4-6{list-style-type:none}ul.lst-kix\_791sozx61ms4-5{list-style-type:none}ul.lst-kix\_791sozx61ms4-0{list-style-type:none}ul.lst-kix\_791sozx61ms4-2{list-style-type:none}ul.lst-kix\_791sozx61ms4-1{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-5.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-5 0}ol.lst-kix\_jj605gbmml1r-0.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-0 0}.lst-kix\_jj605gbmml1r-2>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-2,lower-roman) ". "}.lst-kix\_bhj1u1iou708-6>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-6}.lst-kix\_7mzpuoulp1nf-0>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-0,lower-latin) ". "}ol.lst-kix\_h2r80t92aafn-5.start{counter-reset:lst-ctn-kix\_h2r80t92aafn-5 0}.lst-kix\_p82ewsdtpvdv-8>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-8,lower-roman) ". "}.lst-kix\_7mzpuoulp1nf-6>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-6,lower-latin) ". "}.lst-kix\_4hx30jb3kw5z-2>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-2,decimal) ". "}.lst-kix\_tfvxwy1nj4jt-8>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-8,lower-roman) ". "}.lst-kix\_n3mx1wjo5e1o-7>li:before{content:"\\0025cb "}.lst-kix\_jj605gbmml1r-8>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-8,lower-roman) ". "}.lst-kix\_tfvxwy1nj4jt-6>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-6,decimal) ". "}.lst-kix\_dqbt5us2bm6z-2>li{counter-increment:lst-ctn-kix\_dqbt5us2bm6z-2}.lst-kix\_5wgrz5uafcjq-2>li:before{content:"\\0025a0 "}.lst-kix\_p82ewsdtpvdv-4>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-4,lower-latin) ". "}ol.lst-kix\_57n7pi9ql44n-3.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-3 0}.lst-kix\_7wgvrdx8koj5-2>li:before{content:"" counter(lst-ctn-kix\_7wgvrdx8koj5-2,decimal) ". "}.lst-kix\_5wgrz5uafcjq-8>li:before{content:"\\0025a0 "}.lst-kix\_ajo11ofktqgn-1>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-1,lower-latin) ". "}.lst-kix\_tfvxwy1nj4jt-2>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-2,lower-roman) ". "}.lst-kix\_7wgvrdx8koj5-6>li:before{content:"(" counter(lst-ctn-kix\_7wgvrdx8koj5-6,lower-roman) ") "}.lst-kix\_7wgvrdx8koj5-8>li:before{content:"(" counter(lst-ctn-kix\_7wgvrdx8koj5-8,lower-roman) ") "}ol.lst-kix\_dqbt5us2bm6z-1.start{counter-reset:lst-ctn-kix\_dqbt5us2bm6z-1 0}.lst-kix\_n5gs769i8n1l-8>li{counter-increment:lst-ctn-kix\_n5gs769i8n1l-8}.lst-kix\_39tglg5mgjot-8>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-8}.lst-kix\_ajo11ofktqgn-5>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-5,lower-roman) ". "}ol.lst-kix\_aiydnfnetrl2-7.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-7 0}.lst-kix\_791sozx61ms4-8>li:before{content:"\\0025cf "}ol.lst-kix\_cm2g8skyr4bz-1.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-1 0}.lst-kix\_5j60k3ufcsn0-7>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-7,lower-latin) ". "}ol.lst-kix\_39tglg5mgjot-8.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-8 0}.lst-kix\_rptp6kc3szns-2>li:before{content:"\\0025a0 "}ol.lst-kix\_x10ctgg5t12l-8.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-8 0}ol.lst-kix\_y1zs6niyoe26-2.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-2 0}.lst-kix\_x10ctgg5t12l-0>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-0}.lst-kix\_5j60k3ufcsn0-3>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-3,decimal) ". "}.lst-kix\_y3wkjw8slzdf-2>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-2}ol.lst-kix\_sdpl7e9fpsf4-5.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-5 0}.lst-kix\_g19yvew0v636-7>li:before{content:"\\0025cb "}.lst-kix\_791sozx61ms4-2>li:before{content:"\\0025cf "}.lst-kix\_1riw3buqnalm-4>li:before{content:"\\0025c6 "}ul.lst-kix\_fym1b2h3q8gi-0{list-style-type:none}.lst-kix\_5s9f45n8y01l-4>li:before{content:"\\0025cb "}.lst-kix\_1riw3buqnalm-6>li:before{content:"\\0025cb "}ul.lst-kix\_fym1b2h3q8gi-1{list-style-type:none}.lst-kix\_xyr4sts07d2a-8>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-8}ul.lst-kix\_fym1b2h3q8gi-4{list-style-type:none}ul.lst-kix\_fym1b2h3q8gi-5{list-style-type:none}.lst-kix\_xyr4sts07d2a-8>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-8,lower-roman) ". "}ul.lst-kix\_fym1b2h3q8gi-2{list-style-type:none}ul.lst-kix\_fym1b2h3q8gi-3{list-style-type:none}.lst-kix\_g19yvew0v636-1>li:before{content:"\\0025cb "}.lst-kix\_t0auh7peo3x7-3>li:before{content:"\\0025cf "}.lst-kix\_c2g37tioifxo-1>li:before{content:"\\0025c6 "}.lst-kix\_jj605gbmml1r-5>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-5}.lst-kix\_4hx30jb3kw5z-6>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-6,lower-latin) ". "}.lst-kix\_5s9f45n8y01l-8>li:before{content:"\\0025a0 "}.lst-kix\_y1zs6niyoe26-5>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-5}ol.lst-kix\_7mzpuoulp1nf-6.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-6 0}.lst-kix\_4hx30jb3kw5z-8>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-8,decimal) ". "}.lst-kix\_1riw3buqnalm-0>li:before{content:"\\002794 "}.lst-kix\_wv45fdjk1no6-7>li{counter-increment:lst-ctn-kix\_wv45fdjk1no6-7}.lst-kix\_5j60k3ufcsn0-3>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-3}.lst-kix\_vo7s6dgva2z5-0>li:before{content:"" counter(lst-ctn-kix\_vo7s6dgva2z5-0,decimal) ". "}.lst-kix\_j9nmyip7dkax-5>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-5}.lst-kix\_sdpl7e9fpsf4-0>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-0}.lst-kix\_xyr4sts07d2a-2>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-2,lower-roman) ". "}.lst-kix\_c2g37tioifxo-5>li:before{content:"\\0025cf "}.lst-kix\_f8fa4dga3qh-6>li:before{content:"\\0025cf "}.lst-kix\_imtfae5sqdw0-8>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-8}.lst-kix\_vwd9lvw6yoas-0>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-0}.lst-kix\_f8fa4dga3qh-7>li:before{content:"\\0025cb "}ol.lst-kix\_j9nmyip7dkax-4.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-4 0}ul.lst-kix\_5s9f45n8y01l-7{list-style-type:none}ul.lst-kix\_5s9f45n8y01l-8{list-style-type:none}ul.lst-kix\_5s9f45n8y01l-5{list-style-type:none}ul.lst-kix\_5s9f45n8y01l-6{list-style-type:none}.lst-kix\_bhj1u1iou708-0>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-0}ul.lst-kix\_5s9f45n8y01l-3{list-style-type:none}ul.lst-kix\_5s9f45n8y01l-4{list-style-type:none}ul.lst-kix\_5s9f45n8y01l-1{list-style-type:none}ul.lst-kix\_5s9f45n8y01l-2{list-style-type:none}ol.lst-kix\_wv45fdjk1no6-3.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-3 0}.lst-kix\_cmhzr736lvz9-4>li:before{content:"\\0025cb "}ul.lst-kix\_5s9f45n8y01l-0{list-style-type:none}.lst-kix\_ajo11ofktqgn-5>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-5}ol.lst-kix\_wv45fdjk1no6-8{list-style-type:none}ol.lst-kix\_wv45fdjk1no6-7{list-style-type:none}ol.lst-kix\_u77xjui178ro-8.start{counter-reset:lst-ctn-kix\_u77xjui178ro-8 0}ol.lst-kix\_wv45fdjk1no6-6{list-style-type:none}ol.lst-kix\_wv45fdjk1no6-5{list-style-type:none}ol.lst-kix\_wv45fdjk1no6-4{list-style-type:none}ul.lst-kix\_fym1b2h3q8gi-8{list-style-type:none}ul.lst-kix\_fym1b2h3q8gi-6{list-style-type:none}ul.lst-kix\_fym1b2h3q8gi-7{list-style-type:none}.lst-kix\_1riw3buqnalm-7>li:before{content:"\\0025c6 "}.lst-kix\_tfvxwy1nj4jt-3>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-3}ol.lst-kix\_cm2g8skyr4bz-2.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-2 0}.lst-kix\_l2vwvtd64fgm-2>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-2}ol.lst-kix\_7mzpuoulp1nf-7.start{counter-reset:lst-ctn-kix\_7mzpuoulp1nf-7 0}.lst-kix\_avd7hz4yxpwp-6>li:before{content:"\\0025cb "}ol.lst-kix\_x10ctgg5t12l-7.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-7 0}.lst-kix\_cmhzr736lvz9-0>li:before{content:"\\0025cf "}.lst-kix\_cmhzr736lvz9-1>li:before{content:"\\0025cb "}.lst-kix\_rnd69amlhcfp-7>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-7}.lst-kix\_cm2g8skyr4bz-7>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-7}ol.lst-kix\_39tglg5mgjot-4.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-4 0}ol.lst-kix\_wd8uuvwd2wd8-4.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-4 0}ol.lst-kix\_7mzpuoulp1nf-2{list-style-type:none}ol.lst-kix\_7mzpuoulp1nf-1{list-style-type:none}.lst-kix\_vo7s6dgva2z5-4>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-4}ol.lst-kix\_7mzpuoulp1nf-4{list-style-type:none}.lst-kix\_57n7pi9ql44n-5>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-5,lower-roman) ". "}ol.lst-kix\_7mzpuoulp1nf-3{list-style-type:none}ol.lst-kix\_7mzpuoulp1nf-6{list-style-type:none}ol.lst-kix\_7mzpuoulp1nf-5{list-style-type:none}.lst-kix\_9q0vwty6g8dk-0>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-0}ol.lst-kix\_7mzpuoulp1nf-8{list-style-type:none}.lst-kix\_57n7pi9ql44n-6>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-6,decimal) ". "}ol.lst-kix\_7mzpuoulp1nf-7{list-style-type:none}.lst-kix\_dwdfsf4pr030-8>li:before{content:"\\0025cf "}.lst-kix\_dfzf8kydac75-5>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-5}.lst-kix\_39tglg5mgjot-2>li:before{content:"" counter(lst-ctn-kix\_39tglg5mgjot-2,decimal) ". "}.lst-kix\_ezd4im9wj4xg-1>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-1,lower-latin) ". "}.lst-kix\_ezd4im9wj4xg-2>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-2,lower-roman) ". "}.lst-kix\_cm2g8skyr4bz-5>li{counter-increment:lst-ctn-kix\_cm2g8skyr4bz-5}.lst-kix\_l2vwvtd64fgm-4>li{counter-increment:lst-ctn-kix\_l2vwvtd64fgm-4}ol.lst-kix\_57n7pi9ql44n-7.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-7 0}.lst-kix\_39tglg5mgjot-6>li:before{content:"(" counter(lst-ctn-kix\_39tglg5mgjot-6,lower-roman) ") "}ol.lst-kix\_vwd9lvw6yoas-6.start{counter-reset:lst-ctn-kix\_vwd9lvw6yoas-6 0}.lst-kix\_39tglg5mgjot-3>li:before{content:"" counter(lst-ctn-kix\_39tglg5mgjot-3,lower-latin) ") "}.lst-kix\_57n7pi9ql44n-2>li:before{content:"" counter(lst-ctn-kix\_57n7pi9ql44n-2,lower-roman) ". "}ol.lst-kix\_y1zs6niyoe26-6.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-6 0}ol.lst-kix\_y3wkjw8slzdf-3.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-3 0}ol.lst-kix\_7mzpuoulp1nf-0{list-style-type:none}.lst-kix\_1cvaav37tqxz-2>li:before{content:"\\0025a0 "}ol.lst-kix\_wd8uuvwd2wd8-5.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-5 0}ol.lst-kix\_wv45fdjk1no6-4.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-4 0}.lst-kix\_1cvaav37tqxz-5>li:before{content:"\\0025a0 "}.lst-kix\_1cvaav37tqxz-6>li:before{content:"\\0025cf "}ol.lst-kix\_57n7pi9ql44n-8.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-8 0}.lst-kix\_f8fa4dga3qh-3>li:before{content:"\\0025cf "}.lst-kix\_aiydnfnetrl2-3>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-3,decimal) ". "}.lst-kix\_igwf2qn1rr2y-1>li:before{content:"\\0025cb "}ol.lst-kix\_y1zs6niyoe26-7.start{counter-reset:lst-ctn-kix\_y1zs6niyoe26-7 0}.lst-kix\_7wgvrdx8koj5-7>li{counter-increment:lst-ctn-kix\_7wgvrdx8koj5-7}.lst-kix\_ezd4im9wj4xg-7>li{counter-increment:lst-ctn-kix\_ezd4im9wj4xg-7}ol.lst-kix\_cm2g8skyr4bz-6.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-6 0}ol.lst-kix\_39tglg5mgjot-3.start{counter-reset:lst-ctn-kix\_39tglg5mgjot-3 0}ol.lst-kix\_x10ctgg5t12l-3.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-3 0}ul.lst-kix\_5wgrz5uafcjq-1{list-style-type:none}ul.lst-kix\_5wgrz5uafcjq-2{list-style-type:none}.lst-kix\_vo7s6dgva2z5-2>li{counter-increment:lst-ctn-kix\_vo7s6dgva2z5-2}ul.lst-kix\_5wgrz5uafcjq-3{list-style-type:none}.lst-kix\_y3wkjw8slzdf-5>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-5,lower-roman) ". "}ul.lst-kix\_5wgrz5uafcjq-4{list-style-type:none}ul.lst-kix\_5wgrz5uafcjq-5{list-style-type:none}ul.lst-kix\_5wgrz5uafcjq-6{list-style-type:none}ul.lst-kix\_5wgrz5uafcjq-7{list-style-type:none}.lst-kix\_p82ewsdtpvdv-7>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-7,lower-latin) ". "}ul.lst-kix\_5wgrz5uafcjq-8{list-style-type:none}.lst-kix\_n3mx1wjo5e1o-8>li:before{content:"\\0025a0 "}.lst-kix\_sdpl7e9fpsf4-2>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-2}ol.lst-kix\_wd8uuvwd2wd8-0.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-0 0}ul.lst-kix\_5wgrz5uafcjq-0{list-style-type:none}.lst-kix\_tfvxwy1nj4jt-5>li:before{content:"" counter(lst-ctn-kix\_tfvxwy1nj4jt-5,lower-roman) ". "}.lst-kix\_fomhzjwlnhtq-4>li:before{content:"\\0025cb "}.lst-kix\_bhj1u1iou708-5>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-5}ol.lst-kix\_j9nmyip7dkax-3.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-3 0}ul.lst-kix\_aiydnfnetrl2-1{list-style-type:none}.lst-kix\_ezd4im9wj4xg-5>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-5,lower-roman) ". "}.lst-kix\_35jk86l9l7na-8>li:before{content:"\\0025a0 "}.lst-kix\_7wgvrdx8koj5-5>li:before{content:"(" counter(lst-ctn-kix\_7wgvrdx8koj5-5,lower-latin) ") "}.lst-kix\_fomhzjwlnhtq-0>li:before{content:"\\0025cf "}.lst-kix\_ajo11ofktqgn-2>li:before{content:"" counter(lst-ctn-kix\_ajo11ofktqgn-2,lower-roman) ". "}.lst-kix\_6jlxkfg6y4y-6>li:before{content:"\\0025cf "}.lst-kix\_aiydnfnetrl2-7>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-7,lower-latin) ". "}ol.lst-kix\_u77xjui178ro-4.start{counter-reset:lst-ctn-kix\_u77xjui178ro-4 0}.lst-kix\_xyr4sts07d2a-0>li{counter-increment:lst-ctn-kix\_xyr4sts07d2a-0}.lst-kix\_djnrwroxhuca-2>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-2}.lst-kix\_imtfae5sqdw0-5>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-5,lower-roman) ". "}ol.lst-kix\_bhj1u1iou708-0.start{counter-reset:lst-ctn-kix\_bhj1u1iou708-0 0}.lst-kix\_5j60k3ufcsn0-6>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-6,decimal) ". "}.lst-kix\_mx1fwxwtx4ng-6>li:before{content:"\\0025cf "}ol.lst-kix\_y3wkjw8slzdf-0.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-0 0}.lst-kix\_dgx160lgxjud-7>li{counter-increment:lst-ctn-kix\_dgx160lgxjud-7}ol.lst-kix\_jj605gbmml1r-5.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-5 0}.lst-kix\_39tglg5mgjot-6>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-6}ol.lst-kix\_u77xjui178ro-3.start{counter-reset:lst-ctn-kix\_u77xjui178ro-3 0}ol.lst-kix\_wv45fdjk1no6-8.start{counter-reset:lst-ctn-kix\_wv45fdjk1no6-8 0}.lst-kix\_1riw3buqnalm-3>li:before{content:"\\0025cb "}.lst-kix\_w8lhq089xdod-3>li:before{content:"\\0025cf "}.lst-kix\_5s9f45n8y01l-5>li:before{content:"\\0025a0 "}.lst-kix\_t0auh7peo3x7-0>li:before{content:"\\0025cf "}.lst-kix\_vwd9lvw6yoas-7>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-7,lower-latin) ". "}ol.lst-kix\_jj605gbmml1r-4.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-4 0}ol.lst-kix\_cm2g8skyr4bz-7.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-7 0}ol.lst-kix\_wv45fdjk1no6-3{list-style-type:none}ol.lst-kix\_wv45fdjk1no6-2{list-style-type:none}.lst-kix\_ajo11ofktqgn-7>li{counter-increment:lst-ctn-kix\_ajo11ofktqgn-7}ol.lst-kix\_wv45fdjk1no6-1{list-style-type:none}ol.lst-kix\_wv45fdjk1no6-0{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-2.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-2 0}.lst-kix\_1zngtyti13gc-2>li:before{content:"\\0025a0 "}.lst-kix\_r7brh7p8jjg0-1>li:before{content:"\\0025c6 "}.lst-kix\_90w0an7lz7j1-7>li:before{content:"\\0025cb "}.lst-kix\_4hx30jb3kw5z-5>li:before{content:"" counter(lst-ctn-kix\_4hx30jb3kw5z-5,decimal) ". "}.lst-kix\_vwd9lvw6yoas-3>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-3,decimal) ". "}ol.lst-kix\_cm2g8skyr4bz-6{list-style-type:none}ol.lst-kix\_cm2g8skyr4bz-5{list-style-type:none}.lst-kix\_c2g37tioifxo-2>li:before{content:"\\0025cf "}ol.lst-kix\_cm2g8skyr4bz-8{list-style-type:none}ol.lst-kix\_cm2g8skyr4bz-7{list-style-type:none}ul.lst-kix\_1riw3buqnalm-8{list-style-type:none}ul.lst-kix\_1riw3buqnalm-7{list-style-type:none}.lst-kix\_agp5ft34ot7i-4>li:before{content:"\\0025c6 "}ul.lst-kix\_1riw3buqnalm-4{list-style-type:none}ul.lst-kix\_1riw3buqnalm-3{list-style-type:none}.lst-kix\_agp5ft34ot7i-7>li:before{content:"\\0025c6 "}ul.lst-kix\_1riw3buqnalm-6{list-style-type:none}ol.lst-kix\_j9nmyip7dkax-7.start{counter-reset:lst-ctn-kix\_j9nmyip7dkax-7 0}ul.lst-kix\_1riw3buqnalm-5{list-style-type:none}.lst-kix\_dfzf8kydac75-2>li{counter-increment:lst-ctn-kix\_dfzf8kydac75-2}.lst-kix\_xlt82mfm7yjm-0>li:before{content:"\\0025cf "}.lst-kix\_3kc0onjmd4b3-3>li:before{content:"\\0025cf "}ol.lst-kix\_y3wkjw8slzdf-5.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-5 0}.lst-kix\_xlt82mfm7yjm-7>li:before{content:"\\0025cb "}ul.lst-kix\_k470ynu4dph8-6{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-8.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-8 0}ul.lst-kix\_k470ynu4dph8-5{list-style-type:none}ul.lst-kix\_k470ynu4dph8-4{list-style-type:none}ul.lst-kix\_k470ynu4dph8-3{list-style-type:none}ul.lst-kix\_k470ynu4dph8-2{list-style-type:none}ul.lst-kix\_k470ynu4dph8-1{list-style-type:none}ul.lst-kix\_k470ynu4dph8-0{list-style-type:none}.lst-kix\_3kc0onjmd4b3-0>li:before{content:"\\0025cf "}ul.lst-kix\_1riw3buqnalm-0{list-style-type:none}.lst-kix\_9q0vwty6g8dk-5>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-5,lower-roman) ". "}ul.lst-kix\_1riw3buqnalm-2{list-style-type:none}ul.lst-kix\_1riw3buqnalm-1{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-1.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-1 0}ul.lst-kix\_k470ynu4dph8-8{list-style-type:none}ul.lst-kix\_k470ynu4dph8-7{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-6.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-6 0}ol.lst-kix\_djnrwroxhuca-1{list-style-type:none}ol.lst-kix\_u77xjui178ro-0.start{counter-reset:lst-ctn-kix\_u77xjui178ro-0 0}ol.lst-kix\_djnrwroxhuca-0{list-style-type:none}ol.lst-kix\_djnrwroxhuca-3{list-style-type:none}ol.lst-kix\_djnrwroxhuca-2{list-style-type:none}ol.lst-kix\_djnrwroxhuca-5{list-style-type:none}ol.lst-kix\_djnrwroxhuca-4{list-style-type:none}ol.lst-kix\_djnrwroxhuca-7{list-style-type:none}ol.lst-kix\_djnrwroxhuca-6{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-4.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-4 0}ol.lst-kix\_djnrwroxhuca-8{list-style-type:none}ol.lst-kix\_u77xjui178ro-0{list-style-type:none}.lst-kix\_z6qhzmnjbq57-7>li:before{content:"\\0025cb "}.lst-kix\_9q0vwty6g8dk-8>li:before{content:"" counter(lst-ctn-kix\_9q0vwty6g8dk-8,lower-roman) ". "}.lst-kix\_tfk6vvlrj21u-3>li:before{content:"\\0025cf "}ol.lst-kix\_u77xjui178ro-2{list-style-type:none}ol.lst-kix\_u77xjui178ro-1{list-style-type:none}.lst-kix\_6kbo64nt5692-7>li:before{content:"\\0025cb "}ol.lst-kix\_u77xjui178ro-4{list-style-type:none}.lst-kix\_rnd69amlhcfp-4>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-4}ol.lst-kix\_u77xjui178ro-3{list-style-type:none}ol.lst-kix\_u77xjui178ro-6{list-style-type:none}ol.lst-kix\_u77xjui178ro-5{list-style-type:none}ol.lst-kix\_u77xjui178ro-8{list-style-type:none}.lst-kix\_6kbo64nt5692-1>li:before{content:"\\0025cb "}ol.lst-kix\_u77xjui178ro-7{list-style-type:none}.lst-kix\_6kbo64nt5692-4>li:before{content:"\\0025cb "}.lst-kix\_tfk6vvlrj21u-6>li:before{content:"\\0025cf "}ol.lst-kix\_cm2g8skyr4bz-5.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-5 0}.lst-kix\_u77xjui178ro-7>li{counter-increment:lst-ctn-kix\_u77xjui178ro-7}ol.lst-kix\_wd8uuvwd2wd8-6.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-6 0}.lst-kix\_dfzf8kydac75-6>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-6,decimal) ". "}ol.lst-kix\_jj605gbmml1r-8.start{counter-reset:lst-ctn-kix\_jj605gbmml1r-8 0}ul.lst-kix\_yceir2d6i8hu-7{list-style-type:none}ul.lst-kix\_yceir2d6i8hu-8{list-style-type:none}ul.lst-kix\_yceir2d6i8hu-5{list-style-type:none}.lst-kix\_9q0vwty6g8dk-6>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-6}ul.lst-kix\_yceir2d6i8hu-6{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-4.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-4 0}ol.lst-kix\_58z2ekguc713-4{list-style-type:none}ol.lst-kix\_58z2ekguc713-5{list-style-type:none}ol.lst-kix\_58z2ekguc713-2{list-style-type:none}ol.lst-kix\_5j60k3ufcsn0-1.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-1 0}ol.lst-kix\_58z2ekguc713-3{list-style-type:none}ol.lst-kix\_58z2ekguc713-8{list-style-type:none}ol.lst-kix\_58z2ekguc713-6{list-style-type:none}ol.lst-kix\_58z2ekguc713-7{list-style-type:none}.lst-kix\_kpdl8vbi9tf8-5>li:before{content:"\\0025cf "}.lst-kix\_x10ctgg5t12l-8>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-8,lower-roman) ". "}ol.lst-kix\_58z2ekguc713-0{list-style-type:none}ol.lst-kix\_58z2ekguc713-1{list-style-type:none}.lst-kix\_kpdl8vbi9tf8-8>li:before{content:"\\0025cf "}ul.lst-kix\_yceir2d6i8hu-3{list-style-type:none}ul.lst-kix\_yceir2d6i8hu-4{list-style-type:none}ul.lst-kix\_yceir2d6i8hu-1{list-style-type:none}ul.lst-kix\_yceir2d6i8hu-2{list-style-type:none}ul.lst-kix\_yceir2d6i8hu-0{list-style-type:none}.lst-kix\_dfzf8kydac75-3>li:before{content:"" counter(lst-ctn-kix\_dfzf8kydac75-3,decimal) ". "}.lst-kix\_x10ctgg5t12l-1>li:before{content:"" counter(lst-ctn-kix\_x10ctgg5t12l-1,lower-latin) ". "}ol.lst-kix\_57n7pi9ql44n-7{list-style-type:none}ul.lst-kix\_vqvg6ipvpfqq-0{list-style-type:none}.lst-kix\_bhj1u1iou708-7>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-7,lower-latin) ". "}ol.lst-kix\_57n7pi9ql44n-8{list-style-type:none}ul.lst-kix\_vqvg6ipvpfqq-1{list-style-type:none}ol.lst-kix\_57n7pi9ql44n-5{list-style-type:none}ol.lst-kix\_57n7pi9ql44n-6{list-style-type:none}ol.lst-kix\_57n7pi9ql44n-3{list-style-type:none}ul.lst-kix\_vqvg6ipvpfqq-4{list-style-type:none}ol.lst-kix\_57n7pi9ql44n-4{list-style-type:none}.lst-kix\_deuxbmtywfod-1>li:before{content:"\\0025cb "}ul.lst-kix\_vqvg6ipvpfqq-5{list-style-type:none}.lst-kix\_igwf2qn1rr2y-4>li:before{content:"\\0025cb "}.lst-kix\_aiydnfnetrl2-0>li:before{content:"" counter(lst-ctn-kix\_aiydnfnetrl2-0,decimal) ". "}.lst-kix\_h2r80t92aafn-1>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-1,lower-latin) ". "}ul.lst-kix\_vqvg6ipvpfqq-2{list-style-type:none}.lst-kix\_djnrwroxhuca-5>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-5}ol.lst-kix\_57n7pi9ql44n-2{list-style-type:none}ol.lst-kix\_x10ctgg5t12l-6.start{counter-reset:lst-ctn-kix\_x10ctgg5t12l-6 0}ul.lst-kix\_vqvg6ipvpfqq-3{list-style-type:none}ol.lst-kix\_57n7pi9ql44n-0{list-style-type:none}.lst-kix\_te2vv1364da4-3>li:before{content:"\\0025cf "}ol.lst-kix\_57n7pi9ql44n-6.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-6 0}.lst-kix\_cm2g8skyr4bz-0>li:before{content:"" counter(lst-ctn-kix\_cm2g8skyr4bz-0,decimal) ". "}ol.lst-kix\_cm2g8skyr4bz-3.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-3 0}.lst-kix\_deuxbmtywfod-7>li:before{content:"\\0025cb "}.lst-kix\_yceir2d6i8hu-2>li:before{content:"\\0025a0 "}ol.lst-kix\_wd8uuvwd2wd8-8.start{counter-reset:lst-ctn-kix\_wd8uuvwd2wd8-8 0}.lst-kix\_h2r80t92aafn-7>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-7}.lst-kix\_y3wkjw8slzdf-2>li:before{content:"" counter(lst-ctn-kix\_y3wkjw8slzdf-2,lower-roman) ". "}.lst-kix\_90w0an7lz7j1-4>li:before{content:"\\0025cb "}.lst-kix\_h2r80t92aafn-7>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-7,lower-latin) ". "}.lst-kix\_bhj1u1iou708-8>li{counter-increment:lst-ctn-kix\_bhj1u1iou708-8}.lst-kix\_6jlxkfg6y4y-3>li:before{content:"\\0025cf "}ul.lst-kix\_e8ucyfjv1p5h-0{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-8{list-style-type:none}.lst-kix\_tfvxwy1nj4jt-6>li{counter-increment:lst-ctn-kix\_tfvxwy1nj4jt-6}.lst-kix\_fomhzjwlnhtq-7>li:before{content:"\\0025cb "}ol.lst-kix\_n5gs769i8n1l-6{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-4{list-style-type:none}.lst-kix\_35jk86l9l7na-5>li:before{content:"\\0025a0 "}ol.lst-kix\_n5gs769i8n1l-7{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-3{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-4{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-2{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-5{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-1{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-2{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-8{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-3{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-7{list-style-type:none}ol.lst-kix\_n5gs769i8n1l-0{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-6{list-style-type:none}ol.lst-kix\_5uozeuw1zhj3-8.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-8 0}ol.lst-kix\_n5gs769i8n1l-1{list-style-type:none}ul.lst-kix\_e8ucyfjv1p5h-5{list-style-type:none}.lst-kix\_bhj1u1iou708-1>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-1,lower-latin) ". "}.lst-kix\_ezd4im9wj4xg-8>li:before{content:"" counter(lst-ctn-kix\_ezd4im9wj4xg-8,lower-roman) ". "}ul.lst-kix\_vqvg6ipvpfqq-8{list-style-type:none}ul.lst-kix\_vqvg6ipvpfqq-6{list-style-type:none}ul.lst-kix\_vqvg6ipvpfqq-7{list-style-type:none}.lst-kix\_imtfae5sqdw0-2>li{counter-increment:lst-ctn-kix\_imtfae5sqdw0-2}.lst-kix\_mx1fwxwtx4ng-3>li:before{content:"\\0025cf "}ol.lst-kix\_4hx30jb3kw5z-0{list-style-type:none}.lst-kix\_x10ctgg5t12l-6>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-6}ol.lst-kix\_4hx30jb3kw5z-1{list-style-type:none}ol.lst-kix\_4hx30jb3kw5z-2{list-style-type:none}ol.lst-kix\_4hx30jb3kw5z-3{list-style-type:none}.lst-kix\_w8lhq089xdod-6>li:before{content:"\\0025cf "}.lst-kix\_imtfae5sqdw0-2>li:before{content:"" counter(lst-ctn-kix\_imtfae5sqdw0-2,lower-roman) ". "}.lst-kix\_dqbt5us2bm6z-4>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-4,lower-latin) ". "}ol.lst-kix\_4hx30jb3kw5z-8{list-style-type:none}ol.lst-kix\_4hx30jb3kw5z-4{list-style-type:none}ol.lst-kix\_4hx30jb3kw5z-5{list-style-type:none}ol.lst-kix\_4hx30jb3kw5z-6{list-style-type:none}ol.lst-kix\_4hx30jb3kw5z-7{list-style-type:none}.lst-kix\_j9nmyip7dkax-5>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-5,lower-roman) ". "}.lst-kix\_z6qhzmnjbq57-4>li:before{content:"\\0025cb "}.lst-kix\_tfk6vvlrj21u-0>li:before{content:"\\0025cf "}.lst-kix\_u31g3a4y2e81-0>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-0}ol.lst-kix\_5uozeuw1zhj3-6.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-6 0}ol.lst-kix\_57n7pi9ql44n-4.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-4 0}ol.lst-kix\_sdpl7e9fpsf4-6.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-6 0}ol.lst-kix\_cm2g8skyr4bz-0.start{counter-reset:lst-ctn-kix\_cm2g8skyr4bz-0 0}.lst-kix\_cmhzr736lvz9-7>li:before{content:"\\0025cb "}ul.lst-kix\_z6qhzmnjbq57-7{list-style-type:none}ul.lst-kix\_z6qhzmnjbq57-6{list-style-type:none}ul.lst-kix\_z6qhzmnjbq57-8{list-style-type:none}ul.lst-kix\_z6qhzmnjbq57-3{list-style-type:none}ul.lst-kix\_z6qhzmnjbq57-2{list-style-type:none}ul.lst-kix\_z6qhzmnjbq57-5{list-style-type:none}ol.lst-kix\_y3wkjw8slzdf-7.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-7 0}.lst-kix\_yceir2d6i8hu-8>li:before{content:"\\0025a0 "}.lst-kix\_7mzpuoulp1nf-2>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-2}ul.lst-kix\_z6qhzmnjbq57-4{list-style-type:none}.lst-kix\_1zngtyti13gc-5>li:before{content:"\\0025a0 "}.lst-kix\_vwd9lvw6yoas-0>li:before{content:"" counter(lst-ctn-kix\_vwd9lvw6yoas-0,decimal) ". "}.lst-kix\_r7brh7p8jjg0-4>li:before{content:"\\0025c6 "}.lst-kix\_y3wkjw8slzdf-8>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-8}ul.lst-kix\_z6qhzmnjbq57-1{list-style-type:none}.lst-kix\_3kc0onjmd4b3-6>li:before{content:"\\0025cf "}.lst-kix\_vwd9lvw6yoas-3>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-3}ul.lst-kix\_z6qhzmnjbq57-0{list-style-type:none}.lst-kix\_x10ctgg5t12l-3>li{counter-increment:lst-ctn-kix\_x10ctgg5t12l-3}.lst-kix\_aiydnfnetrl2-0>li{counter-increment:lst-ctn-kix\_aiydnfnetrl2-0}ol.lst-kix\_57n7pi9ql44n-2.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-2 0}.lst-kix\_f8fa4dga3qh-0>li:before{content:"\\0025cf "}ol.lst-kix\_aiydnfnetrl2-5.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-5 0}.lst-kix\_nju6s3w8pcjr-4>li:before{content:"\\0025c6 "}.lst-kix\_39tglg5mgjot-3>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-3}.lst-kix\_fid05sqb0oeq-1>li:before{content:"\\0025cb "}ol.lst-kix\_y3wkjw8slzdf-8.start{counter-reset:lst-ctn-kix\_y3wkjw8slzdf-8 0}.lst-kix\_u31g3a4y2e81-3>li{counter-increment:lst-ctn-kix\_u31g3a4y2e81-3}.lst-kix\_p82ewsdtpvdv-7>li{counter-increment:lst-ctn-kix\_p82ewsdtpvdv-7}.lst-kix\_58z2ekguc713-3>li{counter-increment:lst-ctn-kix\_58z2ekguc713-3}.lst-kix\_u77xjui178ro-4>li{counter-increment:lst-ctn-kix\_u77xjui178ro-4}ul.lst-kix\_1hw9yxtpj4be-7{list-style-type:none}ul.lst-kix\_1hw9yxtpj4be-6{list-style-type:none}ul.lst-kix\_1hw9yxtpj4be-5{list-style-type:none}ul.lst-kix\_1hw9yxtpj4be-4{list-style-type:none}ul.lst-kix\_1hw9yxtpj4be-3{list-style-type:none}ul.lst-kix\_1hw9yxtpj4be-2{list-style-type:none}.lst-kix\_avd7hz4yxpwp-3>li:before{content:"\\0025cb "}ul.lst-kix\_1hw9yxtpj4be-1{list-style-type:none}ul.lst-kix\_1hw9yxtpj4be-0{list-style-type:none}ol.lst-kix\_sdpl7e9fpsf4-1.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-1 0}ol.lst-kix\_5j60k3ufcsn0-3.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-3 0}.lst-kix\_4hx30jb3kw5z-5>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-5}.lst-kix\_k5fvoamzha87-2>li:before{content:"\\0025a0 "}ul.lst-kix\_1hw9yxtpj4be-8{list-style-type:none}.lst-kix\_k5fvoamzha87-5>li:before{content:"\\0025a0 "}.lst-kix\_y1zs6niyoe26-6>li:before{content:"" counter(lst-ctn-kix\_y1zs6niyoe26-6,decimal) ". "}.lst-kix\_dwdfsf4pr030-5>li:before{content:"\\0025cf "}.lst-kix\_7ymal9q3suev-1>li:before{content:"\\0025cb "}.lst-kix\_1hw9yxtpj4be-4>li:before{content:"\\0025cb "}ol.lst-kix\_aiydnfnetrl2-0.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-0 0}ol.lst-kix\_5uozeuw1zhj3-3.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-3 0}ol.lst-kix\_5j60k3ufcsn0-8.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-8 0}.lst-kix\_7ymal9q3suev-4>li:before{content:"\\0025cb "}.lst-kix\_sdpl7e9fpsf4-5>li{counter-increment:lst-ctn-kix\_sdpl7e9fpsf4-5}.lst-kix\_5uozeuw1zhj3-5>li{counter-increment:lst-ctn-kix\_5uozeuw1zhj3-5}ol.lst-kix\_sdpl7e9fpsf4-2.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-2 0}.lst-kix\_dwdfsf4pr030-2>li:before{content:"\\0025cf "}.lst-kix\_avd7hz4yxpwp-0>li:before{content:"\\002794 "}ul.lst-kix\_r7brh7p8jjg0-0{list-style-type:none}ul.lst-kix\_r7brh7p8jjg0-1{list-style-type:none}ul.lst-kix\_r7brh7p8jjg0-2{list-style-type:none}ul.lst-kix\_r7brh7p8jjg0-3{list-style-type:none}.lst-kix\_58l1l2i5zpbg-7>li:before{content:"\\0025cb "}ol.lst-kix\_5uozeuw1zhj3-4.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-4 0}.lst-kix\_kt92ox9vwh8l-7>li:before{content:"\\0025cb "}.lst-kix\_1mactjhtpsm0-1>li:before{content:"\\0025cb "}ol.lst-kix\_aiydnfnetrl2-6.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-6 0}.lst-kix\_wd8uuvwd2wd8-4>li{counter-increment:lst-ctn-kix\_wd8uuvwd2wd8-4}ul.lst-kix\_r7brh7p8jjg0-8{list-style-type:none}ul.lst-kix\_r7brh7p8jjg0-4{list-style-type:none}ul.lst-kix\_r7brh7p8jjg0-5{list-style-type:none}ul.lst-kix\_r7brh7p8jjg0-6{list-style-type:none}ul.lst-kix\_r7brh7p8jjg0-7{list-style-type:none}.lst-kix\_1hw9yxtpj4be-7>li:before{content:"\\0025cb "}ol.lst-kix\_5j60k3ufcsn0-2.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-2 0}.lst-kix\_h2r80t92aafn-4>li:before{content:"" counter(lst-ctn-kix\_h2r80t92aafn-4,lower-latin) ". "}.lst-kix\_te2vv1364da4-6>li:before{content:"\\0025cf "}.lst-kix\_xiy7d2ebdgja-5>li:before{content:"\\0025a0 "}.lst-kix\_bhj1u1iou708-4>li:before{content:"" counter(lst-ctn-kix\_bhj1u1iou708-4,lower-latin) ". "}.lst-kix\_jj605gbmml1r-5>li:before{content:"" counter(lst-ctn-kix\_jj605gbmml1r-5,lower-roman) ". "}.lst-kix\_9q0vwty6g8dk-3>li{counter-increment:lst-ctn-kix\_9q0vwty6g8dk-3}.lst-kix\_90w0an7lz7j1-1>li:before{content:"\\0025cb "}ol.lst-kix\_sdpl7e9fpsf4-0.start{counter-reset:lst-ctn-kix\_sdpl7e9fpsf4-0 0}ul.lst-kix\_aph4ud4tzuh8-4{list-style-type:none}ul.lst-kix\_aph4ud4tzuh8-5{list-style-type:none}ul.lst-kix\_aph4ud4tzuh8-6{list-style-type:none}ul.lst-kix\_aph4ud4tzuh8-7{list-style-type:none}ul.lst-kix\_aph4ud4tzuh8-8{list-style-type:none}.lst-kix\_igwf2qn1rr2y-7>li:before{content:"\\0025cb "}.lst-kix\_deuxbmtywfod-4>li:before{content:"\\0025cb "}.lst-kix\_35jk86l9l7na-2>li:before{content:"\\0025a0 "}.lst-kix\_7mzpuoulp1nf-3>li:before{content:"" counter(lst-ctn-kix\_7mzpuoulp1nf-3,lower-latin) ". "}ul.lst-kix\_aph4ud4tzuh8-0{list-style-type:none}ul.lst-kix\_aph4ud4tzuh8-1{list-style-type:none}.lst-kix\_aph4ud4tzuh8-5>li:before{content:"\\0025a0 "}.lst-kix\_6jlxkfg6y4y-0>li:before{content:"\\0025cf "}ul.lst-kix\_aph4ud4tzuh8-2{list-style-type:none}.lst-kix\_u31g3a4y2e81-8>li:before{content:"(" counter(lst-ctn-kix\_u31g3a4y2e81-8,lower-roman) ") "}ul.lst-kix\_aph4ud4tzuh8-3{list-style-type:none}.lst-kix\_4hx30jb3kw5z-8>li{counter-increment:lst-ctn-kix\_4hx30jb3kw5z-8}ol.lst-kix\_aiydnfnetrl2-4.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-4 0}.lst-kix\_98y8vui06f7k-3>li:before{content:"\\0025cf "}.lst-kix\_rnd69amlhcfp-1>li{counter-increment:lst-ctn-kix\_rnd69amlhcfp-1}ol.lst-kix\_57n7pi9ql44n-0.start{counter-reset:lst-ctn-kix\_57n7pi9ql44n-0 0}ol.lst-kix\_5uozeuw1zhj3-2.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-2 0}ol.lst-kix\_5j60k3ufcsn0-7.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-7 0}.lst-kix\_5wgrz5uafcjq-5>li:before{content:"\\0025a0 "}.lst-kix\_p82ewsdtpvdv-1>li:before{content:"" counter(lst-ctn-kix\_p82ewsdtpvdv-1,lower-latin) ". "}.lst-kix\_dqbt5us2bm6z-1>li:before{content:"" counter(lst-ctn-kix\_dqbt5us2bm6z-1,lower-latin) ". "}.lst-kix\_djnrwroxhuca-8>li{counter-increment:lst-ctn-kix\_djnrwroxhuca-8}.lst-kix\_791sozx61ms4-5>li:before{content:"\\0025cf "}.lst-kix\_j9nmyip7dkax-8>li:before{content:"" counter(lst-ctn-kix\_j9nmyip7dkax-8,lower-roman) ". "}.lst-kix\_h2r80t92aafn-4>li{counter-increment:lst-ctn-kix\_h2r80t92aafn-4}ol.lst-kix\_5j60k3ufcsn0-4.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-4 0}.lst-kix\_c2g37tioifxo-8>li:before{content:"\\0025cf "}.lst-kix\_z6qhzmnjbq57-1>li:before{content:"\\0025cb "}ol.lst-kix\_aiydnfnetrl2-3.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-3 0}.lst-kix\_39tglg5mgjot-0>li{counter-increment:lst-ctn-kix\_39tglg5mgjot-0}.lst-kix\_t0auh7peo3x7-6>li:before{content:"\\0025cf "}ol.lst-kix\_5j60k3ufcsn0-5.start{counter-reset:lst-ctn-kix\_5j60k3ufcsn0-5 0}ul.lst-kix\_rsuua6a2lwof-7{list-style-type:none}ul.lst-kix\_rsuua6a2lwof-6{list-style-type:none}ul.lst-kix\_rsuua6a2lwof-5{list-style-type:none}ul.lst-kix\_rsuua6a2lwof-4{list-style-type:none}.lst-kix\_7mzpuoulp1nf-5>li{counter-increment:lst-ctn-kix\_7mzpuoulp1nf-5}ul.lst-kix\_rsuua6a2lwof-3{list-style-type:none}ul.lst-kix\_rsuua6a2lwof-2{list-style-type:none}ul.lst-kix\_rsuua6a2lwof-1{list-style-type:none}ul.lst-kix\_agp5ft34ot7i-8{list-style-type:none}ul.lst-kix\_rsuua6a2lwof-0{list-style-type:none}ul.lst-kix\_agp5ft34ot7i-7{list-style-type:none}ul.lst-kix\_agp5ft34ot7i-6{list-style-type:none}ul.lst-kix\_agp5ft34ot7i-5{list-style-type:none}ul.lst-kix\_agp5ft34ot7i-4{list-style-type:none}ul.lst-kix\_agp5ft34ot7i-3{list-style-type:none}.lst-kix\_xyr4sts07d2a-5>li:before{content:"" counter(lst-ctn-kix\_xyr4sts07d2a-5,lower-roman) ". "}ul.lst-kix\_agp5ft34ot7i-2{list-style-type:none}ul.lst-kix\_agp5ft34ot7i-1{list-style-type:none}.lst-kix\_1zngtyti13gc-8>li:before{content:"\\0025a0 "}ul.lst-kix\_agp5ft34ot7i-0{list-style-type:none}ol.lst-kix\_aiydnfnetrl2-2.start{counter-reset:lst-ctn-kix\_aiydnfnetrl2-2 0}.lst-kix\_y1zs6niyoe26-2>li{counter-increment:lst-ctn-kix\_y1zs6niyoe26-2}.lst-kix\_r7brh7p8jjg0-7>li:before{content:"\\0025c6 "}.lst-kix\_nju6s3w8pcjr-1>li:before{content:"\\0025c6 "}.lst-kix\_5j60k3ufcsn0-0>li{counter-increment:lst-ctn-kix\_5j60k3ufcsn0-0}.lst-kix\_yceir2d6i8hu-5>li:before{content:"\\0025a0 "}.lst-kix\_5j60k3ufcsn0-0>li:before{content:"" counter(lst-ctn-kix\_5j60k3ufcsn0-0,decimal) ". "}.lst-kix\_jj605gbmml1r-8>li{counter-increment:lst-ctn-kix\_jj605gbmml1r-8}.lst-kix\_y3wkjw8slzdf-5>li{counter-increment:lst-ctn-kix\_y3wkjw8slzdf-5}ol.lst-kix\_5uozeuw1zhj3-0.start{counter-reset:lst-ctn-kix\_5uozeuw1zhj3-0 0}.lst-kix\_agp5ft34ot7i-1>li:before{content:"\\0025c6 "}.lst-kix\_vwd9lvw6yoas-6>li{counter-increment:lst-ctn-kix\_vwd9lvw6yoas-6}.lst-kix\_j9nmyip7dkax-2>li{counter-increment:lst-ctn-kix\_j9nmyip7dkax-2}.lst-kix\_mx1fwxwtx4ng-0>li:before{content:"\\0025cf "}.lst-kix\_g19yvew0v636-4>li:before{content:"\\0025cb "}ul.lst-kix\_rsuua6a2lwof-8{list-style-type:none}ol{margin:0;padding:0}table td,table th{padding:0}.c52{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;background-color:#f0f0f0;border-left-style:solid;border-bottom-width:0pt;width:451.3pt;border-top-color:#000000;border-bottom-style:solid}.c4{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:451.3pt;border-top-color:#000000;border-bottom-style:solid}.c11{-webkit-text-decoration-skip:none;color:#000000;font-weight:400;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:12pt;font-family:"Spectral";font-style:normal}.c6{-webkit-text-decoration-skip:none;color:#000000;font-weight:400;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:14pt;font-family:"Spectral";font-style:normal}.c12{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:"Spectral";font-style:normal}.c0{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Spectral";font-style:normal}.c1{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Average";font-style:normal}.c22{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Spectral";font-style:normal}.c5{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Spectral";font-style:normal}.c15{color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Spectral";font-style:normal}.c9{color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Times New Roman";font-style:normal}.c35{-webkit-text-decoration-skip:none;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-size:12pt;font-family:"Spectral"}.c2{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c13{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center}.c24{-webkit-text-decoration-skip:none;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-size:14pt;font-family:"Spectral"}.c31{padding-top:0pt;padding-bottom:10pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c37{-webkit-text-decoration-skip:none;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-family:"Spectral"}.c14{background-color:#f0f0f0;font-size:10.5pt;font-family:"Consolas";color:#444444;font-weight:700}.c23{color:#000000;text-decoration:none;vertical-align:baseline;font-style:normal}.c19{background-color:#f0f0f0;font-family:"Consolas";color:#444444;font-weight:400}.c41{background-color:#f0f0f0;font-family:"Consolas";color:#444444;font-weight:700}.c33{border-spacing:0;border-collapse:collapse;margin-right:auto}.c30{font-size:12pt;font-family:"Spectral";font-style:italic;font-weight:400}.c8{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left}.c44{padding-top:0pt;padding-bottom:0pt;line-height:1.15;text-align:left}.c39{font-size:12pt;font-family:"Courier New";font-weight:400}.c26{font-size:14pt;font-family:"Spectral";font-weight:400}.c36{font-size:12pt;font-family:"Spectral";font-weight:400}.c32{text-decoration:none;vertical-align:baseline;font-style:normal}.c34{font-weight:700;font-size:11pt;font-family:"Spectral"}.c45{font-weight:400;font-size:16pt;font-family:"Spectral"}.c46{color:#000000;text-decoration:none;vertical-align:baseline}.c27{font-size:12pt;font-family:"Times New Roman";font-weight:700}.c16{font-size:12pt;font-family:"Times New Roman";font-weight:400}.c20{font-size:12pt;font-family:"Courier New";font-weight:700}.c29{font-weight:400;font-size:11pt;font-family:"Arial"}.c49{font-weight:700;font-family:"Spectral"}.c28{margin-left:72pt;padding-left:0pt}.c42{background-color:#f0f0f0;color:#880000}.c18{padding:0;margin:0}.c47{font-weight:400;font-family:"Spectral"}.c7{margin-left:36pt;padding-left:0pt}.c50{max-width:451.3pt;padding:72pt 72pt 72pt 72pt}.c38{color:inherit;text-decoration:inherit}.c40{font-weight:400;font-family:"Consolas"}.c10{margin-left:36pt}.c43{margin-left:108pt}.c48{height:0pt}.c21{background-color:#ffffff}.c3{height:11pt}.c54{text-indent:36pt}.c53{font-size:12pt}.c51{font-size:13pt}.c17{color:#1155cc}.c25{font-size:10.5pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}
+[]{.c22}
 
-![](images/image55.png)
+[]{.c22}
 
-IITGN Guest House Management System (GHMS)
+[![](images/image55.png){style="width: 185.85px; height: 181.27px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 185.85px; height: 181.27px;"}
 
-* * *
+[]{.c22}
 
-Assignment 4: Deploying the DBMS
+[IITGN Guest House Management System (GHMS)]{.c23 .c45}
 
-Team: First Order
+------------------------------------------------------------------------
 
-Gaurav Shah - 21110064
+[]{.c22}
 
-Soham Rahatal - 21110173
+[Assignment 4:]{.c26}[ Deploying the DBMS]{.c22}
 
-Pratik Agarwal - 21110166
+[]{.c22}
 
-Rohit Srivastav - 21110180
+[Team: First Order ]{.c22}
 
-Banavath Diraj Naik - 22110044
+[]{.c22}
 
-Sohitha Sonalika - 22110151
+[Gaurav Shah - 21110064]{.c22}
 
-Shivamani - 22110062
+[Soham Rahatal - 21110173]{.c22}
 
-3.1 Responsibility of G1:
+[Pratik Agarwal - 21110166]{.c22}
 
-1.1 Initial Feedback
+[Rohit Srivastav - 21110180]{.c22}
 
-From the initial feedback by M. Yashwant Chouhan from the Guesthouse, we have added the following functionalities to our WebApp:  
+[Banavath Diraj Naik - 22110044]{.c22 .c21}
 
-1.  Added changes to the Travel Request Management part of the admin dashboard. In the first version of the web app, when a travel request is raised by the hospitality staff or the current guest, it gets displayed as an unassigned request on the ‘Travel Request’ page of the hospitality_staff dashboard until the driver is not assigned. Then, one of the admin users assigns the request to one of the drivers by looking at his/her records and the pending requests. This version showed the drivers on the available list even when another pending request was assigned at the exact pick-up time and date. We have fixed this by updating the SQL query, initially fetching the list of available drivers by fetching the drivers that don’t have a pending request ![](images/image1.png) to the given request.
+[Sohitha Sonalika - 22110151 ]{.c22 .c21}
 
-    driver_available = \[\]  
-   fordrivers indriver_all:  
-       pending\_requests = travel\_request.query.filter(travel\_request.driver\_license == drivers.driver\_license, travel\_request.date\_of\_travel >= request.date\_of\_travel).all()  
-       l = len(pending_requests)  
-       i = 0  
-       forpending_request in pending_requests:  
-           ifpending\_request.date\_of\_travel == request.date\_of_travel andabs(request.pick\_up\_time.hour - request.pick\_up\_time.hour) < 6:  
-               print(pending_request)  
-               breaki += 1  
-       if i == l:  
-           driver_available.append(drivers)  
-   print(driver_available)
+[Shivamani - 22110062]{.c21 .c26}
 
-Before:
+[]{.c22}
 
-![](images/image56.png)
+[]{.c22}
 
-![](images/image51.png)
+[]{.c22}
 
-![](images/image72.png)
+[]{.c22}
 
-![](images/image46.png)
+[]{.c22}
 
-![](images/image60.png)Both travel requests get assigned to driver 9.
+[]{.c22}
 
-After:
+[3.1]{.c24}[ Responsibility of G1:]{.c24}
 
-![](images/image30.png)
+[]{.c23 .c16}
 
-![](images/image24.png)
+[1.1 Initial Feedback]{.c15}
 
-![](images/image79.png)
+[]{.c15}
 
-![](images/image19.png)![](images/image5.png)
+[From the initial feedback by M. Yashwant Chouhan from the Guesthouse,
+we have added the following functionalities to our WebApp:\
+]{.c5}
 
-As the first request is assigned to driver 10, and the second request’s pick-up time is within one hour of the first request, driver 10 is not on the list of available drivers on the driver assignment page. Therefore, driver two is selected.
+1.  [Added changes to the Travel Request Management part of the admin
+    dashboard. In the first version of the web app, when a travel
+    request is raised by the hospitality staff or the current guest, it
+    gets displayed as an unassigned request on the 'Travel Request' page
+    of the hospitality_staff dashboard until the driver is not assigned.
+    Then, one of the admin users assigns the request to one of the
+    drivers by looking at his/her records and the pending requests. This
+    version showed the drivers on the available list even when another
+    pending request was assigned at the exact pick-up time and date. We
+    have fixed this by updating the SQL query, initially fetching the
+    list of available drivers by fetching the drivers that don't have a
+    pending request ]{.c36}![](images/image1.png)[ to the given
+    request.]{.c5}
 
-2.  We have also added a new webpage called ‘Room Availability’ in the hospitality_staff dashboard, enabling the staff to check the room availability of the rooms in the guesthouse. This will help the staff not to underbook or overbook reservations. Staff can enter a date on which he/she wants to see the room availability and then will be redirected to a new page where they can see the number of rooms available by type. They can’t see exactly which room (by its number) is available as the room assignment is done at check-in and not while reserving.
+[]{.c5}
 
-Implemented by creating new routes in admin.py, writing the necessary SQL queries, and creating the necessary HTML pages.
+[]{.c23 .c29}
 
-Before:
+[]{#t.d0b9fae6c57fc544d9690c30382a17b364270b37}[]{#t.0}
 
-![](images/image64.png)
++-----------------------------------------------------------------------+
+| [    driver_available = \[\]\                                         |
+|    ]{.c19 .c25}[for]{.c14}[ drivers ]{.c19                            |
+| .c25}[in]{.c14}[ driver_all:\                                         |
+|        pending_requests =                                             |
+| travel_request.query.filter(travel_request.driver_license ==          |
+| drivers.driver_license, travel_request.date_of_travel \>=             |
+| request.date_of_travel).all()\                                        |
+|        l = len(pending_requests)\                                     |
+|        i = ]{.c19 .c25}[0]{.c42 .c40 .c25}[\                          |
+|        ]{.c19 .c25}[for]{.c14}[ pending_request ]{.c19                |
+| .c25}[in]{.c14}[ pending_requests:\                                   |
+|            ]{.c19 .c25}[if]{.c14}[ pending_request.date_of_travel ==  |
+| request.date_of_travel ]{.c19                                         |
+| .c25}[and]{.c14}[ abs(request.pick_up_time.hour -                     |
+| request.pick_up_time.hour) \< ]{.c19 .c25}[6]{.c42 .c40 .c25}[:\      |
+|                print(pending_request)\                                |
+|                ]{.c19 .c25}[break]{.c14}[\                            |
+|            i += ]{.c19 .c25}[1]{.c40 .c25 .c42}[\                     |
+|        ]{.c19 .c25}[if]{.c14}[ i == l:\                               |
+|            driver_available.append(drivers)\                          |
+|    print(driver_available)]{.c19 .c25}                                |
++-----------------------------------------------------------------------+
 
-There is no page called “Room Availability” in the initial version.
+[]{.c5}
 
-After:
+[Before:]{.c11}
 
-![](images/image57.png)
+[]{.c5}
 
-![](images/image52.png)
+[![](images/image56.png){style="width: 602.00px; height: 376.02px; margin-left: 0.00px; margin-top: -52.98px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 301.02px;"}
 
-![](images/image81.png)
+[![](images/image51.png){style="width: 602.00px; height: 375.90px; margin-left: 0.00px; margin-top: -53.90px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 292.92px;"}
 
-![](images/image59.png)
+[]{.c5}
 
-Room availability by date can now seen as above. Therefore, the staff can check whether the requested rooms are available when making a new reservation.
+[![](images/image72.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -54.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 290.00px;"}
 
-3.  There wasn’t a feedback form page in the current\_guest dashboard for adding feedback. This has been corrected to allow current guests to write about their stay and the submitted feedback can be seen in the hospitality\_staff dashboard.
+[![](images/image46.png){style="width: 601.70px; height: 376.47px; margin-left: 0.00px; margin-top: -55.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 273.33px;"}
 
-Before:
+[![](images/image60.png){style="width: 601.70px; height: 375.10px; margin-left: 0.00px; margin-top: -53.87px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 277.33px;"}[Both
+travel requests get assigned to driver 9.]{.c30}
 
-Current Guest Dashboard
+[After:]{.c11}
 
-![](images/image37.png)
+[ ]{.c5}
 
-Hospitality Staff Dashboard
+[![](images/image30.png){style="width: 602.00px; height: 375.99px; margin-left: 0.00px; margin-top: -54.99px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 298.99px;"}
 
-![](images/image18.png)
+[![](images/image24.png){style="width: 602.00px; height: 375.92px; margin-left: 0.00px; margin-top: -55.92px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 278.93px;"}
 
-The current guests can’t give their feedback, so the entries in the “Feedback” page in the hospitality staff’s dashboard are NULL.
+[]{.c5}
 
-After:
+[![](images/image79.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -54.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 293.00px;"}
 
-Current Guest Dashboard
+[![](images/image19.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -54.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 221.00px;"}[![](images/image5.png){style="width: 602.00px; height: 375.86px; margin-left: 0.00px; margin-top: -54.86px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 267.88px;"}
 
-![](images/image15.png)
+[As the first request is assigned to driver 10, and the second request's
+pick-up time is within one hour of the first request, driver 10 is not
+on the list of available drivers on the driver assignment page.
+Therefore, driver two is selected.]{.c5}
 
-![](images/image2.png)
+2.  [We have also added a new webpage called 'Room Availability' in the
+    hospitality_staff dashboard, enabling the staff to check the room
+    availability of the rooms in the guesthouse. This will help the
+    staff not to underbook or overbook reservations. Staff can enter a
+    date on which he/she wants to see the room availability and then
+    will be redirected to a new page where they can see the number of
+    rooms available by type. They can't see exactly which room (by its
+    number) is available as the room assignment is done at check-in and
+    not while reserving. ]{.c5}
 
-Hospitality Staff Dashboard
+[Implemented by creating new routes in admin.py, writing the necessary
+SQL queries, and creating the necessary HTML pages.]{.c36}
 
-![](images/image23.png)
+[]{.c11}
 
-![](images/image42.png)
+[]{.c11}
 
-Guests can give feedback from their dashboards, and the hospitality staff can see them from their dashboards.
+[Before:]{.c11}
 
-1.2 Final Feedback
+[]{.c11}
 
-As per the final feedback by Mr. Yashwant Chouhan, we have added the following new features to our database:
+[![](images/image64.png){style="width: 602.00px; height: 375.94px; margin-left: 0.00px; margin-top: -53.94px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 298.95px;"}
 
-1.  Reservation Confirmation for requests made by IITGN members
+[There is no page called "Room Availability" in the initial
+version.]{.c5}
 
-Initially, when the IITGN Members filled out the reservation form from their dashboards, a new reservation was directly created without the approval from the hospitality staff team. To tackle this issue, we have created a new column in the reservation table in the database called ‘confirmed’ using the query:        
+[]{.c5}
 
-     altertablereservation addcolumn confirmed bool;
+[]{.c5}
 
-which will help us track the confirmation status of the reservations.
+[]{.c5}
 
-Now, when an IITGN Member creates a reservation, a new reservation does
+[]{.c5}
 
-get added to the reservation table, but confirmed = FALSE until the hospitality staff approves the reservation. Also, if a reservation is not confirmed and the check-in date exceeds today, it automatically gets deleted from the reservation table.
+[]{.c5}
 
-The reservation made by hospitality staff automatically has confirmed = TRUE
+[]{.c5}
 
-Before:
+[]{.c11}
 
-Reservation form in IITGN Member Dashboard
+[After:]{.c11}
 
-![](images/image33.png)
+[]{.c11}
 
-Reservation directly gets made without confirmation
+[![](images/image57.png){style="width: 602.00px; height: 375.93px; margin-left: 0.00px; margin-top: -54.93px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 296.94px;"}
 
-![](images/image4.png)
+[![](images/image52.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -51.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 182.00px;"}
 
-Reservation page in Hospitality Staff’s dashboard
+[![](images/image81.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -52.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 277.00px;"}
 
-![](images/image63.png)  
+[![](images/image59.png){style="width: 602.00px; height: 375.93px; margin-left: 0.00px; margin-top: -49.93px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 143.94px;"}
 
-After:
+[Room availability by date can now seen as above. Therefore, the staff
+can check whether the requested rooms are available when making a new
+reservation.]{.c36}
 
-Reservation form in IITGN Member Dashboard
+[]{.c5}
 
-![](images/image13.png)
+3.  [There wasn't a feedback form page in the current_guest dashboard
+    for adding feedback. This has been corrected to allow current guests
+    to write about their stay and the submitted feedback can be seen in
+    the hospitality_staff dashboard. ]{.c5}
 
-On submission, this creates a reservation request
+[]{.c5}
 
-![](images/image36.png)
+[Before:]{.c11}
 
-Home page in IITGN Member Dashboard
+[]{.c11}
 
-![](images/image48.png)
+[Current Guest Dashboard]{.c0}
 
-Reservation page in Hospitality Staff Dashboard
+[![](images/image37.png){style="width: 602.00px; height: 375.87px; margin-left: 0.00px; margin-top: -52.87px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 121.89px;"}
 
-![](images/image44.png)
+[Hospitality Staff Dashboard]{.c0}
 
-After clicking on confirm button
+[![](images/image18.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -53.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 125.00px;"}
 
-![](images/image62.png)
+[The current guests can't give their feedback, so the entries in the
+"Feedback" page in the hospitality staff's dashboard are NULL.]{.c5}
 
-Home page in IITGN Member Dashboard after reservation confirmation
+[]{.c11}
 
-![](images/image26.png)
+[]{.c11}
 
-2.  Room cleaning maintenance request during check-out
+[]{.c11}
 
-When a guest checks out, his/her room must be cleaned before it can be assigned to another guest during check-in. Therefore, we have implemented this as follows:
+[After:]{.c11}
 
-1.  When a current guest checks out, a new maintenance request is created: "CHECK-OUT: Cleaning in room {room_no}.”
-2.  A new entry is added to an existing table, ‘requires\_maintenance,’ with request\_id and room_no.
-3.  This maintenance request is assigned to a housekeeping staff following the same procedure as before, but now we have added a new page to the housekeeping staff dashboard called “Room Cleaning.”  This will help to keep track of check-out cleaning and other maintenance requests easily.
-4.  Until the room cleaning request is closed by the housekeeping staff to whom it was assigned, the room is not shown in the list of available rooms during the check-in.
+[Current Guest Dashboard]{.c47}
 
-Before:  
+[![](images/image15.png){style="width: 602.00px; height: 376.07px; margin-left: 0.00px; margin-top: -55.91px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 143.00px;"}
 
-![](images/image27.png)
+[![](images/image2.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -54.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 161.27px;"}
 
-![](images/image82.png)
+[Hospitality Staff Dashboard]{.c0}
 
-![](images/image61.png)
+[![](images/image23.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -51.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 293.00px;"}
 
-The room checked-out on the same day visible as available room for check-in
+[![](images/image42.png){style="width: 602.00px; height: 376.20px; margin-left: 0.00px; margin-top: -55.96px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 127.47px;"}
 
-![](images/image8.png)
+[Guests can give feedback from their dashboards, and the hospitality
+staff can see them from their dashboards.]{.c5}
 
-![](images/image32.png)
+[1.2 Final Feedback]{.c15}
 
-After:
+[]{.c15}
 
-![](images/image49.png)![](images/image77.png)
+[As per the final feedback by Mr. Yashwant Chouhan, we have added the
+following new features to our database:]{.c5}
 
-Room cleaning maintenance request created automatically
+[]{.c5}
 
-![](images/image17.png)
+1.  [Reservation Confirmation for requests made by IITGN members]{.c30
+    .c46}
 
-![](images/image74.png)
+[Initially, when the IITGN Members filled out the reservation form from
+their dashboards, a new reservation was directly created without the
+approval from the hospitality staff team. To tackle this issue, we have
+created a new column in the reservation table in the database called
+'confirmed' using the query:        ]{.c5}
 
-![](images/image21.png)
+[]{.c5}
 
-![](images/image7.png)
+[]{#t.18a1d289aab0fe74552be65ab21be7527e4f718b}[]{#t.1}
 
-Room 112, which was checked out, is not visible in the check-in room assignment, as the maintenance request hasn’t been closed .
+  -------------------------------------------------------------------------------------------------------------------------
+  [     alter]{.c41}[ ]{.c19}[table]{.c41}[ reservation ]{.c19}[add]{.c41}[ ]{.c19}[column]{.c41}[ confirmed bool;]{.c19}
+  -------------------------------------------------------------------------------------------------------------------------
 
-![](images/image53.png)
+[]{.c5}
 
-![](images/image70.png)
+[which will help us track the confirmation status of the reservations.
+]{.c5}
 
-Housekeeping Staff Dashboard
+[Now, when an IITGN Member creates a reservation, a new reservation does
+]{.c5}
 
-![](images/image11.png)![](images/image29.png)![](images/image25.png)
+[get added to the reservation table, but confirmed = FALSE until the
+hospitality staff approves the reservation. Also, if a reservation is
+not confirmed and the check-in date exceeds today, it automatically gets
+deleted from the reservation table. ]{.c5}
 
-2\. User Views and Privileges in the database
+[The reservation made by hospitality staff automatically has confirmed =
+TRUE]{.c5}
 
-1.  Hospitality Staff Dashboard (Admin) :
+[]{.c5}
 
-![](images/image9.png)
+[Before:]{.c11}
 
-* This hospitality staff dashboard is the home page and we can see the options shown above are:
+[]{.c11}
 
-* Check-in: This navigates to the page that shows that day’s reservations.
-* Check-out: This navigates to the page that shows that day’s check-outs and check-out billings.
-* Travel request: This navigates to the page that shows completed and unassigned travel requests.
-* Maintenance request: This navigates to the page that shows open and closed maintenance requests.
-* Reservations: This navigates to the page that shows all the reservations.
-* Billing: This navigates to the page where we can create or generate a Bill.
-* Feedback: This navigates to the page that shows all the feedbacks.
-* Logout: This can be used to logout from the current account.
+[]{.c11}
 
-2.  Current Guest Dashboard:
+[]{.c11}
 
-![](images/image71.png)
+[]{.c11}
 
-* This current guest dashboard is the home page of the current guest. We can see the options shown above are:
+[]{.c11}
 
-* Travel request: This navigates to the page where the guest can make a travel request.
-* Maintenance request: This navigates to the page where the guest can make a maintenance request.
-* Show bills: This navigates to the page that shows all the bills
-* Change password: This navigates to the page where the user can change password.
-* Logout:  This can be used to logout from the current account.
+[]{.c11}
 
-3.  IITGN Member Dashboard:
+[]{.c11}
 
-![](images/image12.png)
+[]{.c11}
 
-* This is the  IITGN member dashboard and we can make a reservation through the above shown option.
-* This current guest dashboard is the home page and the user can login with their credentials through the login button shown above.
+[]{.c11}
 
-4.  Housekeeping Staff Dashboard:
+[]{.c11}
 
-![](images/image6.png)
+[]{.c11}
 
-* This is the  housekeeping staff dashboard and we can see the assigned requests for housekeeping staff through the above shown option.
-* And from the logout option we can logout from the dashboard.
+[Reservation form in IITGN Member Dashboard]{.c5}
 
-5.  Driver Dashboard:
+[![](images/image33.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -52.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 279.00px;"}
 
-![](images/image35.png)
+[Reservation directly gets made without confirmation]{.c5}
 
-* This is the  driver dashboard and we can see the assigned requests for driver through the above shown option.
-* And we can logout through the logout option beside the assigned requests option.
+[![](images/image4.png){style="width: 602.00px; height: 375.92px; margin-left: 0.00px; margin-top: -52.92px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 111.93px;"}
 
-3.2 Responsibility of G2:
+[Reservation page in Hospitality Staff's dashboard]{.c5}
 
-1\. Concurrent multi-user access
+[![](images/image63.png){style="width: 602.00px; height: 376.01px; margin-left: 0.00px; margin-top: -57.74px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 291.13px;"}[\
+]{.c11}
 
-As you may know, our web app has different logins, so different types of users can access our web app and can modify the database concurrently. For this, we applied locks for some of our database tables so that at a time, only a user can update the information, preventing concurrent transactions from interfering with each other.
+[After:]{.c11}
 
-For example, guest\_travel\_request form can be filled by multiple users/guests. So, we applied locks using SQLAlchemy’s (python SQL toolkit, which is used to manage SQL databases using pythonic language) support.
+[]{.c11}
 
-![](images/image76.png)
+[]{.c11}
 
-Code for guest\_travel\_request page with locking mechanism
+[Reservation form in IITGN Member Dashboard]{.c36}
 
-For acquiring locks :
+[![](images/image13.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -52.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 277.00px;"}
 
-locked\_table = select(travel\_request).with\_for\_update()
+[On submission, this creates a reservation request]{.c36}
 
-The above line creates an SQL statement “select _ _ _ for update”\[6\] that selects rows from the database table ‘travel_request’ and acquires a lock on them to prevent any other transaction from being modified until an existing transaction finishes.
+[![](images/image36.png){style="width: 602.00px; height: 375.92px; margin-left: 0.00px; margin-top: -52.92px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 100.93px;"}
 
-db.session.commit(): This line commits the changes made within the transaction to the database and releases the lock acquired earlier.
+[Home page in IITGN Member Dashboard]{.c5}
 
-To implement concurrent multi-user access, locks have been applied to the tables like travel\_request, guest\_travel\_request, maintenance\_request, guest\_maintenance\_request, reservation & bill.
+[![](images/image48.png){style="width: 602.00px; height: 375.85px; margin-left: 0.00px; margin-top: -54.85px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 149.87px;"}
 
-2\. Google Authentication
+[Reservation page in Hospitality Staff Dashboard]{.c5}
 
-Our web app has five different logins, and hospitality\_staff (administrator) and iitgn\_member are the only ones with an iitgn email ID. So, we added google authentication for hospitality\_staff members and iitgn\_member.
+[![](images/image44.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -52.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 162.00px;"}
 
-![](images/image22.png)
+[]{.c5}
 
-When you click on the \[Google Connect\] button to authenticate →
+[]{.c5}
 
-We are redirected to the page below to select the Google account.
+[After clicking on confirm button]{.c5}
 
-![](images/image16.png)
+[![](images/image62.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -54.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 161.00px;"}
 
-After selecting the iitgn account i.e., [sohamrahatal@iitgn.ac.in](mailto:sohamrahatal@iitgn.ac.in)
+[Home page in IITGN Member Dashboard after reservation
+confirmation]{.c5}
 
-![](images/image50.png)
+[![](images/image26.png){style="width: 602.00px; height: 375.92px; margin-left: 0.00px; margin-top: -51.92px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 165.93px;"}
 
-We are redirected to the iitgn\_member dashboard as my email\_id/profile is present in the iitgn\_member database table of our database ‘guesthouse\_db’.
+[]{.c5}
 
-If an email\_id is related to hospitality\_staff, then that account will be redirected to the hospitality_staff dashboard of the web app.
+2.  [Room cleaning maintenance request during check-out]{.c30 .c46}
 
-For the rest logins, like driver, guest, and housekeeping\_staff, they will have to login through the normal login system of the web app as they don’t have iitgn email\_id.
+[When a guest checks out, his/her room must be cleaned before it can be
+assigned to another guest during check-in. Therefore, we have
+implemented this as follows:]{.c5}
 
-3.3 Responsibility of G1 & G2:
+1.  [When a current guest checks out, a new maintenance request is
+    created: \"CHECK-OUT: Cleaning in room {room_no}."]{.c5}
+2.  [A new entry is added to an existing table, 'requires_maintenance,'
+    with request_id and room_no.]{.c5}
+3.  [This maintenance request is assigned to a housekeeping staff
+    following the same procedure as before, but now we have added a new
+    page to the housekeeping staff dashboard called "Room Cleaning."
+     This will help to keep track of check-out cleaning and other
+    maintenance requests easily.]{.c5}
+4.  [Until the room cleaning request is closed by the housekeeping staff
+    to whom it was assigned, the room is not shown in the list of
+    available rooms during the check-in. ]{.c36}
 
-1\. Attacks on our WebApp
+[]{.c5}
 
-1.  SQL Injection Error Attack:
+[Before:\
+]{.c11}
 
-![](images/image75.png)
+[![](images/image27.png){style="width: 602.00px; height: 376.13px; margin-left: 0.00px; margin-top: -53.02px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 256.90px;"}
 
-We try the first method, where we try to add an OR condition that is always true i.e. 1=1, to modify the SQL query generated through the form.
+[![](images/image82.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -53.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 150.00px;"}
 
-![](images/image68.png)
+[![](images/image61.png){style="width: 602.00px; height: 375.93px; margin-left: 0.00px; margin-top: -51.93px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 111.94px;"}
 
-We received an ‘Invalid Credentials’ message, and we could not hack into the system.
+[The room checked-out on the same day visible as available room for
+check-in ]{.c36}
 
-![](images/image38.png)
+[![](images/image8.png){style="width: 602.00px; height: 375.85px; margin-left: 0.00px; margin-top: -51.85px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 209.87px;"}
 
-We tried the second method, where we used the symbol “--” which is used to comment in MySQL. It would comment the SQL code after it, such that we would be able to hack into the system.
+[![](images/image32.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -54.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 110.81px;"}
 
-![](images/image65.png)
+[]{.c11}
 
-We received an ‘Invalid Credentials’ message, and we could not hack into the system.
+[After:]{.c35}
 
-Our System was able to withstand SQL Injection attacks because it uses parameterized queries, specifically through the ORM (Object-Relational Mapping) methods provided by the SQLAlchemy library to interact with the database.
+[]{.c15}
 
-2.  XSS Attack:
+[![](images/image49.png){style="width: 601.70px; height: 376.00px; margin-left: 0.00px; margin-top: -55.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 260.00px;"}[![](images/image77.png){style="width: 602.00px; height: 375.93px; margin-left: 0.00px; margin-top: -52.93px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 156.94px;"}
 
-![](images/image10.png)
+[Room cleaning maintenance request created automatically]{.c5}
 
-We tried to attempt an XSS attack at the login page in our website, if the attack is successful we would recieve an alert pop-up of “XSS_Attack!” on web-page.
+[![](images/image17.png){style="width: 602.00px; height: 375.86px; margin-left: 0.00px; margin-top: -54.86px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 226.88px;"}
 
-![](images/image58.png)
+[![](images/image74.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -52.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 223.00px;"}
 
-We received an ‘Invalid Credentials’ message, and we could not conduct a XSS attack on the login page.
+[![](images/image21.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -53.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 298.00px;"}
 
-![](images/image45.png)
+[]{.c15}
 
-Next we tried to test for XSS attack in admin login where in Maintenance request form, I entered my own script. Upon sucessfull attack, we would recieve an alert pop-up of “XSS_Attack!” on the web-page.
+[![](images/image7.png){style="width: 602.00px; height: 375.92px; margin-left: 0.00px; margin-top: -51.92px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 122.93px;"}
 
-![](images/image14.png)
+[]{.c15}
 
-Our attempt to insert script is failed and the maintenance request form is submitted with our entered code as plain description text of the form. We could not conduct a sucessful XSS attack on the admin page.
+[]{.c15}
 
-We could not conduct XSS attacks sucessfully on our system, because Flask and its template engine Jinja2 have built-in protections against XSS. Flask-WTF provides built-in protection against XSS attacks by automatically escaping HTML entities when rendering form fields and Jinja2 automatically escapes HTML entities by default when rendering templates. Moreover, Modern web browsers like Google Chrome also have built-in XSS protection mechanisms that might prevent certain XSS attacks from being executed.
+[]{.c15}
 
-3.  Cross-Site Request Forgery (CSRF) Attack:
+[]{.c15}
 
-![](images/image69.png)
+[]{.c15}
 
-An external site might access the crsf_token for sensitive user information in the website, like changing passwords in the current guest account.
+[]{.c15}
 
-![](images/image28.png)
+[]{.c15}
 
-We tried to test if an external site can request to modify the user data without their information on their behalf.
+[Room 112, which was checked out, is not visible in the check-in room
+assignment, as the maintenance request hasn't been closed .]{.c5}
 
-curl -X POST -H "X-CSRFToken: ImFhNDMxOTViZTU0YTIyNDY3MzIwNTQ1ZDEwMGQ3OTEzMzNlMzExM2Ei.Zhl6zA.j6K\_bhpALVkQ42yENQtwS0QHa4I" -d "old\_password=abcdef" -d "new\_password=pass123" -d "confirm\_password=pass123" http://127.0.0.1:5000/current\_guest\_dashboard/change_password
+[![](images/image53.png){style="width: 602.00px; height: 375.85px; margin-left: 0.00px; margin-top: -53.85px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 227.87px;"}
 
-We executed the above code to try to change the current password of the guest (“abcdef”) to a new password (“pass123”).
+[![](images/image70.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -55.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 120.00px;"}
 
-![](images/image34.png)
+[]{.c15}
 
-We are unauthorized in changing the password for the user externally, and their data is protected.
+[Housekeeping Staff Dashboard]{.c5}
 
-Flask extensions such as Flask-WTF render a CSRF token that is automatically generated and included in the form. This token is unique per session and form. Therefore, Flask-WTF automatically adds CSRF protection to all forms created with it.
+[![](images/image11.png){style="width: 602.00px; height: 376.00px; margin-left: 0.00px; margin-top: -54.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 102.00px;"}[![](images/image29.png){style="width: 602.00px; height: 375.93px; margin-left: 0.00px; margin-top: -50.93px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 125.94px;"}[![](images/image25.png){style="width: 602.00px; height: 375.86px; margin-left: 0.00px; margin-top: -54.86px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 602.00px; height: 119.88px;"}
 
-4.  Path Traversal Attack
+[]{.c15}
 
-![](images/image73.png)
+[2. User Views and Privileges in the database]{.c15}
 
-We are looking that if a housekeeping staff is able to hack into to the system and access sensitive information of current guests and members through locally stored files.
+[]{.c15}
 
-![](images/image39.png)
+1.  [Hospitality Staff Dashboard (Admin) :]{.c30 .c46}
 
-Code to test for path traversal attack
+[]{.c30 .c46}
 
-1.  To test for file traversal attack, we imported the requests library, which is a popular Python library that makes HTTP requests.
-2.  Setting the target URL: The URL of the web page you're testing is defined. In this case, it's set to '[http://127.0.0.1:5000/hospitality\_staff\_dashboard](https://www.google.com/url?q=http://127.0.0.1:5000/hospitality_staff_dashboard&sa=D&source=editors&ust=1713109262033350&usg=AOvVaw1HwLdBa2o0uyfFAfGKpF7j)'.
-3.  Defining the payloads (../): A list of payloads to test is defined. These payloads are common path traversal sequences that attempt to move up in the directory structure.
-4.  Getting user input: The script asks for user input. This input is expected to be the remaining part of the path after the payload
-5.  Sending the requests and checking the responses: The script then enters a loop where it iterates over each payload. For each payload, it:
+[![](images/image9.png){style="width: 601.70px; height: 320.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 320.00px;"}
 
-1.  Sends a GET request to the URL with the payload and user input as a parameter.
-2.  Prints the response.
-3.  Checks if the response includes sensitive information. If it does, it prints a message indicating that the application is vulnerable to path traversal. If it doesn't, it prints a message indicating that the application is not vulnerable to path traversal.
+[]{.c5}
 
-1.  \`etc/passwd\`
+-   [This hospitality staff dashboard is the home page and we can see
+    the options shown above are: ]{.c5}
 
-This is a Unix file that contains user account information. It should not be accessible through a web application.
+```{=html}
+<!-- -->
+```
+-   [Check-in: This navigates to the page that shows that day's
+    reservations.]{.c5}
+-   [Check-out: This navigates to the page that shows that day's
+    check-outs and check-out billings.]{.c5}
+-   [Travel request: This navigates to the page that shows completed and
+    unassigned travel requests.]{.c5}
+-   [Maintenance request: This navigates to the page that shows open and
+    closed maintenance requests.]{.c5}
+-   [Reservations: This navigates to the page that shows all the
+    reservations.]{.c5}
+-   [Billing: This navigates to the page where we can create or generate
+    a Bill.]{.c5}
+-   [Feedback: This navigates to the page that shows all the
+    feedbacks.]{.c5}
+-   [Logout: This can be used to logout from the current account.]{.c5}
 
-![](images/image20.png)
+[]{.c5}
 
-We tried to insert user input to test on the terminal
+[]{.c5}
 
-![](images/image54.png)
+2.  [Current Guest Dashboard:]{.c30 .c46}
 
-We received an unauthorized error response, and we could not access sensitive information
+[![](images/image71.png){style="width: 601.70px; height: 320.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 320.00px;"}
 
-2.  \`etc/shadow\`
+[        ]{.c5}
 
-![](images/image47.png)
+-   [This current guest dashboard is the home page of the current guest.
+    We can see the options shown above are:]{.c5}
 
-We tried to insert user input to test on the terminal
+```{=html}
+<!-- -->
+```
+-   [Travel request: This navigates to the page where the guest can make
+    a travel request.]{.c5}
+-   [Maintenance request: This navigates to the page where the guest can
+    make a maintenance request.]{.c5}
+-   [Show bills: This navigates to the page that shows all the
+    bills]{.c5}
+-   [Change password: This navigates to the page where the user can
+    change password.]{.c5}
+-   [Logout:  This can be used to logout from the current account.]{.c5}
 
-![](images/image78.png)
+[]{.c5}
 
-We received an unauthorized error response, and we could not access sensitive information
+[]{.c5}
 
- This is another Unix file that contains encrypted password information. It should also not be accessible.
+[]{.c5}
 
-3.  \`var/www/html/index.html\`
+[]{.c5}
 
-This is a common location for the main HTML file of a web server. If you can access this file, it might indicate a path traversal vulnerability.
+[]{.c5}
 
-![](images/image66.png)
+[]{.c5}
 
-We tried to insert user input to test on the terminal
+[]{.c5}
 
-![](images/image67.png)
+[]{.c5}
 
-We received an unauthorized error response, and we could not access sensitive information
+[]{.c5}
 
-4.  4\. \`home/&lt;username&gt;/.ssh/id_rsa\`
+3.  [IITGN Member Dashboard:]{.c30 .c46}
 
-This is the location of the private key for SSH on a Unix system. If you can access this file, it's a serious security vulnerability.
+[        ]{.c36}[![](images/image12.png){style="width: 601.70px; height: 320.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 320.00px;"}
 
-![](images/image40.png)
+[]{.c5}
 
-We tried to insert user input to test on the terminal
+-   [This is the  IITGN member dashboard and we can make a reservation
+    through the above shown option.]{.c5}
+-   [This current guest dashboard is the home page and the user can
+    login with their credentials through the login button shown
+    above.]{.c5}
 
-![](images/image80.png)
+[]{.c5}
 
-We received an unauthorized error response, and we could not access sensitive information
+4.  [Housekeeping Staff Dashboard:]{.c30 .c46}
 
-5.  \`Windows/System32/drivers/etc/hosts\`
+[![](images/image6.png){style="width: 601.70px; height: 320.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 320.00px;"}
 
-This is the location of the hosts file on a Windows system. If you can access this file, it might indicate a path traversal vulnerability.
+[]{.c5}
 
-![](images/image31.png)
+-   [This is the  housekeeping staff dashboard and we can see the
+    assigned requests for housekeeping staff through the above shown
+    option.]{.c5}
+-   [And from the logout option we can logout from the dashboard.]{.c5}
 
-We tried to insert user input to test on the terminal
+[]{.c5}
 
-![](images/image43.png)
+5.  [Driver Dashboard:]{.c5}
 
-We received an unauthorized error response, and we could not access sensitive information
+[![](images/image35.png){style="width: 601.70px; height: 320.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 320.00px;"}
 
-The Flask web framework, has several built-in features that help protect against path traversal attacks:
+[]{.c5}
 
-URL Routing: Flask uses URL routing to map URLs to Python functions (known as routes). When a request is made to a URL, Flask executes the corresponding function and returns the result as a response. This means that the URLs in your application don't directly map to files or directories on your server, which makes path traversal attacks difficult.
+-   [This is the  driver dashboard and we can see the assigned requests
+    for driver through the above shown option. ]{.c5}
+-   [And we can logout through the logout option beside the assigned
+    requests option.]{.c5}
 
-Template Rendering: Flask uses the Jinja2 template engine to render views. When you call render_template, Flask looks for the specified template file in your templates folder, renders it, and returns the result as a response. This process is safe from path traversal attacks because Flask doesn't expose your file system structure to the client.
+[]{.c15}
 
-Form Handling: The request object in Flask provides a secure way to handle form data. When you call “request.form.get”, Flask retrieves the specified form field from the request. This process is safe from path traversal attacks because Flask doesn't use the form data to access files or directories on your server.
+[ ]{.c15}
 
-Database Access: Flask-SQLAlchemy, which you're using to interact with your database, uses SQLAlchemy's ORM (Object-Relational Mapping) to map Python classes to database tables. This means that your database queries don't directly map to files or directories on your server, which makes path traversal attacks difficult.
+[]{.c15}
 
-Configuration: Flask's configuration system allows you to store sensitive information, like your secret key and database URI, in your application's configuration. This information is not exposed to the client, which helps protect against path traversal attacks.
+[]{.c15}
 
- 2\. Relations and their Constraints from feedback relation with ER Diagram in Assignment 1
+[]{.c15}
 
-ER Diagram as In Assignment 1
+[]{.c15}
 
-![](images/image41.png)
+[]{.c15}
 
-Relationships post Second Feedback
+[]{.c15}
 
-1.  Occupancy: current_guest and room
+[]{.c23 .c16}
 
-2.  affiliation: current_guest and iitgn_member
+[]{.c23 .c16}
 
-3.  booking:current_guest and reservation
+[3.2 Responsibility of G2:]{.c6}
 
-4.  assignment:room and reservation
+[]{.c6}
 
-5.  requires_maintainence:room and maintainence_request
+[1. Concurrent multi-user access]{.c15}
 
-6.  manages_maintainence:hospitality_staff and maintaince_request
+[]{.c5}
 
-7.  manages_reservation:hospitality_staff and reservation
+[As you may know, our web app has different logins, so different types
+of users can access our web app and can modify the database
+concurrently. For this, we applied locks for some of our database tables
+so that at a time, only a user can update the information, preventing
+concurrent transactions from interfering with each other.]{.c5}
 
-8.  assigned_to:maintaince_request and housekeeping_staff
+[]{.c5}
 
-9.  incurres_bill:guest and bill
+[For example, guest_travel_request form can be filled by multiple
+users/guests. So, we applied locks using SQLAlchemy's (python SQL
+toolkit, which is used to manage SQL databases using pythonic language)
+support.]{.c5}
 
-10. generates_bill:hospitality_staff and bill
+[]{.c5}
 
-11. travel\_Request: current\_guest and travel_request
+[![](images/image76.png){style="width: 601.70px; height: 444.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 444.00px;"}
 
-12. assigned_driver: travel_request and drivers
+[Code for guest_travel_request page with locking mechanism ]{.c5}
 
-13. manage\_travel\_request: hospitality\_staff and travel\_Request
+[]{.c5}
 
-14. feedback\_history: current\_guest and feedback
+[]{.c5}
 
-Validation with ER Diagram
+[For acquiring locks : ]{.c5}
 
-1.  Occupancy: current_guest and room
+[locked_table = select(travel_request).with_for_update()]{.c23 .c39}
 
-Constraint: The guest is always assigned a room, which may or may not be assigned to a particular guest.
+[The above line creates an SQL statement "select \_ \_ \_ for
+update"\[6\] that selects rows from the database table 'travel_request'
+and acquires a lock on them to prevent any other transaction from being
+modified until an existing transaction finishes.]{.c5}
 
-Validity: This constraint is present and valid as it allows for the relationship between the current guest and the room.
+[]{.c5}
 
-2.  Affiliation: current\_guest and iitgn\_member
+[db.session.commit()]{.c39}[: This line commits the changes made within
+the transaction to the database and releases the lock acquired
+earlier.]{.c5}
 
-Constraint: A current guest must be affiliated with the IITGN member.
+[]{.c5}
 
-Validity: This relationship is present and valid, adhering to the constraint.
+[To implement concurrent multi-user access, locks have been applied to
+the tables like travel_request, guest_travel_request,
+maintenance_request, guest_maintenance_request, reservation &
+bill.]{.c36}
 
-3.  Booking: current_guest and reservation
+[]{.c15}
 
-Constraint: A current guest must have a reservation under their name.
+[2. Google Authentication]{.c15}
 
-Validity: This relationship is present and valid as it allows for multiple reservations per guest.
+[]{.c5}
 
-4.  Assignment: room and reservation
+[Our web app has five different logins, and hospitality_staff
+(administrator) and iitgn_member are the only ones with an iitgn email
+ID. So, we added google authentication for hospitality_staff members and
+iitgn_member.]{.c5}
 
-Constraint: A new room shall be assigned for every single reservation.
+[]{.c5}
 
-Validity: This relationship is present and valid, allowing for multiple reservations to be associated with a room.
+[![](images/image22.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
 
-5.  Requires\_maintenance: room and maintenance\_request
+[]{.c5}
 
-Constraint: A room can require maintenance, and there can be multiple maintenance requests for different rooms.
+[When you click on the \[Google Connect\] button to authenticate →]{.c5}
 
-Validity: This relationship is present and valid, adhering to the constraint.
+[We are redirected to the page below to select the Google account.]{.c5}
 
-6.  Manages\_maintenance: hospitality\_staff and maintenance_request
+[]{.c5}
 
-Constraint: Hospitality staff can manage multiple maintenance requests.
+[![](images/image16.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
 
-Validity: This relationship is present and valid, allowing staff to manage multiple maintenance requests.
+[]{.c5}
 
-7.  Manages\_reservation: hospitality\_staff and reservation
+[After selecting the iitgn account i.e.,
+]{.c36}[[sohamrahatal@iitgn.ac.in](mailto:sohamrahatal@iitgn.ac.in){.c38}]{.c35
+.c17}
 
-Constraint: Hospitality staff can manage multiple reservations.
+[]{.c5}
 
-Validity: This relationship is present and valid, adhering to the constraint.
+[![](images/image50.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
 
-8.  Assigned\_to: maintenance\_request and housekeeping_staff
+[]{.c5}
 
-Constraint: Maintenance requests can be assigned to multiple housekeeping staff members.
+[We are redirected to the iitgn_member dashboard as my email_id/profile
+is present in the iitgn_member database table of our database
+'guesthouse_db'.]{.c5}
 
-Validity: This relationship is present and valid, allowing for multiple staff members to be assigned to maintenance requests.
+[]{.c5}
 
-9.  Incurs_bill: guest and bill
+[If an email_id is related to hospitality_staff, then that account will
+be redirected to the hospitality_staff dashboard of the web app.]{.c5}
 
-Constraint: A guest can incur multiple bills.
+[]{.c5}
 
-Validity: This relationship is present and valid, allowing for multiple bills to be associated with a guest.
+[For the rest logins, like driver, guest, and housekeeping_staff, they
+will have to login through the normal login system of the web app as
+they don't have iitgn email_id.]{.c5}
 
-10. Generates\_bill: hospitality\_staff and bill
+[]{.c5}
 
-Constraint: Hospitality staff can generate multiple bills.
+[]{.c5}
 
-Validity: This relationship is present and valid, adhering to the constraint.
+[]{.c5}
 
-11. Travel\_Request: current\_guest and travel_request
+[]{.c5}
 
-Constraint: A current guest can have multiple travel requests.
+[]{.c5}
 
-Validity: This relationship is present and valid, allowing for multiple travel requests per guest.
+[]{.c5}
 
-12. Assigned\_driver: travel\_request and drivers
+[]{.c5}
 
-Constraint: A travel request must be assigned to a single driver.
+[]{.c5}
 
-Validity: This relationship is present and valid, allowing for drivers to be assigned to a travel request.
+[]{.c5}
 
-13. Manage\_travel\_request: hospitality\_staff and travel\_request
+[]{.c5}
 
-Constraint: Hospitality staff can manage multiple travel requests.
+[]{.c5}
 
-Validity: This relationship is present and valid, adhering to the constraint.
+[]{.c5}
 
-Feedback\_history: current\_guest and feedback
+[]{.c5}
 
-Constraint: A current guest can have multiple feedback entries.
+[]{.c5}
 
-Validity: This relationship is present and valid, allowing for multiple feedback entries per guest.
+[]{.c5}
 
-4\. Contributions:
+[]{.c5}
 
-1.  Gaurav Shah (Group Leader)
+[]{.c5}
 
-* Completed all the changes in the WebApp as mentioned in both feedbacks.
-* Created the final report.
+[]{.c5}
 
-2.  Soham Rahatal
+[]{.c5}
 
-* Added locks for some database tables for concurrent multi-user access
-* Added the Google authentication for the admin and iitgn_member
-* Collected feedback from stakeholders with Gaurav & Pratik
-* Involved in the drafting of the final report.
+[]{.c5}
 
-3.  Pratik Agrawal
+[]{.c5}
 
-* Conducted tests for SQL Injection, XSS, CRSF, & Path Traversal attacks
-* Completed Validity of Relationships after feedback with ER diagram
-* Collected feedback from stakeholders with Gaurav & Soham
-* Involved in the drafting of the final report.
+[]{.c5}
 
-4.  Rohit Srivastava
+[]{.c5}
 
-* NO CONTRIBUTION
+[]{.c5}
 
-5.  Banavath Diraj Naik
+[]{.c5}
 
-* Q2 in Responsibility for G1
+[]{.c5}
 
-6.  Sohitha Sonalika
+[]{.c5}
 
-* Q2 in Responsibility for G1
+[3.3 Responsibility of G1 & G2:]{.c6}
 
-7.  Shivamani
+[]{.c6}
 
-* Q2 in Responsibility for G1
+[1. Attacks on our WebApp]{.c15}
 
-Sub-groups:
+[]{.c15}
 
-G1:  Pratik Agarwal, Rohit Srivastav, Banavath Diraj Naik,Sohitha Sonalika
+1.  [SQL Injection Error Attack:]{.c23 .c34}
 
-G2: Gaurav Shah, Soham Rahatal, Shivamani
+[]{.c0}
 
-References:
+[![](images/image75.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
 
-1.  [https://guesthouse.iitgn.ac.in/booking.php](https://www.google.com/url?q=https://guesthouse.iitgn.ac.in/booking.php&sa=D&source=editors&ust=1713109262050917&usg=AOvVaw3WE7K61gbXe43zCTPT0Clc)
-2.  [https://guesthouse.iitgn.ac.in/accommodation_facility.html](https://www.google.com/url?q=https://guesthouse.iitgn.ac.in/accommodation_facility.html&sa=D&source=editors&ust=1713109262051325&usg=AOvVaw0JSPpzoA3ZWEVm8fi1kcuh)
+[We try the first method, where we try to add an OR condition that is
+always true i.e. 1=1, to modify the SQL query generated through the
+form.]{.c0}
 
-* * *
+[]{.c0}
 
-The End
+[![](images/image68.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
 
-![](images/image3.png)
+[We received an 'Invalid Credentials' message, and we could not hack
+into the system.]{.c0}
+
+[![](images/image38.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried the second method, where we used the symbol "\--" which is
+used to comment in MySQL. It would comment the SQL code after it, such
+that we would be able to hack into the system.]{.c0}
+
+[]{.c0}
+
+[![](images/image65.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We received an 'Invalid Credentials' message, and we could not hack
+into the system.]{.c0}
+
+[]{.c0}
+
+[Our System was able to withstand SQL Injection attacks because it uses
+parameterized queries, specifically through the ORM (Object-Relational
+Mapping) methods provided by the SQLAlchemy library to interact with the
+database.]{.c0}
+
+[]{.c0}
+
+2.  [XSS Attack:]{.c23 .c34}
+
+[]{.c0}
+
+[![](images/image10.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried to attempt an XSS attack at the login page in our website, if
+the attack is successful we would recieve an alert pop-up of
+"XSS_Attack!" on web-page.]{.c0}
+
+[]{.c0}
+
+[![](images/image58.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We received an 'Invalid Credentials' message, and we could not conduct
+a XSS attack on the login page.]{.c0}
+
+[]{.c0}
+
+[![](images/image45.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[Next we tried to test for XSS attack in admin login where in
+Maintenance request form, I entered my own script. Upon sucessfull
+attack, we would recieve an alert pop-up of "XSS_Attack!" on the
+web-page.]{.c0}
+
+[![](images/image14.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[Our attempt to insert script is failed and the maintenance request form
+is submitted with our entered code as plain description text of the
+form. We could not conduct a sucessful XSS attack on the admin
+page.]{.c0}
+
+[]{.c0}
+
+[We could not conduct XSS attacks sucessfully on our system, because
+Flask and its template engine Jinja2 have built-in protections against
+XSS. Flask-WTF provides built-in protection against XSS attacks by
+automatically escaping HTML entities when rendering form fields and
+Jinja2 automatically escapes HTML entities by default when rendering
+templates. Moreover, Modern web browsers like Google Chrome also have
+built-in XSS protection mechanisms that might prevent certain XSS
+attacks from being executed.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+3.  [Cross-Site Request Forgery (CSRF) Attack:]{.c23 .c34}
+
+[]{.c0}
+
+[![](images/image69.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[An external site might access the crsf_token for sensitive user
+information in the website, like changing passwords in the current guest
+account.]{.c0}
+
+[]{.c0}
+
+[![](images/image28.png){style="width: 601.70px; height: 338.99px; margin-left: 0.00px; margin-top: -0.16px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried to test if an external site can request to modify the user
+data without their information on their behalf.]{.c0}
+
+[]{#t.56bc5a93df0bee3f70963a77ea4a22317acb2a61}[]{#t.2}
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [curl -X POST -H \"X-CSRFToken: ImFhNDMxOTViZTU0YTIyNDY3MzIwNTQ1ZDEwMGQ3OTEzMzNlMzExM2Ei.Zhl6zA.j6K_bhpALVkQ42yENQtwS0QHa4I\" -d \"old_password=abcdef\" -d \"new_password=pass123\" -d \"confirm_password=pass123\" http://127.0.0.1:5000/current_guest_dashboard/change_password]{.c30 .c46}
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[]{.c0}
+
+[We executed the above code to try to change the current password of the
+guest ("abcdef") to a new password ("pass123").]{.c0}
+
+[]{.c0}
+
+[![](images/image34.png){style="width: 601.70px; height: 338.99px; margin-left: 0.00px; margin-top: -0.16px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We are unauthorized in changing the password for the user externally,
+and their data is protected.]{.c0}
+
+[]{.c0}
+
+[Flask extensions such as Flask-WTF render a CSRF token that is
+automatically generated and included in the form. This token is unique
+per session and form. Therefore, Flask-WTF automatically adds CSRF
+protection to all forms created with it. ]{.c0}
+
+[]{.c0}
+
+4.  [Path Traversal Attack]{.c23 .c34}
+
+[]{.c0}
+
+[![](images/image73.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We are looking that if a housekeeping staff is able to hack into to the
+system and access sensitive information of current guests and members
+through locally stored files.]{.c0}
+
+[]{.c0}
+
+[![](images/image39.png){style="width: 601.70px; height: 380.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 380.00px;"}
+
+[Code to test for path traversal attack]{.c0}
+
+[]{.c0}
+
+1.  [To test for file traversal attack, we imported the requests
+    library, which is a popular Python library that makes HTTP
+    requests.]{.c0}
+2.  [Setting the target URL: The URL of the web page you\'re testing is
+    defined. In this case, it\'s set to
+    \']{.c47}[[http://127.0.0.1:5000/hospitality_staff_dashboard](https://www.google.com/url?q=http://127.0.0.1:5000/hospitality_staff_dashboard&sa=D&source=editors&ust=1713109262033350&usg=AOvVaw1HwLdBa2o0uyfFAfGKpF7j){.c38}]{.c17
+    .c37}[\'.]{.c0}
+3.  [Defining the payloads (../): A list of payloads to test is defined.
+    These payloads are common path traversal sequences that attempt to
+    move up in the directory structure.]{.c0}
+4.  [Getting user input: The script asks for user input. This input is
+    expected to be the remaining part of the path after the
+    payload]{.c0}
+5.  [Sending the requests and checking the responses: The script then
+    enters a loop where it iterates over each payload. For each payload,
+    it:]{.c0}
+
+```{=html}
+<!-- -->
+```
+1.  [Sends a GET request to the URL with the payload and user input as a
+    parameter.]{.c0}
+2.  [Prints the response.]{.c0}
+3.  [Checks if the response includes sensitive information. If it does,
+    it prints a message indicating that the application is vulnerable to
+    path traversal. If it doesn\'t, it prints a message indicating that
+    the application is not vulnerable to path traversal.]{.c0}
+
+[]{.c0}
+
+1.  [\`etc/passwd\`]{.c0}
+
+[]{.c0}
+
+[This is a Unix file that contains user account information. It should
+not be accessible through a web application.]{.c0}
+
+[![](images/image20.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried to insert user input to test on the terminal]{.c0}
+
+[]{.c0}
+
+[![](images/image54.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We received an unauthorized error response, and we could not access
+sensitive information ]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+2.  [\`etc/shadow\`]{.c0}
+
+[![](images/image47.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried to insert user input to test on the terminal]{.c0}
+
+[]{.c0}
+
+[![](images/image78.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We received an unauthorized error response, and we could not access
+sensitive information ]{.c0}
+
+[ This is another Unix file that contains encrypted password
+information. It should also not be accessible.]{.c0}
+
+[]{.c0}
+
+3.  [\`var/www/html/index.html\` ]{.c0}
+
+[]{.c0}
+
+[This is a common location for the main HTML file of a web server. If
+you can access this file, it might indicate a path traversal
+vulnerability.]{.c0}
+
+[![](images/image66.png){style="width: 601.70px; height: 338.99px; margin-left: 0.00px; margin-top: -0.16px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried to insert user input to test on the terminal]{.c0}
+
+[![](images/image67.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We received an unauthorized error response, and we could not access
+sensitive information ]{.c0}
+
+[]{.c0}
+
+4.  [4. \`home/\<username\>/.ssh/id_rsa\`]{.c0}
+
+[]{.c0}
+
+[This is the location of the private key for SSH on a Unix system. If
+you can access this file, it\'s a serious security vulnerability.]{.c0}
+
+[]{.c0}
+
+[![](images/image40.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried to insert user input to test on the terminal]{.c0}
+
+[]{.c0}
+
+[![](images/image80.png){style="width: 601.70px; height: 338.99px; margin-left: 0.00px; margin-top: -0.16px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We received an unauthorized error response, and we could not access
+sensitive information ]{.c0}
+
+[]{.c0}
+
+5.  [\`Windows/System32/drivers/etc/hosts\`]{.c0}
+
+[ ]{.c0}
+
+[This is the location of the hosts file on a Windows system. If you can
+access this file, it might indicate a path traversal
+vulnerability.]{.c0}
+
+[]{.c0}
+
+[![](images/image31.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We tried to insert user input to test on the terminal]{.c0}
+
+[]{.c0}
+
+[![](images/image43.png){style="width: 601.70px; height: 338.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;"}
+
+[We received an unauthorized error response, and we could not access
+sensitive information ]{.c0}
+
+[]{.c0}
+
+[The Flask web framework, has several built-in features that help
+protect against path traversal attacks:]{.c0}
+
+[]{.c0}
+
+[URL Routing]{.c49}[: Flask uses URL routing to map URLs to Python
+functions (known as routes). When a request is made to a URL, Flask
+executes the corresponding function and returns the result as a
+response. This means that the URLs in your application don\'t directly
+map to files or directories on your server, which makes path traversal
+attacks difficult.]{.c0}
+
+[]{.c0}
+
+[Template Rendering]{.c49}[: Flask uses the Jinja2 template engine to
+render views. When you call render_template, Flask looks for the
+specified template file in your templates folder, renders it, and
+returns the result as a response. This process is safe from path
+traversal attacks because Flask doesn\'t expose your file system
+structure to the client.]{.c0}
+
+[]{.c0}
+
+[Form Handling]{.c49}[: The request object in Flask provides a secure
+way to handle form data. When you call "request.form.get", Flask
+retrieves the specified form field from the request. This process is
+safe from path traversal attacks because Flask doesn\'t use the form
+data to access files or directories on your server.]{.c0}
+
+[]{.c0}
+
+[Database Access: Flask-SQLAlchemy, which you\'re using to interact with
+your database, uses SQLAlchemy\'s ORM (Object-Relational Mapping) to map
+Python classes to database tables. This means that your database queries
+don\'t directly map to files or directories on your server, which makes
+path traversal attacks difficult.]{.c0}
+
+[]{.c0}
+
+[Configuration: Flask\'s configuration system allows you to store
+sensitive information, like your secret key and database URI, in your
+application\'s configuration. This information is not exposed to the
+client, which helps protect against path traversal attacks.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[ 2. Relations and their Constraints from feedback relation with ER
+Diagram in Assignment 1]{.c15}
+
+[]{.c5}
+
+[ER Diagram as In Assignment 1]{.c5}
+
+[]{.c1}
+
+[![](images/image41.png){style="width: 601.70px; height: 564.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: -0.00px -0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 564.00px;"}
+
+[Relationships post Second Feedback]{.c15}
+
+[]{.c15}
+
+[]{#t.109ad29a12228f86704f5bd060f0dde58b8d0ab6}[]{#t.3}
+
++-----------------------------------------------------------------------+
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 1.  [Occupancy: current\_]{.c20}[guest ]{.c27}[and ]{.c16}[room       |
+|     ]{.c9}                                                            |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 2.  [affiliation: current\_]{.c20}[guest ]{.c27}[and                  |
+|     ]{.c16}[iitgn_member]{.c9}                                        |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 3.  [booking:]{.c20}[ current_guest ]{.c27}[and                       |
+|     ]{.c16}[reservation]{.c9}                                         |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 4.  [assignment:]{.c20}[ room ]{.c27}[and ]{.c16}[reservation]{.c9}   |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 5.  [requires_maintainence:]{.c20}[ room ]{.c27}[and                  |
+|     ]{.c16}[maintainence_request]{.c9}                                |
+|                                                                       |
+| []{.c9}                                                               |
+|                                                                       |
+| 6.  [manages_maintainence:]{.c20}[ hospitality_staff ]{.c27}[and      |
+|     ]{.c16}[maintaince_request]{.c9}                                  |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 7.  [manages_reservation:]{.c20}[ hospitality_staff ]{.c27}[and       |
+|     ]{.c16}[reservation]{.c9}                                         |
+|                                                                       |
+| []{.c16 .c23}                                                         |
+|                                                                       |
+| 8.  [assigned_to:]{.c20}[ maintaince_request ]{.c27}[and              |
+|     ]{.c16}[housekeeping_staff]{.c9}                                  |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 9.  [incurres_bill:]{.c20}[ guest ]{.c27}[and ]{.c16}[bill]{.c9}      |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 10. [generates_bill:]{.c20}[ hospitality_staff ]{.c27}[and            |
+|     ]{.c16}[bill]{.c9}                                                |
+|                                                                       |
+| []{.c23 .c16}                                                         |
+|                                                                       |
+| 11. [travel_Request: current\_]{.c20}[guest ]{.c27}[and               |
+|     ]{.c16}[travel_request]{.c9}                                      |
+|                                                                       |
+| []{.c9}                                                               |
+|                                                                       |
+| 12. [assigned_driver: ]{.c20}[travel_request ]{.c27}[and              |
+|     ]{.c16}[drivers]{.c9}                                             |
+|                                                                       |
+| []{.c9}                                                               |
+|                                                                       |
+| 13. [manage_travel_request: hospitality_staff and                     |
+|     travel_Request]{.c9}                                              |
+|                                                                       |
+| []{.c9}                                                               |
+|                                                                       |
+| 14. [feedback_history: current\_]{.c20}[guest ]{.c27}[and             |
+|     ]{.c16}[feedback]{.c9}                                            |
+|                                                                       |
+| []{.c1}                                                               |
++-----------------------------------------------------------------------+
+
+[]{.c1}
+
+[Validation with ER Diagram]{.c15}
+
+[]{.c1}
+
+[]{#t.e769f443bd0b6f1f38b52684d36e0e9a185f5034}[]{#t.4}
+
++-----------------------------------------------------------------------+
+| 1.  [Occupancy: current_guest and room]{.c1}                          |
+|                                                                       |
+| [Constraint: The guest is always assigned a room, which may or may    |
+| not be assigned to a particular guest.]{.c1}                          |
+|                                                                       |
+| [Validity: This constraint is present and valid as it allows for the  |
+| relationship between the current guest and the room.]{.c1}            |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 2.  [Affiliation: current_guest and iitgn_member]{.c1}                |
+|                                                                       |
+| [Constraint: A current guest must be affiliated with the IITGN        |
+| member.]{.c1}                                                         |
+|                                                                       |
+| [Validity: This relationship is present and valid, adhering to the    |
+| constraint.]{.c1}                                                     |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 3.  [Booking: current_guest and reservation]{.c1}                     |
+|                                                                       |
+| [Constraint: A current guest must have a reservation under their      |
+| name.]{.c1}                                                           |
+|                                                                       |
+| [Validity: This relationship is present and valid as it allows for    |
+| multiple reservations per guest.]{.c1}                                |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 4.  [Assignment: room and reservation]{.c1}                           |
+|                                                                       |
+| [Constraint: A new room shall be assigned for every single            |
+| reservation.]{.c1}                                                    |
+|                                                                       |
+| [Validity: This relationship is present and valid, allowing for       |
+| multiple reservations to be associated with a room.]{.c1}             |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 5.  [Requires_maintenance: room and maintenance_request]{.c1}         |
+|                                                                       |
+| [Constraint: A room can require maintenance, and there can be         |
+| multiple maintenance requests for different rooms.]{.c1}              |
+|                                                                       |
+| [Validity: This relationship is present and valid, adhering to the    |
+| constraint.]{.c1}                                                     |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 6.  [Manages_maintenance: hospitality_staff and                       |
+|     maintenance_request]{.c1}                                         |
+|                                                                       |
+| [Constraint: Hospitality staff can manage multiple maintenance        |
+| requests.]{.c1}                                                       |
+|                                                                       |
+| [Validity: This relationship is present and valid, allowing staff to  |
+| manage multiple maintenance requests.]{.c1}                           |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 7.  [Manages_reservation: hospitality_staff and reservation]{.c1}     |
+|                                                                       |
+| [Constraint: Hospitality staff can manage multiple                    |
+| reservations.]{.c1}                                                   |
+|                                                                       |
+| [Validity: This relationship is present and valid, adhering to the    |
+| constraint.]{.c1}                                                     |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 8.  [Assigned_to: maintenance_request and housekeeping_staff]{.c1}    |
+|                                                                       |
+| [Constraint: Maintenance requests can be assigned to multiple         |
+| housekeeping staff members.]{.c1}                                     |
+|                                                                       |
+| [Validity: This relationship is present and valid, allowing for       |
+| multiple staff members to be assigned to maintenance requests.]{.c1}  |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 9.  [Incurs_bill: guest and bill]{.c1}                                |
+|                                                                       |
+| [Constraint: A guest can incur multiple bills.]{.c1}                  |
+|                                                                       |
+| [Validity: This relationship is present and valid, allowing for       |
+| multiple bills to be associated with a guest.]{.c1}                   |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 10. [Generates_bill: hospitality_staff and bill]{.c1}                 |
+|                                                                       |
+| [Constraint: Hospitality staff can generate multiple bills.]{.c1}     |
+|                                                                       |
+| [Validity: This relationship is present and valid, adhering to the    |
+| constraint.]{.c1}                                                     |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 11. [Travel_Request: current_guest and travel_request]{.c1}           |
+|                                                                       |
+| [Constraint: A current guest can have multiple travel requests.]{.c1} |
+|                                                                       |
+| [Validity: This relationship is present and valid, allowing for       |
+| multiple travel requests per guest.]{.c1}                             |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 12. [Assigned_driver: travel_request and drivers]{.c1}                |
+|                                                                       |
+| [Constraint: A travel request must be assigned to a single            |
+| driver.]{.c1}                                                         |
+|                                                                       |
+| [Validity: This relationship is present and valid, allowing for       |
+| drivers to be assigned to a travel request.]{.c1}                     |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| 13. [Manage_travel_request: hospitality_staff and                     |
+|     travel_request]{.c1}                                              |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| [Constraint: Hospitality staff can manage multiple travel             |
+| requests.]{.c1}                                                       |
+|                                                                       |
+| [Validity: This relationship is present and valid, adhering to the    |
+| constraint.]{.c1}                                                     |
+|                                                                       |
+| [Feedback_history: current_guest and feedback]{.c1}                   |
+|                                                                       |
+| []{.c1}                                                               |
+|                                                                       |
+| [Constraint: A current guest can have multiple feedback               |
+| entries.]{.c1}                                                        |
+|                                                                       |
+| [Validity: This relationship is present and valid, allowing for       |
+| multiple feedback entries per guest.]{.c1}                            |
+|                                                                       |
+| []{.c1}                                                               |
++-----------------------------------------------------------------------+
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c6}
+
+[]{.c6}
+
+[4. Contributions:]{.c6}
+
+[]{.c23 .c16}
+
+1.  [Gaurav Shah (Group Leader)]{.c49 .c53}
+
+-   [Completed all the changes in the WebApp as mentioned in both
+    feedbacks.]{.c5}
+-   [Created the final report.]{.c5}
+
+[]{.c5}
+
+2.  [Soham Rahatal]{.c49 .c53}
+
+-   [Added locks for some database tables for concurrent multi-user
+    access]{.c5}
+-   [Added the Google authentication for the admin and iitgn_member
+    ]{.c5}
+-   [Collected feedback from stakeholders with Gaurav & Pratik]{.c5}
+-   [Involved in the drafting of the final report.]{.c5}
+
+[]{.c5}
+
+3.  [Pratik Agrawal]{.c49 .c53}
+
+-   [Conducted tests for SQL Injection, XSS, CRSF, & Path Traversal
+    attacks ]{.c5}
+-   [Completed Validity of Relationships after feedback with ER
+    diagram]{.c5}
+-   [Collected feedback from stakeholders with Gaurav & Soham]{.c5}
+-   [Involved in the drafting of the final report.]{.c5}
+
+[]{.c5}
+
+4.  [Rohit Srivastava]{.c15 .c21}
+
+-   [NO CONTRIBUTION]{.c5 .c21}
+
+[]{.c5}
+
+5.  [Banavath Diraj Naik]{.c15 .c21}
+
+-   [Q2 in Responsibility for G1 ]{.c36 .c21}
+
+6.  [Sohitha Sonalika]{.c15 .c21}
+
+-   [Q2 in Responsibility for G1 ]{.c5 .c21}
+
+7.  [Shivamani]{.c15 .c21}
+
+-   [Q2 in Responsibility for G1]{.c5 .c21}
+
+[]{.c23 .c16 .c21}
+
+[Sub-groups:]{.c22}
+
+[]{.c22}
+
+[G1:  Pratik Agarwal, Rohit Srivastav, Banavath Diraj
+Naik,]{.c36}[ ]{.c36 .c21}[Sohitha Sonalika]{.c47 .c21 .c51}
+
+[G2: Gaurav Shah, Soham Rahatal, ]{.c36}[Shivamani]{.c36 .c21}
+
+[]{.c5 .c21}
+
+[]{.c23 .c16}
+
+[References]{.c26}[:]{.c23 .c16}
+
+[]{.c23 .c16}
+
+1.  [[https://guesthouse.iitgn.ac.in/booking.php](https://www.google.com/url?q=https://guesthouse.iitgn.ac.in/booking.php&sa=D&source=editors&ust=1713109262050917&usg=AOvVaw3WE7K61gbXe43zCTPT0Clc){.c38}]{.c16
+    .c17}[ ]{.c23 .c16}
+2.  [[https://guesthouse.iitgn.ac.in/accommodation_facility.html](https://www.google.com/url?q=https://guesthouse.iitgn.ac.in/accommodation_facility.html&sa=D&source=editors&ust=1713109262051325&usg=AOvVaw0JSPpzoA3ZWEVm8fi1kcuh){.c38}]{.c16
+    .c17}
+
+[]{.c16 .c17 .c32}
+
+[]{.c23 .c16}
+
+------------------------------------------------------------------------
+
+[]{.c23 .c16}
+
+[]{.c23 .c16}
+
+[The End ]{.c23 .c16}
+
+[]{.c23 .c16}
+
+[![](images/image3.png){style="width: 51.50px; height: 57.94px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}]{style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 51.50px; height: 57.94px;"}
+
+[]{.c23 .c16}
+
+<div>
+
+[]{.c23 .c29}
+
+</div>
