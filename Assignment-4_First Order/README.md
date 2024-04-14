@@ -1,4 +1,4 @@
-*******Please Refer to the PDF Report************
+******Please Refer to the PDF Report******
 
 IITGN Guest House Management System (GHMS)
 
